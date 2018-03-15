@@ -3193,6 +3193,7 @@ var _jsx = function () { var REACT_ELEMENT_TYPE = typeof Symbol === "function" &
 
 
 /* eslint-disable react/no-danger */
+const version = 0;
 
 var _ref = _jsx('meta', {
   charSet: 'utf-8'
@@ -3221,7 +3222,7 @@ var _ref5 = _jsx('link', {
 
 var _ref6 = _jsx('link', {
   rel: 'stylesheet',
-  href: '/css/main_style.css',
+  href: "/css/main_style.css?v=" + version,
   type: 'text/css',
   media: 'screen'
 });
@@ -3254,108 +3255,114 @@ var _ref11 = _jsx('script', {
 var _ref12 = _jsx('link', {
   rel: 'stylesheet',
   type: 'text/css',
-  charset: 'UTF-8',
-  href: 'https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css'
+  href: "/css/app.css?v=" + version
 });
 
 var _ref13 = _jsx('link', {
   rel: 'stylesheet',
   type: 'text/css',
-  href: 'https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css'
+  charset: 'UTF-8',
+  href: 'https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css'
 });
 
 var _ref14 = _jsx('link', {
+  rel: 'stylesheet',
+  type: 'text/css',
+  href: 'https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css'
+});
+
+var _ref15 = _jsx('link', {
   rel: 'stylesheet',
   type: 'text/css',
   href: 'https://karofi.com/video-js/video-js.css',
   media: 'screen'
 });
 
-var _ref15 = _jsx('link', {
+var _ref16 = _jsx('link', {
   rel: 'stylesheet',
   type: 'text/css',
   href: 'https://karofi.com/fancybox/jquery.fancybox-1.3.4.css',
   media: 'screen'
 });
 
-var _ref16 = _jsx('link', {
+var _ref17 = _jsx('link', {
   rel: 'stylesheet',
   href: 'https://karofi.com/css/mobile.css',
   type: 'text/css',
   media: 'screen'
 });
 
-var _ref17 = _jsx('link', {
+var _ref18 = _jsx('link', {
   rel: 'stylesheet',
   href: 'https://karofi.com/css/menu_style.css',
   type: 'text/css',
   media: 'screen'
 });
 
-var _ref18 = _jsx('script', {
+var _ref19 = _jsx('script', {
   type: 'text/javascript',
   src: 'https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js'
 });
 
-var _ref19 = _jsx('script', {
+var _ref20 = _jsx('script', {
   type: 'text/javascript',
   src: 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/499416/TweenLite.min.js'
 });
 
-var _ref20 = _jsx('script', {
+var _ref21 = _jsx('script', {
   type: 'text/javascript',
   src: 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/499416/EasePack.min.js'
 });
 
-var _ref21 = _jsx('script', {
-  src: '//ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js'
-});
-
 var _ref22 = _jsx('script', {
-  language: 'javascript',
-  type: 'text/javascript',
-  src: '/js/menu_index.js'
+  src: '//ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js'
 });
 
 var _ref23 = _jsx('script', {
   language: 'javascript',
   type: 'text/javascript',
-  src: '/js/jquery.flexslider-min.js'
+  src: '/js/menu_index.js'
 });
 
 var _ref24 = _jsx('script', {
   language: 'javascript',
   type: 'text/javascript',
-  src: '/js/jquery.carouFredSel-5.5.0-packed.js'
+  src: '/js/jquery.flexslider-min.js'
 });
 
 var _ref25 = _jsx('script', {
   language: 'javascript',
   type: 'text/javascript',
-  src: '/js/jquery.hashchange.min.js'
+  src: '/js/jquery.carouFredSel-5.5.0-packed.js'
 });
 
 var _ref26 = _jsx('script', {
   language: 'javascript',
   type: 'text/javascript',
-  src: '/js/jquery.easytabs.min.js'
+  src: '/js/jquery.hashchange.min.js'
 });
 
 var _ref27 = _jsx('script', {
+  language: 'javascript',
   type: 'text/javascript',
-  src: '/js/jquery.flexisel.js'
+  src: '/js/jquery.easytabs.min.js'
 });
 
 var _ref28 = _jsx('script', {
   type: 'text/javascript',
-  src: '/fancybox/jquery.fancybox-1.3.4.pack.js'
+  src: '/js/jquery.flexisel.js'
 });
 
 var _ref29 = _jsx('script', {
+  type: 'text/javascript',
+  src: '/fancybox/jquery.fancybox-1.3.4.pack.js'
+});
+
+var _ref30 = _jsx('script', {
   src: 'https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js'
 });
 
-var _ref30 = _jsx('a', {
+var _ref31 = _jsx('a', {
   href: 'tel:1900633362'
 }, void 0, _jsx('div', {
   className: 'coccoc-alo-phone coccoc-alo-green coccoc-alo-show',
@@ -3376,11 +3383,7 @@ function Html(props) {
   }, void 0, _jsx('head', {}, void 0, _ref, _ref2, _jsx('title', {}, void 0, title), _jsx('meta', {
     name: 'description',
     content: description
-  }), _ref3, _ref4, _ref5, _ref6, _ref7, _ref8, _ref9, _ref10, _ref11, _jsx('link', {
-    rel: 'stylesheet',
-    type: 'text/css',
-    href: "/css/app.css?v=" + v
-  }), _ref12, _ref13, _jsx('style', {
+  }), _ref3, _ref4, _ref5, _ref6, _ref7, _ref8, _ref9, _ref10, _ref11, _ref12, _ref13, _ref14, _jsx('style', {
     dangerouslySetInnerHTML: { __html: css }
   }), _jsx('script', {
     dangerouslySetInnerHTML: { __html: scriptTop }
@@ -3389,13 +3392,13 @@ function Html(props) {
     dangerouslySetInnerHTML: { __html: children }
   }), _jsx('script', {
     dangerouslySetInnerHTML: { __html: `window.App=${__WEBPACK_IMPORTED_MODULE_2_serialize_javascript___default()(app)}` }
-  }), _ref14, _ref15, _ref16, _ref17, _ref18, _ref19, _ref20, _ref21, _ref22, _ref23, _ref24, _ref25, _ref26, _ref27, _ref28, _ref29, _jsx('script', {
+  }), _ref15, _ref16, _ref17, _ref18, _ref19, _ref20, _ref21, _ref22, _ref23, _ref24, _ref25, _ref26, _ref27, _ref28, _ref29, _ref30, _jsx('script', {
     src: scripts[0] + "?v=" + v
   }), _jsx('script', {
     src: scripts[1] + "?v=" + v
   }), _jsx('script', {
     dangerouslySetInnerHTML: { __html: props.scriptBottom }
-  }), _ref30));
+  }), _ref31));
 }
 
 Html.defaultProps = {
