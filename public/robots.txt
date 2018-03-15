@@ -1,0 +1,7 @@
+user-agent: *
+Allow: / 
+Disallow: /cn/
+Disallow: /vi/
+Disallow: /en/
+Disallow: /choose-your-language.html
+Sitemap:http://karofi.com/sitemap.xml
