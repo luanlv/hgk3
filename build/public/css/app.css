@@ -490,10 +490,14 @@ figure {
 
 @media only screen and (max-width: 900px) {
   .textLeft {
-    left: 10%;
-    top: 45%;
-    width: 16vw;
+    left: 5%;
+    width: 18vw;
   }
+
+  .textRight, .textLeft{
+    top: 30%;
+  }
+
   .textHome h1 {
     border: 1px solid #eee;
     border-radius: 5px;
@@ -514,6 +518,9 @@ figure {
   .textLeft {
     left: 5%;
     top: 45%;
+  }
+  .textRight, .textLeft{
+    top: 15%;
   }
   .textHome h1 {
     border: 1px solid #eee;

@@ -147,13 +147,13 @@ class Home extends React.Component {
                 <img src="/otawa.jpg" alt="lamyco2" />
               </div>
               <div className="col-lg-3 col-xs-6">
-                <img src="/otawa.jpg" alt="lamyco2" />
+                <img src="/hokodai.jpg" alt="lamyco2" />
               </div>
               <div className="col-lg-3 col-xs-6">
-                <img src="/otawa.jpg" alt="lamyco2" />
+                <img src="/mokin.jpg" alt="lamyco2" />
               </div>
               <div className="col-lg-3 col-xs-6">
-                <img src="/otawa.jpg" alt="lamyco2" />
+                <img src="/lamyco.jpg" alt="lamyco2" />
               </div>
             </div>
           </div>

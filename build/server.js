@@ -612,7 +612,7 @@ class Layout extends __WEBPACK_IMPORTED_MODULE_0_react___default.a.Component {
       var s1 = document.createElement("script"),
           s0 = document.getElementsByTagName("script")[0];
       s1.async = true;
-      s1.src = 'https://embed.tawk.to/5a9e1c77d7591465c708489b/default';
+      s1.src = 'https://embed.tawk.to/5a95014dd7591465c7080c1b/default';
       s1.charset = 'UTF-8';
       s1.setAttribute('crossorigin', '*');
       s0.parentNode.insertBefore(s1, s0);
@@ -16973,17 +16973,17 @@ var _ref6 = _jsx('div', {
 })), _jsx('div', {
   className: 'col-lg-3 col-xs-6'
 }, void 0, _jsx('img', {
-  src: '/otawa.jpg',
+  src: '/hokodai.jpg',
   alt: 'lamyco2'
 })), _jsx('div', {
   className: 'col-lg-3 col-xs-6'
 }, void 0, _jsx('img', {
-  src: '/otawa.jpg',
+  src: '/mokin.jpg',
   alt: 'lamyco2'
 })), _jsx('div', {
   className: 'col-lg-3 col-xs-6'
 }, void 0, _jsx('img', {
-  src: '/otawa.jpg',
+  src: '/lamyco.jpg',
   alt: 'lamyco2'
 }))));
 
