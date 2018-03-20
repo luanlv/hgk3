@@ -466,12 +466,12 @@ figure {
 
 .textLeft {
   left: 10%;
-  top: 45%;
+  top: 30%;
 }
 
 .textRight {
   right: 10%;
-  top: 45%;
+  top: 30%;
 }
 
 .textHome h1 {
@@ -481,7 +481,7 @@ figure {
   display:block;
   width:100%;
   line-height:1.5;
-  font: 28px 'Concert One', sans-serif;
+  font: 24px 'Concert One', sans-serif;
   text-transform:uppercase;
   position:absolute;
   color: white;
@@ -515,12 +515,15 @@ figure {
 
 
 @media only screen and (max-width: 600px) {
+  .textHome {
+    width: 14vw;
+  }
   .textLeft {
     left: 5%;
-    top: 45%;
+    top: 25%;
   }
   .textRight, .textLeft{
-    top: 15%;
+    top: 25%;
   }
   .textHome h1 {
     border: 1px solid #eee;
@@ -529,11 +532,42 @@ figure {
     display:block;
     width:100%;
     line-height: 1;
+    font: 8px 'Concert One', sans-serif;
+    text-transform:uppercase;
+    position:absolute;
+    color: white;
+    font-size: bold;
+  }
+}
+
+@media only screen and (max-width: 470px) {
+  .textHome {
+    width: 18vw;
+  }
+  .textLeft {
+    left: 0%;
+    top: 15%;
+  }
+  .textRight, .textLeft{
+    top: 15%;
+  }
+  .textHome h1 {
+    border: 1px solid #eee;
+    border-radius: 5px;
+    padding: 1px;
+    display:block;
+    width:100%;
+    line-height: 1;
     font: 10px 'Concert One', sans-serif;
     text-transform:uppercase;
     position:absolute;
     color: white;
     font-size: bold;
+  }
+}
+@media only screen and (max-width: 380px) {
+  .textHome h1 {
+    font: 8px 'Concert One', sans-serif;
   }
 }
 

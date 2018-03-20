@@ -77,14 +77,14 @@ class Home extends React.Component {
             <span className="textHome textLeft" >
               {/*<h2 style={{opacity: 1, color: 'white', textAlign: 'center'}}>OTAWA thương hiệu đến từ Nhật Bản</h2>*/}
               <figure>
-                <h1 className="left" style={{textAlign: 'center'}}>OTAWA <br/> thương hiệu đến từ Nhật Bản</h1>
+                <h1 className="left" style={{textAlign: 'center'}}>OTAWA <br/> Siêu phẩm công nghệ lọc nuớc </h1>
                 {/*<h1 style={{textAlign: 'center'}}>OTAWA <br/> thương hiệu đến từ Nhật Bản</h1>*/}
               </figure>
             </span>
 
             <span className="textHome textRight">
               <figure>
-                <h1 className="right" style={{textAlign: 'center'}}>Siêu phẩm công nghệ lọc nuớc</h1>
+                <h1 className="right" style={{textAlign: 'center'}}>Thương hiệu đến từ Nhật Bản</h1>
                 {/*<h1 style={{textAlign: 'center'}}>OTAWA <br/> thương hiệu đến từ Nhật Bản</h1>*/}
               </figure>
             </span>

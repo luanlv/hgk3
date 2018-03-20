@@ -17191,12 +17191,12 @@ class Home extends __WEBPACK_IMPORTED_MODULE_0_react___default.a.Component {
     }, void 0, _jsx('figure', {}, void 0, _jsx('h1', {
       className: 'left',
       style: { textAlign: 'center' }
-    }, void 0, 'OTAWA ', _ref, ' th\u01B0\u01A1ng hi\u1EC7u \u0111\u1EBFn t\u1EEB Nh\u1EADt B\u1EA3n'))), _jsx('span', {
+    }, void 0, 'OTAWA ', _ref, ' Si\xEAu ph\u1EA9m c\xF4ng ngh\u1EC7 l\u1ECDc nu\u1EDBc '))), _jsx('span', {
       className: 'textHome textRight'
     }, void 0, _jsx('figure', {}, void 0, _jsx('h1', {
       className: 'right',
       style: { textAlign: 'center' }
-    }, void 0, 'Si\xEAu ph\u1EA9m c\xF4ng ngh\u1EC7 l\u1ECDc nu\u1EDBc'))), _jsx('img', {
+    }, void 0, 'Th\u01B0\u01A1ng hi\u1EC7u \u0111\u1EBFn t\u1EEB Nh\u1EADt B\u1EA3n'))), _jsx('img', {
       className: 'animated bounceInLeft',
       src: 'left.png',
       alt: true,
