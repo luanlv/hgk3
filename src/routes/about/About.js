@@ -67,8 +67,6 @@ class About extends React.Component {
             <li><img src="https://karofi.com/img/bullet.png" alt /> <a href="#tam-nhin-va-su-menh-sg4.html" title="Tầm nhìn và Sứ mệnh">Tầm nhìn và Sứ mệnh </a></li>
             <li><img src="https://karofi.com/img/bullet.png" alt /> <a href="#thanh-tich-dat-duoc-sg5.html" title="Thành tích đạt được">Thành tích đạt được</a></li>
             <li><img src="https://karofi.com/img/bullet.png" alt /> <a href="#ban-tin-Hoàng Gia Khánh-cc5"> Bản tin Hoàng Gia Khánh</a></li>
-            <li><img src="https://karofi.com/img/bullet.png" alt /> <a href="#trach-nhiem-xa-hoi-cc25"> Trách nhiệm xã hội</a></li>
-            <li><img src="https://karofi.com/img/bullet.png" alt /> <a href="#bao-chi-noi-ve-Hoàng Gia Khánh-cc6"> Báo chí nói gì về Hoàng Gia Khánh</a></li>
           </ul>
         </div>
       </div>

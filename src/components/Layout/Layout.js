@@ -54,34 +54,9 @@ class Layout extends React.Component {
                     <ul className="clearfix">
                       <li className>
                         <a href="/cua-hang">MÁY LỌC NƯỚC</a>
-                        <ul className="clearfix" >
-                        <li className>
-                          <a href="/sp">Máy lọc nước Hogika</a>
-                        </li>
-                        <li className>
-                          <a href="#">Máy lọc nước Sakamy</a>
-                        </li>
-                        <li className>
-                          <a href="#">Máy lọc nước Pitos</a>
-                        </li>
-                        <li className>
-                          <a href="#">Máy lọc nước Lamyco</a>
-                        </li>
-                        <li className>
-                          <a href="#">Máy lọc nước Otawa</a>
-                        </li>
-                        <li className>
-                          <a href="#">Máy lọc nước Aqua 3+</a>
-                        </li>
-                        </ul>
                       </li>
                       <li className>
-                        <a href="#">PHỤ KIỆN MÁY LỌC NƯỚC</a>
-                        <ul className="clearfix" >
-                          <li className>
-                            <a href="#" />
-                          </li>
-                        </ul>
+                        <a href="/linh-kien">PHỤ KIỆN MÁY LỌC NƯỚC</a>
                       </li>
                     </ul>
                   </li>
