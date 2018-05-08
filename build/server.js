@@ -2228,7 +2228,7 @@ var _jsx = function () { var REACT_ELEMENT_TYPE = typeof Symbol === "function" &
 
 
 
-var _ref = _jsx('div', {
+var _ref = _jsx('div', {}, void 0, _jsx('div', {
   id: 'breadCrumb',
   className: 'clearfix t-breadCrumb'
 }, void 0, _jsx('div', {
@@ -2254,9 +2254,12 @@ var _ref = _jsx('div', {
   itemProp: 'url'
 }, void 0, _jsx('span', {
   itemProp: 'title'
-}, void 0, 'M\xC1Y L\u1ECCC N\u01AF\u1EDAC')))));
-
-var _ref2 = _jsx('div', {
+}, void 0, 'M\xC1Y L\u1ECCC N\u01AF\u1EDAC'))))), _jsx('div', {
+  id: 'content_wrapper',
+  className: 'product_layout main clearfix'
+}, void 0, _jsx('div', {
+  className: 'product_box clearfix'
+}, void 0, _jsx('div', {
   className: 'product_image_wrapper'
 }, void 0, _jsx('div', {
   className: 'product_image'
@@ -2264,40 +2267,28 @@ var _ref2 = _jsx('div', {
   href: '#',
   title: 'M\xE1y l\u1ECDc n\u01B0\u1EDBc uRO 1.0'
 }, void 0, _jsx('img', {
-  src: '/product/hokodai.jpg',
+  src: '/p/mays8.png',
   alt: 'M\xE1y l\u1ECDc n\u01B0\u1EDBc uRO 1.0',
   'data-pin-nopin': 'true'
-}))));
-
-var _ref3 = _jsx('h2', {
+})))), _jsx('div', {
+  className: 'product_info'
+}, void 0, _jsx('h2', {
   className: 'product_title'
 }, void 0, _jsx('a', {
   href: '#',
   title: 'M\xE1y l\u1ECDc n\u01B0\u1EDBc uRO 1.0'
-}, void 0, 'M\xE1y l\u1ECDc n\u01B0\u1EDBc HOKODAI'));
-
-var _ref4 = _jsx('div', {
+}, void 0, 'M\xE1y l\u1ECDc nu\u1EDBc OTAWA')), _jsx('div', {
   className: 'product_model'
-}, void 0, 'Model: 2018');
-
-var _ref5 = _jsx('li', {}, void 0, _jsx('div', {}, void 0, '\u0110i\u1EC7n \xE1p v\xE0o: 220V'));
-
-var _ref6 = _jsx('li', {}, void 0, _jsx('div', {}, void 0, '\u0110i\u1EC7n \xE1p ra: 24V'));
-
-var _ref7 = _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'K\xEDch th\u01B0\u1EDBc: 330 x 440 x 940 (mm)'));
-
-var _ref8 = _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'C\xF4ng su\u1EA5t l\u1ECDc: 10-15L/H'));
-
-var _ref9 = _jsx('strong', {}, void 0, 'X.000.000 VN\u0110');
-
-var _ref10 = _jsx('a', {
+}, void 0, 'Model: OTW S8 XLS'), _jsx('div', {
+  className: 'short_desc'
+}, void 0, _jsx('ul', {}, void 0, _jsx('li', {}, void 0, _jsx('div', {}, void 0, 'K\xEDch thuowcs: 420 x 300 x 1189 (mm)')), _jsx('li', {}, void 0, _jsx('div', {}, void 0, '\u0110i\u1EC7n \xE1p: 220V/50Hz')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, '\u0110i\u1EC7n n\u0103ng ti\xEAu th\u1EE5: 24W')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'C\xF4ng ngh\u1EC7 H\xE0n Qu\u1ED1c')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'C\xF4ng su\u1EA5t: 10L\xEDt/h')))), _jsx('a', {
   rel: 'nofollow',
   href: '#',
   title: 'M\xE1y l\u1ECDc n\u01B0\u1EDBc HOKODAI',
   className: 'readmore'
-}, void 0, 'Xem chi ti\u1EBFt');
-
-var _ref11 = _jsx('div', {
+}, void 0, 'Xem chi ti\u1EBFt'))), _jsx('div', {
+  className: 'product_box clearfix'
+}, void 0, _jsx('div', {
   className: 'product_image_wrapper'
 }, void 0, _jsx('div', {
   className: 'product_image'
@@ -2305,126 +2296,92 @@ var _ref11 = _jsx('div', {
   href: '#',
   title: 'M\xE1y L\u1ECDc N\u01B0\u1EDBc RO Karofi Plus'
 }, void 0, _jsx('img', {
-  src: '/product/otawa.jpg',
+  src: '/p/f12.jpg',
   alt: 'M\xE1y L\u1ECDc N\u01B0\u1EDBc RO Karofi Plus',
   'data-pin-nopin': 'true'
-}))));
-
-var _ref12 = _jsx('h2', {
+})))), _jsx('div', {
+  className: 'product_info'
+}, void 0, _jsx('h2', {
   className: 'product_title'
 }, void 0, _jsx('a', {
   href: '#',
   title: 'M\xE1y L\u1ECDc N\u01B0\u1EDBc RO Karofi Plus'
-}, void 0, 'M\xE1y l\u1ECDc n\u01B0\u1EDBc n\xF3ng l\u1EA1nh OTAWA'));
-
-var _ref13 = _jsx('div', {
+}, void 0, 'M\xE1y l\u1ECDc nu\u1EDBc OTAWA')), _jsx('div', {
   className: 'product_model'
-}, void 0, 'Model: OTW F12 Modern');
-
-var _ref14 = _jsx('li', {}, void 0, _jsx('p', {}, void 0, _jsx('span', {}, void 0, ' ')));
-
-var _ref15 = _jsx('li', {}, void 0, _jsx('p', {}, void 0, _jsx('span', {}, void 0, 'T\xEDch h\u1EE3p thi\u1EBFt b\u1ECB di\u1EC7t khu\u1EA9n NanoSilver')));
-
-var _ref16 = _jsx('li', {}, void 0, _jsx('p', {}, void 0, _jsx('span', {}, void 0, 'B\u1EA3o v\u1EC7 to\xE0n di\u1EC7n 2 trong 1')));
-
-var _ref17 = _jsx('span', {}, void 0, 'Gi\xE1 ni\xEAm y\u1EBFt:\xA0');
-
-var _ref18 = _jsx('a', {
+}, void 0, 'Model: OTW F12 Modern'), _jsx('div', {
+  className: 'short_desc'
+}, void 0, _jsx('ul', {}, void 0, _jsx('li', {}, void 0, _jsx('div', {}, void 0, 'K\xEDch thuowcs: 420 x 300 x 1189 (mm)')), _jsx('li', {}, void 0, _jsx('div', {}, void 0, '\u0110i\u1EC7n \xE1p: 220V/50Hz')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, '\u0110i\u1EC7n n\u0103ng ti\xEAu th\u1EE5: 24W')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'C\xF4ng ngh\u1EC7 H\xE0n Qu\u1ED1c')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'C\xF4ng su\u1EA5t: 10L\xEDt/h')))), _jsx('a', {
   rel: 'nofollow',
   href: '#',
   title: 'M\xE1y L\u1ECDc N\u01B0\u1EDBc RO Karofi Plus',
   className: 'readmore'
-}, void 0, 'Xem chi ti\u1EBFt');
-
-var _ref19 = _jsx('div', {
+}, void 0, 'Xem chi ti\u1EBFt'))), _jsx('div', {
   className: 'clear'
-});
-
-var _ref20 = _jsx('div', {
+}), _jsx('div', {
   className: 'divider'
-});
-
-var _ref21 = _jsx('div', {
+}), _jsx('div', {
+  className: 'product_box clearfix'
+}, void 0, _jsx('div', {
   className: 'product_image_wrapper'
 }, void 0, _jsx('div', {
   className: 'product_image'
 }, void 0, _jsx('a', {
   href: '#',
-  title: 'M\xE1y l\u1ECDc n\u01B0\u1EDBc th\xF4ng minh iRO 2.0, 7 c\u1EA5p'
+  title: 'M\xE1y l\u1ECDc n\u01B0\u1EDBc uRO 1.0'
 }, void 0, _jsx('img', {
-  src: '/product/hokodai2.jpg',
-  alt: 'M\xE1y l\u1ECDc n\u01B0\u1EDBc th\xF4ng minh iRO 2.0, 7 c\u1EA5p',
+  src: '/p/lamyco.jpg',
+  alt: 'M\xE1y l\u1ECDc n\u01B0\u1EDBc uRO 1.0',
   'data-pin-nopin': 'true'
-}))));
-
-var _ref22 = _jsx('h2', {
+})))), _jsx('div', {
+  className: 'product_info'
+}, void 0, _jsx('h2', {
   className: 'product_title'
 }, void 0, _jsx('a', {
   href: '#',
-  title: 'M\xE1y l\u1ECDc n\u01B0\u1EDBc th\xF4ng minh iRO 2.0, 7 c\u1EA5p'
-}, void 0, 'M\xE1y l\u1ECDc n\u01B0\u1EDBc HOKODAI'));
-
-var _ref23 = _jsx('div', {
+  title: 'M\xE1y l\u1ECDc n\u01B0\u1EDBc uRO 1.0'
+}, void 0, 'M\xE1y l\u1ECDc nu\u1EDBc LAMYCO')), _jsx('div', {
   className: 'product_model'
-}, void 0, 'Model: 2018');
-
-var _ref24 = _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'M\xE0n h\xECnh c\u1EA3m \u1EE9ng hi\u1EC3n th\u1ECB TDS'));
-
-var _ref25 = _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'B\u1ED9 vi \u0111i\u1EC1u khi\u1EC3n th\xF4ng minh'));
-
-var _ref26 = _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'M\xE0ng RO Filmtec DOW - USA'));
-
-var _ref27 = _jsx('strong', {}, void 0, '7.360.000 VN\u0110');
-
-var _ref28 = _jsx('a', {
+}, void 0, 'Model: 2018'), _jsx('div', {
+  className: 'short_desc'
+}, void 0, _jsx('ul', {}, void 0, _jsx('li', {}, void 0, _jsx('div', {}, void 0, 'K\xEDch thuowcs: 420 x 300 x 1189 (mm)')), _jsx('li', {}, void 0, _jsx('div', {}, void 0, '\u0110i\u1EC7n \xE1p: 220V/50Hz')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, '\u0110i\u1EC7n n\u0103ng ti\xEAu th\u1EE5: 24W')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'C\xF4ng ngh\u1EC7 H\xE0n Qu\u1ED1c')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'C\xF4ng su\u1EA5t: 10L\xEDt/h')))), _jsx('a', {
   rel: 'nofollow',
   href: '#',
-  title: 'M\xE1y l\u1ECDc n\u01B0\u1EDBc th\xF4ng minh iRO 2.0, 7 c\u1EA5p',
+  title: 'M\xE1y l\u1ECDc n\u01B0\u1EDBc HOKODAI',
   className: 'readmore'
-}, void 0, 'Xem chi ti\u1EBFt');
-
-var _ref29 = _jsx('div', {
+}, void 0, 'Xem chi ti\u1EBFt'))), _jsx('div', {
+  className: 'product_box clearfix'
+}, void 0, _jsx('div', {
   className: 'product_image_wrapper'
 }, void 0, _jsx('div', {
   className: 'product_image'
 }, void 0, _jsx('a', {
   href: '#',
-  title: 'M\xE1y l\u1ECDc n\u01B0\u1EDBc th\xF4ng minh iRO 2.0, 8 c\u1EA5p'
+  title: 'M\xE1y L\u1ECDc N\u01B0\u1EDBc RO Karofi Plus'
 }, void 0, _jsx('img', {
-  src: '/product/otawa.jpg',
-  alt: 'M\xE1y l\u1ECDc n\u01B0\u1EDBc th\xF4ng minh iRO 2.0, 8 c\u1EA5p',
+  src: '/p/hokodai.jpg',
+  alt: 'M\xE1y L\u1ECDc N\u01B0\u1EDBc RO Karofi Plus',
   'data-pin-nopin': 'true'
-}))));
-
-var _ref30 = _jsx('h2', {
+})))), _jsx('div', {
+  className: 'product_info'
+}, void 0, _jsx('h2', {
   className: 'product_title'
 }, void 0, _jsx('a', {
   href: '#',
-  title: 'M\xE1y l\u1ECDc n\u01B0\u1EDBc th\xF4ng minh iRO 2.0, 8 c\u1EA5p'
-}, void 0, 'M\xE1y l\u1ECDc n\u01B0\u1EDBc n\xF3ng l\u1EA1nh OTAWA'));
-
-var _ref31 = _jsx('div', {
+  title: 'M\xE1y L\u1ECDc N\u01B0\u1EDBc RO Karofi Plus'
+}, void 0, 'M\xE1y l\u1ECDc nu\u1EDBc HOKODAI')), _jsx('div', {
   className: 'product_model'
-}, void 0, 'Model: 2018');
-
-var _ref32 = _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'M\xE0n h\xECnh c\u1EA3m \u1EE9ng hi\u1EC3n th\u1ECB TDS'));
-
-var _ref33 = _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'B\u1ED9 vi \u0111i\u1EC1u khi\u1EC3n th\xF4ng minh'));
-
-var _ref34 = _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'M\xE0ng RO Filmtec DOW - USA'));
-
-var _ref35 = _jsx('strong', {}, void 0, '7.660.000 VN\u0110');
-
-var _ref36 = _jsx('a', {
+}, void 0, 'Model: 2018'), _jsx('div', {
+  className: 'short_desc'
+}, void 0, _jsx('ul', {}, void 0, _jsx('li', {}, void 0, _jsx('div', {}, void 0, 'K\xEDch thuowcs: 420 x 300 x 1189 (mm)')), _jsx('li', {}, void 0, _jsx('div', {}, void 0, '\u0110i\u1EC7n \xE1p: 220V/50Hz')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, '\u0110i\u1EC7n n\u0103ng ti\xEAu th\u1EE5: 24W')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'C\xF4ng ngh\u1EC7 H\xE0n Qu\u1ED1c')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'C\xF4ng su\u1EA5t: 10L\xEDt/h')))), _jsx('a', {
   rel: 'nofollow',
   href: '#',
-  title: 'M\xE1y l\u1ECDc n\u01B0\u1EDBc th\xF4ng minh iRO 2.0, 8 c\u1EA5p',
+  title: 'M\xE1y L\u1ECDc N\u01B0\u1EDBc RO Karofi Plus',
   className: 'readmore'
-}, void 0, 'Xem chi ti\u1EBFt');
-
-var _ref37 = _jsx('div', {
+}, void 0, 'Xem chi ti\u1EBFt'))), _jsx('div', {
   className: 'clear'
-});
+}), _jsx('div', {
+  className: 'divider'
+})));
 
 function About(props) {
 
@@ -2438,48 +2395,7 @@ function About(props) {
   //   category = productCategories.find(p => p.slug === this.props.slug)
   // }
 
-  return _jsx('div', {}, void 0, _ref, _jsx('div', {
-    id: 'content_wrapper',
-    className: 'product_layout main clearfix'
-  }, void 0, _jsx('div', {
-    className: 'product_box clearfix'
-  }, void 0, _ref2, _jsx('div', {
-    className: 'product_info'
-  }, void 0, _ref3, _ref4, _jsx('div', {
-    className: 'short_desc'
-  }, void 0, _jsx('ul', {}, void 0, _ref5, _ref6, _ref7, _ref8, _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'Gi\xE1 ni\xEAm y\u1EBFt:', _jsx('span', {
-    style: { color: 'rgb(255, 0, 0)' }
-  }, void 0, '\xA0', _ref9))))), _ref10)), _jsx('div', {
-    className: 'product_box clearfix'
-  }, void 0, _ref11, _jsx('div', {
-    className: 'product_info'
-  }, void 0, _ref12, _ref13, _jsx('div', {
-    className: 'short_desc'
-  }, void 0, _jsx('ul', {}, void 0, _ref14, _ref15, _ref16, _jsx('li', {}, void 0, _jsx('p', {}, void 0, _ref17, _jsx('a', {
-    href: '#'
-  }, void 0, _jsx('span', {
-    style: { color: '#ff0000' }
-  }, void 0, 'Xem th\xEAm')))))), _ref18)), _ref19, _ref20, _jsx('div', {
-    className: 'product_box clearfix'
-  }, void 0, _ref21, _jsx('div', {
-    className: 'product_info'
-  }, void 0, _ref22, _ref23, _jsx('div', {
-    className: 'short_desc'
-  }, void 0, _jsx('ul', {}, void 0, _ref24, _ref25, _ref26, _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'Gi\xE1 ni\xEAm y\u1EBFt:', _jsx('span', {
-    style: { color: '#ff0000' }
-  }, void 0, ' ', _ref27)))), _jsx('p', {
-    style: { textAlign: 'right' }
-  }, void 0, '\xA0')), _ref28)), _jsx('div', {
-    className: 'product_box clearfix'
-  }, void 0, _ref29, _jsx('div', {
-    className: 'product_info'
-  }, void 0, _ref30, _ref31, _jsx('div', {
-    className: 'short_desc'
-  }, void 0, _jsx('ul', {}, void 0, _ref32, _ref33, _ref34, _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'Gi\xE1 ni\xEAm y\u1EBFt: ', _jsx('span', {
-    style: { color: '#ff0000' }
-  }, void 0, _ref35)))), _jsx('p', {
-    style: { textAlign: 'right' }
-  }, void 0, '\xA0')), _ref36)), _ref37));
+  return _ref;
 }
 
 /* harmony default export */ __webpack_exports__["default"] = (About);
@@ -19497,7 +19413,241 @@ var _jsx = function () { var REACT_ELEMENT_TYPE = typeof Symbol === "function" &
 
 
 
-var _ref = _jsx('div', {}, void 0);
+var _ref = _jsx('div', {
+  id: 'breadCrumb',
+  className: 'clearfix t-breadCrumb'
+}, void 0, _jsx('div', {
+  className: 'main clearfix'
+}, void 0, _jsx('div', {
+  className: 'breadItem',
+  itemScope: true,
+  itemType: 'http://data-vocabulary.org/Breadcrumb'
+}, void 0, _jsx('a', {
+  href: '#',
+  itemProp: 'url'
+}, void 0, _jsx('span', {
+  itemProp: 'title'
+}, void 0, 'Trang ch\u1EE7'))), _jsx('div', {
+  className: 'breadItem',
+  itemScope: true,
+  itemType: 'http://data-vocabulary.org/Breadcrumb'
+}, void 0, _jsx('span', {
+  className: 'breadSep'
+}, void 0, '>'), _jsx('a', {
+  href: '#may-loc-nuoc-28',
+  itemProp: 'url'
+}, void 0, _jsx('span', {
+  itemProp: 'title'
+}, void 0, 'M\xC1Y L\u1ECCC N\u01AF\u1EDAC'))), _jsx('div', {
+  className: 'breadItem',
+  itemScope: true,
+  itemType: 'http://data-vocabulary.org/Breadcrumb'
+}, void 0, _jsx('span', {
+  className: 'breadSep'
+}, void 0, '>'), _jsx('a', {
+  href: '#may-loc-nuoc-tieu-chuan-sro-9',
+  itemProp: 'url'
+}, void 0, _jsx('span', {
+  itemProp: 'title'
+}, void 0, 'M\xE1y l\u1ECDc n\u01B0\u1EDBc ti\xEAu chu\u1EA9n sRO'))), _jsx('div', {
+  className: 'breadItem',
+  itemScope: true,
+  itemType: 'http://data-vocabulary.org/Breadcrumb'
+}, void 0, _jsx('span', {
+  className: 'breadSep'
+}, void 0, '>'), _jsx('a', {
+  className: 'current',
+  href: '#may-loc-nuoc-tieu-chuan-sro-9-cap-sp55.html',
+  itemProp: 'url'
+}, void 0, _jsx('span', {
+  itemProp: 'title'
+}, void 0, 'M\xE1y l\u1ECDc n\u01B0\u1EDBc sRO 9 c\u1EA5p KT-KS90')))));
+
+var _ref2 = _jsx('input', {
+  type: 'hidden',
+  name: 'cart_id',
+  defaultValue: 'KT-KS90'
+});
+
+var _ref3 = _jsx('div', {
+  id: 'product_image_wrapper',
+  className: 'floatLeft'
+}, void 0, _jsx('div', {
+  id: 'product_image_large'
+}, void 0, _jsx('a', {
+  rel: 'Phoenix',
+  href: '#images/products/may loc nuoc thong minh sRO 1.1, 9 cap.jpg'
+}, void 0, _jsx('img', {
+  className: 'large_image',
+  src: 'https://karofi.com/images/products/may loc nuoc thong minh sRO 1.1, 9 cap.jpg',
+  alt: 'M\xE1y l\u1ECDc n\u01B0\u1EDBc ti\xEAu chu\u1EA9n sRO 9 c\u1EA5p',
+  title: 'M\xE1y l\u1ECDc n\u01B0\u1EDBc ti\xEAu chu\u1EA9n sRO 9 c\u1EA5p'
+}))));
+
+var _ref4 = _jsx('h1', {}, void 0, 'M\xE1y l\u1ECDc n\u01B0\u1EDBc ti\xEAu chu\u1EA9n sRO 9 c\u1EA5p');
+
+var _ref5 = _jsx('p', {}, void 0, _jsx('strong', {}, void 0, 'B\u1EA3o h\xE0nh:'), ' 24 th\xE1ng \u0111\u1ED1i v\u1EDBi ph\u1EA7n \u0111i\u1EC7n, kh\xF4ng b\u1EA3o h\xE0nh c\xE1c v\u1EADt t\u01B0 ti\xEAu hao trong qu\xE1 tr\xECnh s\u1EED d\u1EE5ng nh\u01B0 l\xF5i l\u1ECDc');
+
+var _ref6 = _jsx('p', {}, void 0, _jsx('strong', {}, void 0, 'Model:'), ' KT-KS90');
+
+var _ref7 = _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'B\u1ED9 vi \u0111i\u1EC1u khi\u1EC3n '));
+
+var _ref8 = _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'M\xE0ng RO Filmtec DOW - USA'));
+
+var _ref9 = _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'C\xF4ng su\u1EA5t: 10L/H'));
+
+var _ref10 = _jsx('strong', {}, void 0, '6.100.000 VN\u0110');
+
+var _ref11 = _jsx('div', {
+  id: 'div-btn-buy-product',
+  className: 'clearfix'
+}, void 0, _jsx('div', {
+  className: 'buy-at-tiki'
+}, void 0, _jsx('a', {
+  href: '#danhthucniemtin/3-ngay-1-sh-va-100-qua-tang-sieu-khuyen-mai-chua-tung-co-tai-karofi/?utm_source=Product%20page&utm_medium=Tet%20campaign&utm_campaign=Button%20sRO',
+  target: '_blank'
+}, void 0, _jsx('div', {
+  className: 'tiki'
+}, void 0, 'KHUY\u1EBEN M\xC3I'), _jsx('span', {}, void 0, '3 ng\xE0y 1 xe SH'))), _jsx('div', {
+  className: 'buy-at-pico'
+}, void 0, _jsx('a', {
+  href: '#he-thong-phan-phoi-5',
+  target: '_blank'
+}, void 0, _jsx('div', {
+  className: 'pico'
+}, void 0, 'H\u1EC6 TH\u1ED0NG PH\xC2N PH\u1ED0I'), _jsx('span', {}, void 0, '6000 \u0111\u1EA1i l\xFD TQ'))));
+
+var _ref12 = _jsx('div', {
+  className: 'clear'
+});
+
+var _ref13 = _jsx('p', {
+  className: 'phone'
+}, void 0, 'HOTLINE: 1900 64 18 (7:30 - 21:00)');
+
+var _ref14 = _jsx('div', {
+  className: 'clear'
+});
+
+var _ref15 = _jsx('ul', {
+  className: 'etabs'
+}, void 0, _jsx('li', {
+  className: 'tab'
+}, void 0, _jsx('a', {
+  href: '#uu-diem-vuot-troi'
+}, void 0, '\u01AFu \u0111i\u1EC3m v\u01B0\u1EE3t tr\u1ED9i')), _jsx('li', {
+  className: 'tab'
+}, void 0, _jsx('a', {
+  href: '#tieu-chuan-chat-luong'
+}, void 0, 'Ti\xEAu chu\u1EA9n ch\u1EA5t l\u01B0\u1EE3ng')), _jsx('li', {
+  className: 'tab'
+}, void 0, _jsx('a', {
+  href: '#thong-so-ky-thuat'
+}, void 0, 'Th\xF4ng s\u1ED1 k\u1EF9 thu\u1EADt')));
+
+var _ref16 = _jsx('a', {
+  href: '#may-loc-nuoc-28'
+}, void 0, 'M\xE1y l\u1ECDc n\u01B0\u1EDBc');
+
+var _ref17 = _jsx('a', {
+  href: 'https://karofi.com'
+}, void 0, 'M\xE1y l\u1ECDc n\u01B0\u1EDBc Karofi');
+
+var _ref18 = _jsx('a', {
+  href: 'karofi.com/danhthucniemtin/3-ngay-1-sh-va-100-qua-tang-sieu-khuyen-mai-chua-tung-co-tai-karofi?utm_source=Product page&utm_medium=Tet campaign&utm_campaign=Inpage-sRO',
+  target: '_blank'
+}, void 0, _jsx('img', {
+  alt: 'Ch\u01B0\u01A1ng tr\xECnh khuy\u1EBFn m\u1EA1i \u0110\xE1nh th\u1EE9c ni\u1EC1m tin',
+  src: '/karofi/images/uploads/images/Trang/Resize%20KV%20Tet-640x360px.png'
+}));
+
+var _ref19 = _jsx('a', {
+  href: '#danhthucniemtin/khuyen-mai/'
+}, void 0, 'Xem ngay');
+
+var _ref20 = _jsx('a', {
+  href: '#co-che-hoat-dong-cua-bo-vi-dieu-khien-trong-may-sro-bv26.html'
+}, void 0, 'B\u1ED9 vi \u0111i\u1EC1u khi\u1EC3n m\xE1y sRO');
+
+var _ref21 = _jsx('img', {
+  alt: true,
+  src: 'https://karofi.com/karofi/images/uploads/images/Karofi%20iRO%202.0/300x256xanh,P20may,P202_0,P207,P20cap.jpg.pagespeed.ic._5JaRLkMZV.webp'
+});
+
+var _ref22 = _jsx('p', {}, void 0);
+
+var _ref23 = _jsx('div', {}, void 0, _jsx('table', {
+  border: 1
+}, void 0, _jsx('tbody', {}, void 0, _jsx('tr', {}, void 0, _jsx('td', {}, void 0, 'T\xEAn Model'), _jsx('td', {}, void 0, 'KSI90 (', _jsx('strong', {}, void 0, 'Kh\xF4ng t\u1EE7: KT-KS90'), ')')), _jsx('tr', {}, void 0, _jsx('td', {}, void 0, 'H\u1EC7 th\u1ED1ng c\u1EA5p l\u1ECDc'), _jsx('td', {}, void 0, '9 c\u1EA5p l\u1ECDc')), _jsx('tr', {}, void 0, _jsx('td', {}, void 0, 'C\xF4ng su\u1EA5t l\u1ECDc'), _jsx('td', {}, void 0, '10 L/H')), _jsx('tr', {}, void 0, _jsx('td', {}, void 0, 'M\xE0ng l\u1ECDc'), _jsx('td', {}, void 0, 'M\xE0ng RO Filmtec\u212250')), _jsx('tr', {}, void 0, _jsx('td', {}, void 0, 'B\xECnh \xE1p'), _jsx('td', {}, void 0, 'Nh\u1EF1a th\xE9p Hybrid si\xEAu b\u1EC1n')), _jsx('tr', {}, void 0, _jsx('td', {}, void 0, 'Van \u0111i\u1EC7n t\u1EEB'), _jsx('td', {}, void 0, 'KSD')), _jsx('tr', {}, void 0, _jsx('td', {}, void 0, 'B\u1ED9 vi \u0111i\u1EC1u khi\u1EC3n'), _jsx('td', {}, void 0, 'C\xF3')), _jsx('tr', {}, void 0, _jsx('td', {}, void 0, 'B\u01A1m'), _jsx('td', {}, void 0, 'Radian')), _jsx('tr', {}, void 0, _jsx('td', {}, void 0, '\u0110i\u1EC7n \xE1p'), _jsx('td', {}, void 0, '220V \u2013 50 Hz')), _jsx('tr', {}, void 0, _jsx('td', {}, void 0, '\u0110i\u1EC7n n\u0103ng ti\xEAu th\u1EE5'), _jsx('td', {}, void 0, '24w/h')), _jsx('tr', {}, void 0, _jsx('td', {}, void 0, 'K\xEDch th\u01B0\u1EDBc c\xF3 t\u1EE7'), _jsx('td', {}, void 0, '850 x 430 x 330 ( mm)')), _jsx('tr', {}, void 0, _jsx('td', {}, void 0, 'Th\u1EDDi gian b\u1EA3o h\xE0nh'), _jsx('td', {}, void 0, '24 th\xE1ng')))));
+
+var _ref24 = _jsx('div', {
+  className: 'block_title clearfix'
+}, void 0, _jsx('h2', {}, void 0, 'S\u1EA3n ph\u1EA9m li\xEAn quan'));
+
+var _ref25 = _jsx('ul', {
+  id: 'carouselPromo'
+}, void 0, _jsx('li', {}, void 0, _jsx('div', {
+  className: 'product_box'
+}, void 0, _jsx('div', {
+  className: 'product_image_wrapper'
+}, void 0, _jsx('div', {
+  className: 'product_image'
+}, void 0, _jsx('a', {
+  href: '#may-loc-nuoc-tieu-chuan-sro-9-cap-sp76.html',
+  title: 'M\xE1y l\u1ECDc n\u01B0\u1EDBc ti\xEAu chu\u1EA9n sRO 9 c\u1EA5p'
+}, void 0, _jsx('img', {
+  src: 'https://karofi.com/images/products/may loc nuoc thong minh sRO 1.1, 7 cap.jpg',
+  alt: 'M\xE1y l\u1ECDc n\u01B0\u1EDBc ti\xEAu chu\u1EA9n sRO 9 c\u1EA5p'
+})))), _jsx('div', {
+  className: 'product_info'
+}, void 0, _jsx('h3', {
+  className: 'product_title'
+}, void 0, _jsx('a', {
+  href: '#may-loc-nuoc-tieu-chuan-sro-9-cap-sp76.html',
+  title: 'M\xE1y l\u1ECDc n\u01B0\u1EDBc ti\xEAu chu\u1EA9n sRO 9 c\u1EA5p'
+}, void 0, 'M\xE1y l\u1ECDc n\u01B0\u1EDBc ti\xEAu chu\u1EA9n sRO 9 c\u1EA5p')), _jsx('p', {}, void 0, 'Model: KT-KS90-A')))), _jsx('li', {}, void 0, _jsx('div', {
+  className: 'product_box'
+}, void 0, _jsx('div', {
+  className: 'product_image_wrapper'
+}, void 0, _jsx('div', {
+  className: 'product_image'
+}, void 0, _jsx('a', {
+  href: '#may-loc-nuoc-tieu-chuan-sro-7-cap-sp8.html',
+  title: 'M\xE1y l\u1ECDc n\u01B0\u1EDBc ti\xEAu chu\u1EA9n sRO 7 c\u1EA5p'
+}, void 0, _jsx('img', {
+  src: 'https://karofi.com/images/products/may loc nuoc thong minh sRO 1.1, 7 cap.jpg',
+  alt: 'M\xE1y l\u1ECDc n\u01B0\u1EDBc ti\xEAu chu\u1EA9n sRO 7 c\u1EA5p'
+})))), _jsx('div', {
+  className: 'product_info'
+}, void 0, _jsx('h3', {
+  className: 'product_title'
+}, void 0, _jsx('a', {
+  href: '#may-loc-nuoc-tieu-chuan-sro-7-cap-sp8.html',
+  title: 'M\xE1y l\u1ECDc n\u01B0\u1EDBc ti\xEAu chu\u1EA9n sRO 7 c\u1EA5p'
+}, void 0, 'M\xE1y l\u1ECDc n\u01B0\u1EDBc ti\xEAu chu\u1EA9n sRO 7 c\u1EA5p')), _jsx('p', {}, void 0, 'Model: KT-KS70')))), _jsx('li', {}, void 0, _jsx('div', {
+  className: 'product_box'
+}, void 0, _jsx('div', {
+  className: 'product_image_wrapper'
+}, void 0, _jsx('div', {
+  className: 'product_image'
+}, void 0, _jsx('a', {
+  href: '#may-loc-nuoc-tieu-chuan-sro-8-cap-sp7.html',
+  title: 'M\xE1y l\u1ECDc n\u01B0\u1EDBc ti\xEAu chu\u1EA9n sRO 8 c\u1EA5p'
+}, void 0, _jsx('img', {
+  src: 'https://karofi.com/images/products/may loc nuoc thong minh sRO 1.1, 7 cap.jpg',
+  alt: 'M\xE1y l\u1ECDc n\u01B0\u1EDBc ti\xEAu chu\u1EA9n sRO 8 c\u1EA5p'
+})))), _jsx('div', {
+  className: 'product_info'
+}, void 0, _jsx('h3', {
+  className: 'product_title'
+}, void 0, _jsx('a', {
+  href: '#may-loc-nuoc-tieu-chuan-sro-8-cap-sp7.html',
+  title: 'M\xE1y l\u1ECDc n\u01B0\u1EDBc ti\xEAu chu\u1EA9n sRO 8 c\u1EA5p'
+}, void 0, 'M\xE1y l\u1ECDc n\u01B0\u1EDBc ti\xEAu chu\u1EA9n sRO 8 c\u1EA5p')), _jsx('p', {}, void 0, 'Model: KT-KS80')))));
+
+var _ref26 = _jsx('div', {
+  className: 'seo-text-product'
+}, void 0);
 
 class NewsDetail extends __WEBPACK_IMPORTED_MODULE_0_react___default.a.Component {
 
@@ -19516,7 +19666,216 @@ class NewsDetail extends __WEBPACK_IMPORTED_MODULE_0_react___default.a.Component
     // const recentNews = this.props.data.recentNews.value
     // const productRelative = this.props.data.productRelative.value
     // const categories = this.props.data.categories.value
-    return _ref;
+    return _jsx('div', {}, void 0, _ref, _jsx('div', {
+      id: 'content_wrapper',
+      className: 'product_layout product_detail_layout main clearfix'
+    }, void 0, _jsx('form', {
+      method: 'post'
+    }, void 0, _ref2, _jsx('div', {
+      id: 'product_detail_wrapper',
+      className: 'clearfix t-product_detail_wrapper'
+    }, void 0, _ref3, _jsx('div', {
+      id: 'product_info',
+      className: 'floatRight'
+    }, void 0, _ref4, _jsx('div', {
+      id: 'info_wrapper',
+      className: 'clearfix'
+    }, void 0, _ref5, _ref6, _jsx('ul', {}, void 0, _ref7, _ref8, _ref9, _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'Gi\xE1 ni\xEAm y\u1EBFt (kh\xF4ng t\u1EE7): ', _jsx('span', {
+      style: { color: '#ff0000' }
+    }, void 0, _ref10)))), _jsx('p', {
+      style: { textAlign: 'right' }
+    }, void 0), '      ', _ref11), _ref12, _ref13), _ref14, _jsx('div', {
+      className: 'clearfix'
+    }, void 0, _jsx('div', {
+      id: 'tab-container',
+      className: 'tab-container'
+    }, void 0, _ref15, _jsx('div', {
+      className: 'panel-container'
+    }, void 0, _jsx('div', {
+      id: 'uu-diem-vuot-troi'
+    }, void 0, _jsx('p', {}, void 0, _jsx('span', {
+      style: { fontSize: 14 }
+    }, void 0, 'M\xE1y l\u1ECDc n\u01B0\u1EDBc ti\xEAu chu\u1EA9n sRO 9 c\u1EA5p th\u01B0\u01A1ng hi\u1EC7u Karofi l\xE0 m\u1ED9t s\u1EA3n ph\u1EA9m m\xE1y l\u1ECDc n\u01B0\u1EDBc ch\u1EA5t l\u01B0\u1EE3ng m\xE0 ng\u01B0\u1EDDi d\xF9ng kh\xF4ng th\u1EC3 b\u1ECF qua. B\xEAn c\u1EA1nh thi\u1EBFt k\u1EBF hi\u1EC7n \u0111\u1EA1i, ph\xF9 h\u1EE3p v\u1EDBi nhi\u1EC1u kh\xF4ng gian s\u1ED1ng, s\u1EA3n ph\u1EA9m c\xF2n \u0111\u01B0\u1EE3c \u0111\u01B0\u1EE3c nhi\u1EC1u ti\xEAu chu\u1EA9n nh\u01B0: ')), _jsx('h2', {}, void 0, _jsx('span', {
+      style: { fontSize: 14 }
+    }, void 0, '1.      \u0110\u1EA1t chu\u1EA9n qu\u1ED1c gia v\u1EC1 n\u01B0\u1EDBc u\u1ED1ng tr\u1EF1c ti\u1EBFp')), _jsx('p', {}, void 0, _jsx('span', {
+      style: { fontSize: 14 }
+    }, void 0, 'V\u01B0\u1EE3t qua quy tr\xECnh ki\u1EC3m tra nghi\xEAm ng\u1EB7t, Vi\u1EC7n SKNN&MT - B\u1ED9 Y T\u1EBF \u0111\xE3 c\u1EA5p ch\u1EE9ng nh\u1EADn QCVN6-1 cho ', _ref16, ' Karofi. \u0110\xE2y l\xE0 Quy chu\u1EA9n qu\u1ED1c gia cao nh\u1EA5t v\u1EC1 n\u01B0\u1EDBc u\u1ED1ng tr\u1EF1c ti\u1EBFp, l\u1EA7n \u0111\u1EA7u ti\xEAn c\u1EA5p cho m\u1ED9t th\u01B0\u01A1ng hi\u1EC7u m\xE1y l\u1ECDc n\u01B0\u1EDBc t\u1EA1i Vi\u1EC7t Nam.')), _jsx('p', {}, void 0, _jsx('span', {
+      style: { fontSize: 14 }
+    }, void 0, 'Ngu\u1ED3n n\u01B0\u1EDBc \u0111\u01B0\u1EE3c c\u1EA5p ch\u1EE9ng nh\u1EADn QCVN6-1 ph\u1EA3i \u0111\u1EA1t quy chu\u1EA9n c\u1EE7a BYT \u0111\u1ED1i v\u1EDBi 21 ch\u1EC9 ti\xEAu h\xF3a l\xFD \u0111\u1ED9c h\u1EA1i nh\u01B0: Asen, Amoni, Ch\xEC, Cyanua, Th\u1EE7y ng\xE2n, \u0110\u1ED3ng, Nitrat... v\xE0 5 ch\u1EC9 ti\xEAu vi sinh: vi khu\u1EA9n E.coli, Coliform, Streptococci feacal, Pseudomonas aeruginosa, B\xE0o t\u1EED vi khu\u1EA9n k\u1ECB kh\xED kh\u1EED sulfit, \u0111\u1EA3m b\u1EA3o an to\xE0n tuy\u1EC7t \u0111\u1ED1i cho s\u1EE9c kh\u1ECFe ng\u01B0\u1EDDi d\xF9ng khi u\u1ED1ng tr\u1EF1c ti\u1EBFp.')), _jsx('p', {
+      style: { textAlign: 'center' }
+    }, void 0, _jsx('span', {
+      style: { fontSize: 14 }
+    }, void 0, _jsx('a', {
+      href: '#dat-qcvn6-1-2010-byt/'
+    }, void 0, _jsx('img', {
+      alt: 'M\xE1y l\u1ECDc n\u01B0\u1EDBc u\u1ED1ng tr\u1EF1c ti\u1EBFp',
+      src: '/karofi/images/uploads/images/QCVN6/QCVN6.png',
+      style: { height: 285, width: 300 },
+      title: 'M\xE1y l\u1ECDc n\u01B0\u1EDBc u\u1ED1ng tr\u1EF1c ti\u1EBFp'
+    })))), _jsx('h2', {}, void 0, _jsx('span', {
+      style: { fontSize: 14 }
+    }, void 0, '2.      C\xF4ng ngh\u1EC7 l\u1ECDc RO')), _jsx('p', {}, void 0, _jsx('span', {
+      style: { fontSize: 14 }
+    }, void 0, 'C\xF4ng ngh\u1EC7 l\u1ECDc RO c\xF3 kh\u1EA3 n\u0103ng lo\u1EA1i b\u1ECF 99,9% Amip, Asen, c\xE1c ion kim lo\u1EA1i n\u1EB7ng, virus, vi khu\u1EA9n v\xE0 c\xE1c t\u1EA1p ch\u1EA5t kh\xE1c cho ngu\u1ED3n n\u01B0\u1EDBc ho\xE0n to\xE0n tinh khi\u1EBFt. ', _ref17, ' s\u1EED d\u1EE5ng m\xE0ng l\u1ECDc RO Filmtec, nh\u1EADp kh\u1EA9u tr\u1EF1c ti\u1EBFp t\u1EEB t\u1EADp \u0111o\xE0n DOW-USA \u0111\u01B0\u1EE3c NSF ch\u1EE9ng nh\u1EADn v\xE0 khuy\xEAn d\xF9ng.')), _jsx('h2', {}, void 0, _jsx('span', {
+      style: { fontSize: 14 }
+    }, void 0, '3.      H\u1EC7 th\u1ED1ng l\u1ECDc 9 c\u1EA5p')), _jsx('p', {}, void 0, _jsx('span', {
+      style: { fontSize: 14 }
+    }, void 0, 'H\u1EC7 th\u1ED1ng l\u1ECDc 9 c\u1EA5p v\u1EDBi c\xE1c l\xF5i 5, 6, 7, 8, 9 c\xF3 ch\u1EE9c n\u0103ng:')), _jsx('p', {}, void 0, _jsx('span', {
+      style: { fontSize: 14 }
+    }, void 0, '-       L\xF5i s\u1ED1 5 - GAC-T33: L\xF5i \u0111\u01B0\u1EE3c c\u1EA5u t\u1EA1o t\u1EEB than ho\u1EA1t t\xEDnh g\xE1o d\u1EEBa, c\xF3 t\xE1c d\u1EE5ng l\xE0m cho n\u01B0\u1EDBc c\xF3 v\u1ECB ngon h\u01A1n, ng\u1ECDt h\u01A1n, ph\xF9 h\u1EE3p v\u1EDBi nhu c\u1EA7u s\u1EED d\u1EE5ng c\u1EE7a m\u1ECDi ng\u01B0\u1EDDi.')), _jsx('p', {}, void 0, _jsx('span', {
+      style: { fontSize: 14 }
+    }, void 0, '-       L\xF5i s\u1ED1 6 - L\xF5i Kho\xE1ng \u0111\xE1: L\xF5i \u0111\u01B0\u1EE3c c\u1EA5u t\u1EA1o t\u1EEB kho\xE1ng \u0111\xE1 t\u1EF1 nhi\xEAn gi\xFAp b\u1ED5 sung kho\xE1ng ch\u1EA5t c\xF3 l\u1EE3i cho c\u01A1 th\u1EC3.')), _jsx('p', {}, void 0, _jsx('span', {
+      style: { fontSize: 14 }
+    }, void 0, '-       L\xF5i s\u1ED1 7 - L\xF5i H\u1ED3ng ngo\u1EA1i xa: ch\u1EE9a c\xE1c h\u1EA1t b\xF3ng g\u1ED1m c\xF3 kh\u1EA3 n\u0103ng h\u1EA5p th\u1EE5 n\u0103ng l\u01B0\u1EE3ng nhi\u1EC7t b\xEAn ngo\xE0i \u0111\u1EC3 ph\xE1t ra c\xE1c tia h\u1ED3ng ngo\u1EA1i xa khi\u1EBFn n\u01B0\u1EDBc \u0111\u01B0\u1EE3c ho\u1EA1t h\xF3a v\xE0 d\u1EC5 h\u1EA5p th\u1EE5 v\xE0o m\xE1u h\u01A1n.')), _jsx('p', {}, void 0, _jsx('span', {
+      style: { fontSize: 14 }
+    }, void 0, '-       L\xF5i s\u1ED1 8: L\xF5i Nano Silver c\xF3 kh\u1EA3 n\u0103ng di\u1EC7t t\u1EDBi 99,99% vi khu\u1EA9n trong n\u01B0\u1EDBc. ')), _jsx('p', {}, void 0, _jsx('span', {
+      style: { fontSize: 14 }
+    }, void 0, '-       \u0110\xE8n UV: \u0110\u01B0\u1EE3c l\u1EAFp \u0111\u1EB7t \u1EDF v\u1ECB tr\xED cu\u1ED1i c\xF9ng trong h\u1EC7 th\u1ED1ng l\u1ECDc n\u01B0\u1EDBc Karofi, \u0111\xE8n UV gi\xFAp ng\u0103n ch\u1EB7n 100% nguy c\u01A1 t\xE1i nhi\u1EC5m khu\u1EA9n c\u1EE7a n\u01B0\u1EDBc trong qu\xE1 tr\xECnh l\u01B0u th\xF4ng trong h\u1EC7 th\u1ED1ng l\u1ECDc.')), _jsx('p', {
+      style: { textAlign: 'center' }
+    }, void 0, _jsx('span', {
+      style: { fontSize: 14 }
+    }, void 0, _ref18)), _jsx('h3', {
+      style: { textAlign: 'center' }
+    }, void 0, _jsx('span', {
+      style: { color: '#ff0000' }
+    }, void 0, _jsx('span', {
+      style: { fontSize: 14 }
+    }, void 0, 'KHUY\u1EBEN M\xC3I 100% qu\xE0 t\u1EB7ng khi mua m\xE1y l\u1ECDc n\u01B0\u1EDBc Karofi & '))), _jsx('h3', {
+      style: { textAlign: 'center' }
+    }, void 0, _jsx('span', {
+      style: { fontSize: 14 }
+    }, void 0, _jsx('span', {
+      style: { color: '#ff0000' }
+    }, void 0, 'c\u01A1 h\u1ED9i nh\u1EADn "3 NG\xC0Y 1 SH" d\xE0nh cho kh\xE1ch h\xE0ng may m\u1EAFn'), ' ', _jsx('span', {
+      style: { color: '#0000ff' }
+    }, void 0, '>> ', _ref19))), _jsx('h2', {}, void 0, _jsx('span', {
+      style: { fontSize: 14 }
+    }, void 0, '4.      T\xEDch h\u1EE3p b\u1ED9 vi \u0111i\u1EC1u khi\u1EC3n')), _jsx('p', {}, void 0, _jsx('span', {
+      style: { fontSize: 14 }
+    }, void 0, '-        T\u1EF1 \u0111\u1ED9ng s\u1EE5c r\u1EEDa m\xE0ng RO: M\u1ED7i l\u1EA7n m\xE1y b\u1EAFt \u0111\u1EA7u th\u1EF1c hi\u1EC7n qu\xE1 tr\xECnh l\u1ECDc, m\xE1y l\u1ECDc n\u01B0\u1EDBc ti\xEAu chu\u1EA9n sRO s\u1EBD t\u1EF1 \u0111\u1ED9ng s\u1EE5c r\u1EEDa m\xE0ng l\u1ECDc RO trong 15s \u0111\u1EA7u ti\xEAn gi\xFAp k\xE9o d\xE0i tu\u1ED5i th\u1ECD c\u1EE7a m\xE0ng RO v\xE0 \u0111\u1EA3m b\u1EA3o hi\u1EC7u su\u1EA5t m\xE0ng l\u1ECDc.')), _jsx('p', {}, void 0, _jsx('span', {
+      style: { fontSize: 14 }
+    }, void 0, '-        B\u1ED9 \u0111i\u1EC1u khi\u1EC3n van \xE1p th\u1EA5p: ng\u01B0\u1EDDi d\xF9ng ch\u1EE7 \u0111\u1ED9ng cho m\xE1y ho\u1EA1t \u0111\u1ED9ng trong tr\u01B0\u1EDDng h\u1EE3p n\u01B0\u1EDBc c\u1EA5p \u0111\u1EA7u v\xE0o y\u1EBFu ho\u1EB7c kh\xF4ng \u1ED5n \u0111\u1ECBnh.')), _jsx('p', {
+      style: { textAlign: 'center' }
+    }, void 0, _jsx('span', {
+      style: { fontSize: 14 }
+    }, void 0, _jsx('a', {
+      href: '/karofi/images/uploads/images/Karofi sRO/sro-tem-moi.png'
+    }, void 0, _jsx('img', {
+      alt: 'M\xE1y l\u1ECDc n\u01B0\u1EDBc sRO',
+      src: '/karofi/images/uploads/images/Karofi%20sRO/sro-tem-moi.png',
+      style: { height: 355, width: 400 },
+      title: 'M\xE1y l\u1ECDc n\u01B0\u1EDBc sRO'
+    })))), _jsx('p', {
+      style: { textAlign: 'center' }
+    }, void 0, _jsx('span', {
+      style: { fontSize: 14 }
+    }, void 0, _ref20)), _jsx('h2', {}, void 0, _jsx('span', {
+      style: { fontSize: 14 }
+    }, void 0, '5.      Ti\u1EBFt ki\u1EC7m chi ph\xED')), _jsx('p', {}, void 0, _jsx('span', {
+      style: { fontSize: 14 }
+    }, void 0, '-        Ti\u1EBFt ki\u1EC7m chi ph\xED thay th\u1EBF l\xF5i l\u1ECDc v\xE0 c\xE1c linh ph\u1EE5 ki\u1EC7n')), _jsx('p', {}, void 0, _jsx('span', {
+      style: { fontSize: 14 }
+    }, void 0, '-        Ti\u1EBFt ki\u1EC7m chi ph\xED s\u1EED d\u1EE5ng: 1 l\xEDt n\u01B0\u1EDBc qua m\xE1y l\u1ECDc sRO Karofi gi\xE1 193\u0111 trong khi \u0111\xF3 b\u1EA1n ph\u1EA3i tr\u1EA3 9000\u0111/l\xEDt n\u1EBFu d\xF9ng n\u01B0\u1EDBc \u0111\xF3ng chai.')), _jsx('p', {}, void 0, _jsx('span', {
+      style: { fontSize: 14 }
+    }, void 0, '-        Ti\u1EBFt ki\u1EC7m \u0111i\u1EC7n n\u0103ng: van \xE1p cao t\u1EF1 \u0111\u1ED9ng ng\u1EAFt \u0111i\u1EC7n khi n\u01B0\u1EDBc \u0111\u1EA7y tr\xE1nh l\xE3ng ph\xED \u0111i\u1EC7n, ch\u1EC9 ti\xEAu th\u1EE5 kho\u1EA3ng 3 kw/th\xE1ng.')), _jsx('p', {}, void 0, _jsx('span', {
+      style: { fontSize: 14 }
+    }, void 0, '         Xem th\xEAm t\xEDnh kinh t\u1EBF khi s\u1EED d\u1EE5ng m\xE1y l\u1ECDc n\u01B0\u1EDBc Karofi ', _jsx('a', {
+      href: '#su-dung-tiet-kiem-sg23.html'
+    }, void 0, _jsx('span', {
+      style: { color: '#0000ff' }
+    }, void 0, 't\u1EA1i \u0111\xE2y')))), _jsx('h2', {}, void 0, _jsx('span', {
+      style: { fontSize: 14 }
+    }, void 0, '6.      Linh ph\u1EE5 ki\u1EC7n ch\u1EA5t l\u01B0\u1EE3ng cao')), _jsx('p', {}, void 0, _jsx('span', {
+      style: { fontSize: 14 }
+    }, void 0, 'B\xECnh \xE1p nh\u1EF1a th\xE9p Hybrid si\xEAu b\u1EC1n, v\xF2i Karofi c\xF4ng ngh\u1EC7 M\u1EF9, t\u1EE7 IQ sang tr\u1ECDng, van \u0111i\u1EC7n t\u1EEB KSD t\u1EF1 \u0111\u1ED9ng, b\u01A1m h\xFAt Karofi \xEAm \xE1i c\xF3 th\u1EC3 h\xFAt s\xE2u t\u1EDBi 2m\u2026.')), _jsx('h2', {}, void 0, _jsx('span', {
+      style: { fontSize: 14 }
+    }, void 0, '7.      B\u1EA3o h\xE0nh 2 n\u0103m, h\u1ED7 tr\u1EE3 k\u0129 thu\u1EADt 24/7')), _jsx('p', {}, void 0, _jsx('span', {
+      style: { fontSize: 14 }
+    }, void 0, '         Xem th\xEAm \u0111i\u1EC1u kho\u1EA3n b\u1EA3o h\xE0nh ', _jsx('a', {
+      href: '#quy-dinh-bao-hanh-sg34.html'
+    }, void 0, _jsx('span', {
+      style: { color: '#0000ff' }
+    }, void 0, 't\u1EA1i \u0111\xE2y')), _jsx('span', {
+      style: { color: '#0000ff' }
+    }, void 0, ' '))), _jsx('p', {}, void 0, _jsx('span', {
+      style: { fontSize: 14 }
+    }, void 0, _jsx('a', {
+      href: '#may-loc-nuoc-28'
+    }, void 0, _jsx('span', {
+      style: { color: '#0000ff' }
+    }, void 0, 'T\xECm hi\u1EC3u th\xEAm c\xE1c s\u1EA3n ph\u1EA9m m\xE1y l\u1ECDc n\u01B0\u1EDBc Karofi')))), '       '), _jsx('div', {
+      id: 'tieu-chuan-chat-luong'
+    }, void 0, _jsx('p', {}, void 0, _jsx('span', {
+      style: { fontSize: 14 }
+    }, void 0, 'V\u1EDBi qu\xE1 tr\xECnh s\u1EA3n xu\u1EA5t nghi\xEAm ng\u1EB7t, c\xE1c s\u1EA3n ph\u1EA9m Karofi khi \u0111\u01B0\u1EE3c \u0111\u01B0a ra th\u1ECB tr\u01B0\u1EDDng lu\xF4n l\xE0 c\xE1c s\u1EA3n ph\u1EA9m t\u1ED1t nh\u1EA5t. Nh\u1EDD \u0111\xF3, m\xE1y l\u1ECDc n\u01B0\u1EDBc ti\xEAu chu\u1EA9n sRO 9 c\u1EA5p\u0111\xE3 \u0111\u1EA1t nhi\u1EC1u ti\xEAu chu\u1EA9n ch\u1EA5t l\u01B0\u1EE3ng nh\u01B0:')), _jsx('p', {}, void 0, _jsx('span', {
+      style: { fontSize: 14 }
+    }, void 0, '-        ', _jsx('a', {
+      href: 'https://karofi.com',
+      target: '_blank',
+      title: 'M\xE1y l\u1ECDc n\u01B0\u1EDBc'
+    }, void 0, _jsx('span', {
+      style: { color: '#0000ff' }
+    }, void 0, 'M\xE1y l\u1ECDc n\u01B0\u1EDBc')), ' KAROFI \u0111\u01B0\u1EE3c s\u1EA3n xu\u1EA5t theo quy tr\xECnh c\xF4ng ngh\u1EC7 c\u1EA5p ch\u1EE9ng nh\u1EADn ph\xF9 h\u1EE3p ISO 9001:2008.')), _jsx('p', {}, void 0, _jsx('span', {
+      style: { fontSize: 14 }
+    }, void 0, '-       N\u01B0\u1EDBc qua m\xE1y l\u1ECDc n\u01B0\u1EDBc Karofi \u0111\u1EA1t ti\xEAu chu\u1EA9n QCVN 6-1:2010/BYT (Quy chu\u1EA9n k\u1EF9 thu\u1EADt qu\u1ED1c gia v\u1EC1 n\u01B0\u1EDBc kho\xE1ng thi\xEAn nhi\xEAn v\xE0 n\u01B0\u1EDBc u\u1ED1ng \u0111\xF3ng chai). \u0110\xE2y l\xE0 Quy chu\u1EA9n qu\u1ED1c gia cao nh\u1EA5t v\u1EC1 n\u01B0\u1EDBc u\u1ED1ng tr\u1EF1c ti\u1EBFp, l\u1EA7n \u0111\u1EA7u ti\xEAn c\u1EA5p cho m\u1ED9t th\u01B0\u01A1ng hi\u1EC7u m\xE1y l\u1ECDc n\u01B0\u1EDBc t\u1EA1i Vi\u1EC7t Nam.')), _jsx('p', {
+      style: { textAlign: 'center' }
+    }, void 0, _jsx('span', {
+      style: { fontSize: 14 }
+    }, void 0, _jsx('a', {
+      href: '/karofi/images/uploads/images/QCVN6/QCVN6.png'
+    }, void 0, _jsx('img', {
+      alt: 'M\xE1y l\u1ECDc n\u01B0\u1EDBc u\u1ED1ng tr\u1EF1c ti\u1EBFp',
+      src: '/karofi/images/uploads/images/QCVN6/QCVN6.png',
+      style: { height: 285, width: 300 },
+      title: 'M\xE1y l\u1ECDc n\u01B0\u1EDBc u\u1ED1ng tr\u1EF1c ti\u1EBFp'
+    })))), _jsx('p', {}, void 0, _jsx('span', {
+      style: { fontSize: 14 }
+    }, void 0, '-        C\xF3 ngu\u1ED3n g\u1ED1c xu\u1EA5t x\u1EE9 r\xF5 r\xE0ng: s\u1EA3n xu\u1EA5t v\xE0 l\u1EAFp r\xE1p t\u1EA1i c\xF4ng ty c\u1ED5 ph\u1EA7n Karofi Vi\u1EC7t Nam.')), _jsx('p', {}, void 0, _jsx('span', {
+      style: { fontSize: 14 }
+    }, void 0, '-        S\u1EED d\u1EE5ng m\xE0ng l\u1ECDc RO Filmtec, nh\u1EADp kh\u1EA9u tr\u1EF1c ti\u1EBFp t\u1EEB Hoa K\u1EF3.')), _jsx('p', {}, void 0, _jsx('span', {
+      style: { fontSize: 14 }
+    }, void 0, '-        H\u1EC7 th\u1ED1ng tem nh\xE3n s\u1EAFc n\xE9t, c\u1EE5 th\u1EC3, r\xF5 r\xE0ng:')), _jsx('p', {}, void 0, _jsx('span', {
+      style: { fontSize: 14 }
+    }, void 0, '      + Tem ch\u1EE9c n\u0103ng: \u0111\u01B0\u1EE3c d\xE1n tr\xEAn t\u1EEBng l\xF5i, th\u1EC3 hi\u1EC7n r\xF5 r\xE0ng v\u1EADt li\u1EC7u c\u1EA5u t\u1EA1o, t\xE1c d\u1EE5ng v\xE0 th\u1EDDi h\u1EA1n s\u1EED d\u1EE5ng c\u1EE7a c\xE1c b\u1ED9 ph\u1EADn nh\u01B0: l\xF5i s\u1ED1 1, 2, 3, b\u01A1m, b\xECnh \xE1p, v\xF2i.')), _jsx('p', {
+      style: { textAlign: 'center' }
+    }, void 0, _jsx('span', {
+      style: { fontSize: 14 }
+    }, void 0, _ref21)), _jsx('p', {}, void 0, _jsx('span', {
+      style: { fontSize: 14 }
+    }, void 0, '     + Tem ph\u1EE5: D\xE1n tr\xEAn s\u1EA3n ph\u1EA9m c\xF3 hotline, website v\xE0 xu\u1EA5t x\u1EE9 s\u1EA3n ph\u1EA9m r\xF5 r\xE0ng gi\xFAp ng\u01B0\u1EDDi mua y\xEAn t\xE2m v\u1EC1 ngu\u1ED3n g\u1ED1c s\u1EA3n ph\u1EA9m.')), _jsx('p', {
+      style: { textAlign: 'center' }
+    }, void 0, _jsx('span', {
+      style: { fontSize: 14 }
+    }, void 0, _jsx('img', {
+      alt: 'Tem ph\u1EE5 m\xE1y l\u1ECDc n\u01B0\u1EDBc ti\xEAu chu\u1EA9n sRO 9 c\u1EA5p Model KS90',
+      src: 'https://karofi.com/karofi/images/uploads/images/Karofi%20sRO/KT-KS90.png',
+      style: { height: 357, width: 400 }
+    }))), _jsx('p', {}, void 0, _jsx('span', {
+      style: { fontSize: 14 }
+    }, void 0, '      + Tem x\xE1c th\u1EF1c s\u1EA3n ph\u1EA9m ch\xEDnh h\xE3ng')), _jsx('p', {
+      style: { textAlign: 'center' }
+    }, void 0, _jsx('span', {
+      style: { fontSize: 14 }
+    }, void 0, _jsx('img', {
+      alt: true,
+      src: '/karofi/images/uploads/images/Nuong/Tem%20SMS%20Karofi%208055.jpg',
+      style: { height: 188, width: 300 }
+    }))), _jsx('p', {}, void 0, _jsx('span', {
+      style: { fontSize: 14 }
+    }, void 0, '-        Bao b\xEC \u0111\u01B0\u1EE3c l\xE0m t\u1EEB v\u1EADt li\u1EC7u th\xE2n thi\u1EC7n v\u1EDBi m\xF4i tr\u01B0\u1EDDng, c\xF3 \u0111\u1ED9 b\u1EC1n v\xE0 kh\u1EA3 n\u0103ng ch\u1ECBu l\u1EF1c k\xE9o, l\u1EF1c n\xE9n v\xE0 nhi\u1EC7t cao gi\xFAp b\u1EA3o v\u1EC7 to\xE0n v\u1EB9n cho s\u1EA3n ph\u1EA9m')), _jsx('p', {}, void 0, _jsx('span', {
+      style: { fontSize: 14 }
+    }, void 0, '-        Gi\u1EA3i th\u01B0\u1EDFng v\u1EC1 ch\u1EA5t l\u01B0\u1EE3ng: "Top 100 s\u1EA3n ph\u1EA9m v\xE0ng 2012", \u201CS\u1EA3n ph\u1EA9m \u0111\u1EA3m b\u1EA3o Ch\u1EA5t  l\u01B0\u1EE3ng 2013\u201D, "Top 100 S\u1EA3n ph\u1EA9m Ch\u1EA5t l\u01B0\u1EE3ng cao", "\u0110\u1ED1i t\xE1c ch\xEDnh th\u1EE9c v\u1EDBi Dow Water & Process Solution". Xem th\xEAm ', _jsx('a', {
+      href: '#thanh-tich-dat-duoc-sg5.html'
+    }, void 0, _jsx('span', {
+      style: { color: '#0000ff' }
+    }, void 0, 't\u1EA1i \u0111\xE2y')))), _ref22, '       '), _jsx('div', {
+      id: 'thong-so-ky-thuat'
+    }, void 0, _ref23, _jsx('p', {}, void 0, _jsx('span', {
+      style: { fontSize: 14 }
+    }, void 0, '* '), 'Gi\xE1 b\xE1n tr\xEAn ch\u01B0a bao g\u1ED3m thu\u1EBF VAT 10%'), '       '))))))), _jsx('div', {
+      id: 'sanphamnoibat',
+      className: 'main'
+    }, void 0, _ref24, _ref25, _ref26));
   }
 }
 

@@ -6,7 +6,7 @@
     "js": "/assets/about.02b878f8.chunk.js"
   },
   "shop": {
-    "js": "/assets/shop.81ad603a.chunk.js"
+    "js": "/assets/shop.7d2887b9.chunk.js"
   },
   "news": {
     "js": "/assets/news.e1c35346.chunk.js"
@@ -21,7 +21,7 @@
     "js": "/assets/cart.499d9cb5.chunk.js"
   },
   "sanpham": {
-    "js": "/assets/sanpham.74b394ab.chunk.js"
+    "js": "/assets/sanpham.8ffaaa42.chunk.js"
   },
   "newsDetail": {
     "js": "/assets/newsDetail.0d18b3ed.chunk.js"
@@ -33,6 +33,6 @@
     "js": "/assets/client.2f09a5a2.js"
   },
   "vendor": {
-    "js": "/assets/vendor.cd1ff525.js"
+    "js": "/assets/vendor.ce529520.js"
   }
 }
