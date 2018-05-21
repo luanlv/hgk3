@@ -114,12 +114,11 @@ class Layout extends React.Component {
                   <li className="dropdown">
                     <a href="#" data-toggle="dropdown"><b>Liên hệ</b> <i className="icon-arrow" /></a>
                     <ul className="dropdown-menu">
-                      <li className="hotline"><a href="tel:0985 340 830">0985 340 830</a></li>
-                      <li className="mail"><a href="mailto:contact@maylocnuocmokin.com">contact@maylocnuocmokin.com</a></li>
+                      <li className="hotline"><a href="tel:0911535999">0911 535 999</a></li>
                     </ul>
                   </li>
                   <li className="dropdown">
-                    <a href="#" data-toggle="dropdown"><b>Hotline: 1900 6333362</b> <i className="icon-arrow" /></a>
+                    <a href="tel:19006333362" data-toggle="dropdown"><b>Hotline: 1900 6333362</b> <i className="icon-arrow" /></a>
                   </li>
                   <li></li>
                 </ul>

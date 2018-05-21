@@ -276,15 +276,11 @@ var _ref6 = _jsx("div", {
 }, void 0, _jsx("li", {
   className: "hotline"
 }, void 0, _jsx("a", {
-  href: "tel:0985 340 830"
-}, void 0, "0985 340 830")), _jsx("li", {
-  className: "mail"
-}, void 0, _jsx("a", {
-  href: "mailto:contact@maylocnuocmokin.com"
-}, void 0, "contact@maylocnuocmokin.com")))), _jsx("li", {
+  href: "tel:0911535999"
+}, void 0, "0911 535 999")))), _jsx("li", {
   className: "dropdown"
 }, void 0, _jsx("a", {
-  href: "#",
+  href: "tel:19006333362",
   "data-toggle": "dropdown"
 }, void 0, _jsx("b", {}, void 0, "Hotline: 1900 6333362"), " ", _jsx("i", {
   className: "icon-arrow"
@@ -2938,7 +2934,7 @@ var _jsx = function () { var REACT_ELEMENT_TYPE = typeof Symbol === "function" &
 
 
 /* eslint-disable react/no-danger */
-const version = 0;
+const version = 1;
 
 var _ref = _jsx('meta', {
   charSet: 'utf-8'

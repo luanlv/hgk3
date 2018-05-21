@@ -1004,3 +1004,9 @@ div.ps-toolbar-play div.ps-toolbar-content
     max-width: 95% !important;
   }
 }
+
+@media screen and (max-width: 980px) {
+  div.callout {
+    font-size: 10px !important;
+  }
+}
