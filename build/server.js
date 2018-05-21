@@ -429,93 +429,37 @@ var _ref18 = _jsx("div", {
   className: "clearfix"
 });
 
-var _ref19 = _jsx("h3", {}, void 0, "V\xEC sao ch\u1ECDn Ho\xE0ng Gia Kh\xE1nh");
+var _ref19 = _jsx("h3", {}, void 0, "Gi\u1EDBi thi\u1EC7u");
 
 var _ref20 = _jsx("ul", {}, void 0, _jsx("li", {}, void 0, _jsx("a", {
-  href: "#tai-sao-chon-sp-karofi-sg18.html"
-}, void 0, "V\xEC sao ch\u1ECDn SP Ho\xE0ng Gia Kh\xE1nh")), _jsx("li", {}, void 0, _jsx("a", {
-  href: "#dat-qcvn6-1-2010-byt/"
-}, void 0, "\u0110\u1EA1t QCVN6-1:2010/BYT")), _jsx("li", {}, void 0, _jsx("a", {
-  href: "#cong-nghe-loc-nuoc-ro-tien-tien-cho-may-loc-nuoc-sg19.html"
-}, void 0, "C\xF4ng ngh\u1EC7 RO ti\xEAn ti\u1EBFn")), _jsx("li", {}, void 0, _jsx("a", {
-  href: "#san-pham-thong-minh-sg20.html"
-}, void 0, "S\u1EA3n ph\u1EA9m th\xF4ng minh")));
-
-var _ref21 = _jsx("h3", {}, void 0, "S\u1EA3n ph\u1EA9m");
-
-var _ref22 = _jsx("ul", {}, void 0, _jsx("li", {}, void 0, _jsx("a", {
-  href: "#may-loc-nuoc-28"
-}, void 0, "M\xE1y l\u1ECDc n\u01B0\u1EDBc")), _jsx("li", {}, void 0, _jsx("a", {
-  href: "#cay-nuoc-nong-lanh-13"
-}, void 0, "C\xE2y n\u01B0\u1EDBc n\xF3ng l\u1EA1nh")), _jsx("li", {}, void 0, _jsx("a", {
-  href: "#thiet-bi-diet-khuan"
-}, void 0, "Thi\u1EBFt b\u1ECB di\u1EC7t khu\u1EA9n")), _jsx("li", {}, void 0, _jsx("a", {
-  href: "#linh-phu-kien-18"
-}, void 0, "Ph\u1EE5 ki\u1EC7n")));
-
-var _ref23 = _jsx("h3", {}, void 0, _jsx("a", {
-  href: "#trang-chuyen-gia"
-}, void 0, "Trang chuy\xEAn gia"));
-
-var _ref24 = _jsx("ul", {}, void 0, _jsx("li", {}, void 0, _jsx("a", {
-  href: "#trang-chuyen-gia/tra-cuu-nguon-nuoc/"
-}, void 0, "Tra c\u1EE9u ngu\u1ED3n n\u01B0\u1EDBc")), _jsx("li", {}, void 0, _jsx("a", {
-  href: "#trang-chuyen-gia/quy-chuan-chat-luong-nuoc/"
-}, void 0, "Quy chu\u1EA9n CL n\u01B0\u1EDBc")), _jsx("li", {}, void 0, _jsx("a", {
-  href: "#trang-chuyen-gia/giai-phap-xu-ly-nuoc/"
-}, void 0, "Gi\u1EA3i ph\xE1p XL n\u01B0\u1EDBc")), _jsx("li", {}, void 0, _jsx("a", {
-  href: "#trang-chuyen-gia/huong-dan-su-dung-xu-ly-su-co/"
-}, void 0, "HD x\u1EED l\xFD s\u1EF1 c\u1ED1")));
-
-var _ref25 = _jsx("h3", {}, void 0, "H\u1ED7 tr\u1EE3");
-
-var _ref26 = _jsx("ul", {}, void 0, _jsx("li", {}, void 0, _jsx("a", {
-  href: "#faq.html"
-}, void 0, "H\u1ECFi \u0111\xE1p")), _jsx("li", {}, void 0, _jsx("a", {
-  href: "#tu-van-su-dung-cc13"
-}, void 0, "T\u01B0 v\u1EA5n s\u1EED d\u1EE5ng")), _jsx("li", {}, void 0, _jsx("a", {
-  href: "#dang-ky-bao-hanh.html"
-}, void 0, "\u0110\u0103ng k\xFD b\u1EA3o h\xE0nh")), _jsx("li", {}, void 0, _jsx("a", {
-  href: "#dang-ky-bao-duong.html"
-}, void 0, "D\u1ECBch v\u1EE5 b\u1EA3o d\u01B0\u1EE1ng")));
-
-var _ref27 = _jsx("h3", {}, void 0, "Gi\u1EDBi thi\u1EC7u");
-
-var _ref28 = _jsx("ul", {}, void 0, _jsx("li", {}, void 0, _jsx("a", {
-  href: "#ve-chung-toi-sg1.html"
+  href: "/gioi-thieu"
 }, void 0, "V\u1EC1 ch\xFAng t\xF4i")), _jsx("li", {}, void 0, _jsx("a", {
-  href: "#ban-tin-karofi-cc5"
-}, void 0, "B\u1EA3n tin Ho\xE0ng Gia Kh\xE1nh")), _jsx("li", {}, void 0, _jsx("a", {
-  href: "#trach-nhiem-xa-hoi-cc25"
-}, void 0, "Tr\xE1ch nhi\u1EC7m x\xE3 h\u1ED9i")), _jsx("li", {}, void 0, _jsx("a", {
-  href: "#bao-chi-noi-ve-karofi-cc6"
-}, void 0, "B\xE1o ch\xED n\xF3i g\xEC v\u1EC1 Ho\xE0ng Gia Kh\xE1nh")));
+  href: "/tin-tuc"
+}, void 0, "B\u1EA3n tin Ho\xE0ng Gia Kh\xE1nh")));
 
-var _ref29 = _jsx("h3", {}, void 0, _jsx("a", {
+var _ref21 = _jsx("h3", {}, void 0, _jsx("a", {
   href: "#tin-tuc-cc3"
 }, void 0, "Tin t\u1EE9c"));
 
-var _ref30 = _jsx("ul", {}, void 0, _jsx("li", {}, void 0, _jsx("a", {
-  href: "#tin-san-pham-cc4"
+var _ref22 = _jsx("ul", {}, void 0, _jsx("li", {}, void 0, _jsx("a", {
+  href: "/tin-tuc"
 }, void 0, "Tin s\u1EA3n ph\u1EA9m")), _jsx("li", {}, void 0, _jsx("a", {
-  href: "#tin-khuyen-mai-cc27"
-}, void 0, "Tin khuy\u1EBFn m\xE3i")), _jsx("li", {}, void 0, _jsx("a", {
-  href: "#tin-tuyen-dung-cc20"
-}, void 0, "Tin tuy\u1EC3n d\u1EE5ng")));
+  href: "/tin-tuc"
+}, void 0, "Tin khuy\u1EBFn m\xE3i")));
 
-var _ref31 = _jsx("h3", {}, void 0, _jsx("a", {
+var _ref23 = _jsx("h3", {}, void 0, _jsx("a", {
   href: "#ban-co-biet-cc16"
 }, void 0, "B\u1EA1n c\xF3 bi\u1EBFt"));
 
-var _ref32 = _jsx("ul", {}, void 0, _jsx("li", {}, void 0, _jsx("a", {
-  href: "#hieu-ve-nuoc-cc17"
+var _ref24 = _jsx("ul", {}, void 0, _jsx("li", {}, void 0, _jsx("a", {
+  href: "/tin-tuc"
 }, void 0, "Hi\u1EC3u v\u1EC1 n\u01B0\u1EDBc")), _jsx("li", {}, void 0, _jsx("a", {
-  href: "#nuoc-va-suc-khoe-cc18"
+  href: "/tin-tuc"
 }, void 0, "N\u01B0\u1EDBc v\xE0 s\u1EE9c kh\u1ECFe")));
 
-var _ref33 = _jsx("h3", {}, void 0, "Li\xEAn h\u1EC7");
+var _ref25 = _jsx("h3", {}, void 0, "Li\xEAn h\u1EC7");
 
-var _ref34 = _jsx("ul", {}, void 0, _jsx("li", {}, void 0, _jsx("span", {}, void 0, _jsx("img", {
+var _ref26 = _jsx("ul", {}, void 0, _jsx("li", {}, void 0, _jsx("span", {}, void 0, _jsx("img", {
   src: "phone.png"
 })), _jsx("span", {}, void 0, "0911 535 999")), _jsx("li", {
   className: "clearfix"
@@ -535,14 +479,14 @@ var _ref34 = _jsx("ul", {}, void 0, _jsx("li", {}, void 0, _jsx("span", {}, void
   src: "plus.png"
 }))));
 
-var _ref35 = _jsx("div", {
+var _ref27 = _jsx("div", {
   id: "goToTop"
 }, void 0, _jsx("i", {
   className: "fa fa-angle-up fa-3x",
   "aria-hidden": "true"
 }));
 
-var _ref36 = _jsx("li", {}, void 0, _jsx("a", {
+var _ref28 = _jsx("li", {}, void 0, _jsx("a", {
   href: "#",
   title: "DMCA.com Protection Status",
   className: "dmca-badge"
@@ -551,9 +495,9 @@ var _ref36 = _jsx("li", {}, void 0, _jsx("a", {
   alt: "DMCA.com Protection Status"
 })), " ");
 
-var _ref37 = _jsx("li", {}, void 0, "B\u1EA3n quy\u1EC1n thu\u1ED9c v\u1EC1 C\xF4ng ty Ho\xE0ng Gia Kh\xE1nh");
+var _ref29 = _jsx("li", {}, void 0, "B\u1EA3n quy\u1EC1n thu\u1ED9c v\u1EC1 C\xF4ng ty Ho\xE0ng Gia Kh\xE1nh");
 
-var _ref38 = _jsx("div", {
+var _ref30 = _jsx("div", {
   className: "footer-mobile"
 }, void 0, _jsx("div", {
   id: "copyright_wrapper"
@@ -663,19 +607,7 @@ class Layout extends __WEBPACK_IMPORTED_MODULE_0_react___default.a.Component {
     }, void 0, _ref23, _ref24), _jsx("div", {
       className: "footer_box",
       style: { paddingLeft: 100 }
-    }, void 0, _ref25, _ref26), _jsx("div", {
-      className: "footer_box",
-      style: { paddingLeft: 22 }
-    }, void 0, _ref27, _ref28), _jsx("div", {
-      className: "footer_box",
-      style: { paddingLeft: 60 }
-    }, void 0, _ref29, _ref30), _jsx("div", {
-      className: "footer_box",
-      style: { paddingLeft: 60 }
-    }, void 0, _ref31, _ref32), _jsx("div", {
-      className: "footer_box",
-      style: { paddingLeft: 100 }
-    }, void 0, _ref33, _ref34)))), _ref35, _jsx("div", {
+    }, void 0, _ref25, _ref26)))), _ref27, _jsx("div", {
       className: "footer-desktop"
     }, void 0, _jsx("div", {
       id: "copyright_wrapper"
@@ -684,7 +616,7 @@ class Layout extends __WEBPACK_IMPORTED_MODULE_0_react___default.a.Component {
       className: "main"
     }, void 0, _jsx("ul", {
       style: { color: 'white' }
-    }, void 0, _ref36, _jsx("li", {}, void 0, _jsx("a", {
+    }, void 0, _ref28, _jsx("li", {}, void 0, _jsx("a", {
       rel: "nofollow",
       href: "#",
       style: { color: 'white' }
@@ -692,7 +624,7 @@ class Layout extends __WEBPACK_IMPORTED_MODULE_0_react___default.a.Component {
       rel: "nofollow",
       href: "#",
       style: { color: 'white' }
-    }, void 0, "Li\xEAn h\u1EC7")), _ref37)))), _ref38);
+    }, void 0, "Li\xEAn h\u1EC7")), _ref29)))), _ref30);
   }
 }
 
@@ -18474,7 +18406,7 @@ function _asyncToGenerator(fn) { return function () { var gen = fn.apply(this, a
 
 
 
-const title = 'Happy green | Tin tức';
+const title = 'Hoàng Gia Khánh | Tin tức';
 
 /* harmony default export */ __webpack_exports__["default"] = ({
 

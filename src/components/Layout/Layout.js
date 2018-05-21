@@ -167,63 +167,24 @@ class Layout extends React.Component {
             <div className="clearfix" />
             <div className="footer-menu-desktop clearfix">
               <div className="footer_box" style={{paddingLeft: 22}}>
-                <h3>Vì sao chọn Hoàng Gia Khánh</h3>
-                <ul>
-                  <li><a href="#tai-sao-chon-sp-karofi-sg18.html">Vì sao chọn SP Hoàng Gia Khánh</a></li>
-                  <li><a href="#dat-qcvn6-1-2010-byt/">Đạt QCVN6-1:2010/BYT</a></li>
-                  <li><a href="#cong-nghe-loc-nuoc-ro-tien-tien-cho-may-loc-nuoc-sg19.html">Công nghệ RO tiên tiến</a></li>
-                  <li><a href="#san-pham-thong-minh-sg20.html">Sản phẩm thông minh</a></li>
-                </ul>
-              </div>
-              <div className="footer_box" style={{paddingLeft: 60}}>
-                <h3>Sản phẩm</h3>
-                <ul>
-                  <li><a href="#may-loc-nuoc-28">Máy lọc nước</a></li>
-                  <li><a href="#cay-nuoc-nong-lanh-13">Cây nước nóng lạnh</a></li>
-                  <li><a href="#thiet-bi-diet-khuan">Thiết bị diệt khuẩn</a></li>
-                  <li><a href="#linh-phu-kien-18">Phụ kiện</a></li>
-                </ul>
-              </div>
-              <div className="footer_box" style={{paddingLeft: 60}}>
-                <h3><a href="#trang-chuyen-gia">Trang chuyên gia</a></h3>
-                <ul>
-                  <li><a href="#trang-chuyen-gia/tra-cuu-nguon-nuoc/">Tra cứu nguồn nước</a></li>
-                  <li><a href="#trang-chuyen-gia/quy-chuan-chat-luong-nuoc/">Quy chuẩn CL nước</a></li>
-                  <li><a href="#trang-chuyen-gia/giai-phap-xu-ly-nuoc/">Giải pháp XL nước</a></li>
-                  <li><a href="#trang-chuyen-gia/huong-dan-su-dung-xu-ly-su-co/">HD xử lý sự cố</a></li>
-                </ul>
-              </div>
-              <div className="footer_box" style={{paddingLeft: 100}}>
-                <h3>Hỗ trợ</h3>
-                <ul>
-                  <li><a href="#faq.html">Hỏi đáp</a></li>
-                  <li><a href="#tu-van-su-dung-cc13">Tư vấn sử dụng</a></li>
-                  <li><a href="#dang-ky-bao-hanh.html">Đăng ký bảo hành</a></li>
-                  <li><a href="#dang-ky-bao-duong.html">Dịch vụ bảo dưỡng</a></li>
-                </ul>
-              </div>
-              <div className="footer_box" style={{paddingLeft: 22}}>
                 <h3>Giới thiệu</h3>
                 <ul>
-                  <li><a href="#ve-chung-toi-sg1.html">Về chúng tôi</a></li>
-                  <li><a href="#ban-tin-karofi-cc5">Bản tin Hoàng Gia Khánh</a></li>
-                  <li><a href="#trach-nhiem-xa-hoi-cc25">Trách nhiệm xã hội</a></li>
-                  <li><a href="#bao-chi-noi-ve-karofi-cc6">Báo chí nói gì về Hoàng Gia Khánh</a></li>
+                  <li><a href="/gioi-thieu">Về chúng tôi</a></li>
+                  <li><a href="/tin-tuc">Bản tin Hoàng Gia Khánh</a></li>
                 </ul>
               </div>
               <div className="footer_box" style={{paddingLeft: 60}}>
                 <h3><a href="#tin-tuc-cc3">Tin tức</a></h3>
                 <ul>
-                  <li><a href="#tin-san-pham-cc4">Tin sản phẩm</a></li>
-                  <li><a href="#tin-khuyen-mai-cc27">Tin khuyến mãi</a></li>
-                  <li><a href="#tin-tuyen-dung-cc20">Tin tuyển dụng</a></li>
+                  <li><a href="/tin-tuc">Tin sản phẩm</a></li>
+                  <li><a href="/tin-tuc">Tin khuyến mãi</a></li>
                 </ul>
               </div>
               <div className="footer_box" style={{paddingLeft: 60}}>
                 <h3><a href="#ban-co-biet-cc16">Bạn có biết</a></h3>
                 <ul>
-                  <li><a href="#hieu-ve-nuoc-cc17">Hiểu về nước</a></li>
-                  <li><a href="#nuoc-va-suc-khoe-cc18">Nước và sức khỏe</a></li>
+                  <li><a href="/tin-tuc">Hiểu về nước</a></li>
+                  <li><a href="/tin-tuc">Nước và sức khỏe</a></li>
                 </ul>
               </div>
               <div className="footer_box" style={{paddingLeft: 100}}>
