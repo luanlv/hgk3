@@ -280,17 +280,19 @@ class Home extends React.Component {
 
             {recentNews.map((el,idx) => {
               return (
-                <div className="col-md-4 col-12 newWr">
+                <div className="col-md-4 col-12 newWr" key={idx}>
                   <div className="tintucWr">
-                    <a href="#jack-lee-khong-chi-la-mot-dau-bep-tai-hoa-ma-con-la-nguoi-truyen-dam-thuc" title={el.title}>
+                    <a href={"/p/" + el.slug} title={el.title}>
                       <img src={el.coverUrl} />
                     </a>
                     <div className="tintuc-desc"
                          style={{background: "#32529d", color: 'white'}}
                     >
-                      <h4
+                      <a href={"/p/" + el.slug}>
+                        <h4
                         style={{color: 'white'}}
                       >{el.title}</h4>
+                      </a>
                       <div className="post-excerpt"
                       >
                         {el.description}

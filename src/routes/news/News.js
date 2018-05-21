@@ -42,23 +42,53 @@ class News extends React.Component {
                 <h1 className="title-news">Tin tức</h1>
               </div>
               {/* slectWrap */}
-              
-              <div>Thông tin đang cập nhập ....</div>  
-              
-            
-              
+
+              <div className="clearfix wrap_content">
+                {news.map((el, idx) => {
+                  return (
+                    <div className="col-md-4 col-sm-6" key={idx}>
+                      <div className="thumbnail new-item">
+                        <a href={"/p/" + el.slug}>
+                          <img src={el.coverUrl}  />
+                        </a>
+                        <div className="caption">
+                          <div className="datetime">
+                            <span className="date">16</span>
+                            <span className="months">Tháng 06</span>
+                          </div>
+                          <div className="caption-content">
+                            <h3>
+                              <a href={"/p/" + el.slug} >{el.title}</a>
+                            </h3>
+                            <p>
+                              {el.description.slice(0, 100)} ...
+                            </p>
+                          </div>
+                          <div className="clearfix" />
+                        </div>
+                      </div>
+                    </div>
+                  )
+                })}
+              </div>
               <div className="clearfix" />
-              <div className="btn-loadmore">
-                <a href="javascript:void(0)" id="load_more">XEM THÊM</a>
-              </div>
-              <div className="paging" style={{display: 'none'}}>
-                <ul>
-                  <li><a href="#tin-tuc-cc3/trang-1">1</a></li><li><a href="#tin-tuc-cc3/trang-2">2</a></li><li><a href="#tin-tuc-cc3/trang-3">3</a></li><li><a href="#tin-tuc-cc3/trang-4">4</a></li><li><a href="#tin-tuc-cc3/trang-5">5</a></li><li><a href="#tin-tuc-cc3/trang-6">6</a></li><li><a href="#tin-tuc-cc3/trang-7">7</a></li><li><a href="#tin-tuc-cc3/trang-8">8</a></li>
-                </ul>
-              </div>
             </div>
             <div className="t-main_sidebar col-md-3">
               <h2>Tin mới nhất</h2>
+              {recentNews.map((el, idx) => {
+                return (
+                  <div className="item_post">
+                    <div className="col-sm-5 rm_paddingr rm_paddingl">
+                      <a href={"/p/" + el.coverUrl}><img src={el.coverUrl} width="100%" /></a>
+                    </div>
+                    <div className="col-sm-7 rm_paddingr">
+                      <h3><a href={"/p/" + el.coverUrl} >{el.title}</a></h3>
+                      <p>06/16/2017</p>
+                    </div>
+                    <div className="clearfix" />
+                  </div>
+                )
+              })}
             </div>
           </div>
         </div>

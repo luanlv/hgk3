@@ -9,7 +9,7 @@
     "js": "/assets/shop.cf734d2c.chunk.js"
   },
   "news": {
-    "js": "/assets/news.e1c35346.chunk.js"
+    "js": "/assets/news.844484bc.chunk.js"
   },
   "contact": {
     "js": "/assets/contact.14d13558.chunk.js"
@@ -24,15 +24,15 @@
     "js": "/assets/sanpham.1a6d6578.chunk.js"
   },
   "newsDetail": {
-    "js": "/assets/newsDetail.c2fe5b3a.chunk.js"
+    "js": "/assets/newsDetail.dedd6a47.chunk.js"
   },
   "linhkien": {
     "js": "/assets/linhkien.1f3c786e.chunk.js"
   },
   "client": {
-    "js": "/assets/client.1ab63e6c.js"
+    "js": "/assets/client.4a95ac24.js"
   },
   "vendor": {
-    "js": "/assets/vendor.8e32eb97.js"
+    "js": "/assets/vendor.fea488bc.js"
   }
 }

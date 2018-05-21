@@ -2139,40 +2139,29 @@ var _ref4 = _jsx('div', {
   className: 'title-news'
 }, void 0, 'Tin t\u1EE9c'));
 
-var _ref5 = _jsx('div', {}, void 0, 'Th\xF4ng tin \u0111ang c\u1EADp nh\u1EADp ....');
+var _ref5 = _jsx('div', {
+  className: 'datetime'
+}, void 0, _jsx('span', {
+  className: 'date'
+}, void 0, '16'), _jsx('span', {
+  className: 'months'
+}, void 0, 'Th\xE1ng 06'));
 
 var _ref6 = _jsx('div', {
   className: 'clearfix'
 });
 
 var _ref7 = _jsx('div', {
-  className: 'btn-loadmore'
-}, void 0, _jsx('a', {
-  href: 'javascript:void(0)',
-  id: 'load_more'
-}, void 0, 'XEM TH\xCAM'));
+  className: 'clearfix'
+});
 
-var _ref8 = _jsx('ul', {}, void 0, _jsx('li', {}, void 0, _jsx('a', {
-  href: '#tin-tuc-cc3/trang-1'
-}, void 0, '1')), _jsx('li', {}, void 0, _jsx('a', {
-  href: '#tin-tuc-cc3/trang-2'
-}, void 0, '2')), _jsx('li', {}, void 0, _jsx('a', {
-  href: '#tin-tuc-cc3/trang-3'
-}, void 0, '3')), _jsx('li', {}, void 0, _jsx('a', {
-  href: '#tin-tuc-cc3/trang-4'
-}, void 0, '4')), _jsx('li', {}, void 0, _jsx('a', {
-  href: '#tin-tuc-cc3/trang-5'
-}, void 0, '5')), _jsx('li', {}, void 0, _jsx('a', {
-  href: '#tin-tuc-cc3/trang-6'
-}, void 0, '6')), _jsx('li', {}, void 0, _jsx('a', {
-  href: '#tin-tuc-cc3/trang-7'
-}, void 0, '7')), _jsx('li', {}, void 0, _jsx('a', {
-  href: '#tin-tuc-cc3/trang-8'
-}, void 0, '8')));
+var _ref8 = _jsx('h2', {}, void 0, 'Tin m\u1EDBi nh\u1EA5t');
 
-var _ref9 = _jsx('div', {
-  className: 't-main_sidebar col-md-3'
-}, void 0, _jsx('h2', {}, void 0, 'Tin m\u1EDBi nh\u1EA5t'));
+var _ref9 = _jsx('p', {}, void 0, '06/16/2017');
+
+var _ref10 = _jsx('div', {
+  className: 'clearfix'
+});
 
 function News(props) {
   let news = props.data.allNews.value;
@@ -2193,10 +2182,42 @@ function News(props) {
   }, void 0, _jsx('div', {
     className: 'col-md-9',
     id: 'content'
-  }, void 0, _ref4, _ref5, _ref6, _ref7, _jsx('div', {
-    className: 'paging',
-    style: { display: 'none' }
-  }, void 0, _ref8)), _ref9)));
+  }, void 0, _ref4, _jsx('div', {
+    className: 'clearfix wrap_content'
+  }, void 0, news.map((el, idx) => {
+    return _jsx('div', {
+      className: 'col-md-4 col-sm-6'
+    }, idx, _jsx('div', {
+      className: 'thumbnail new-item'
+    }, void 0, _jsx('a', {
+      href: "/p/" + el.slug
+    }, void 0, _jsx('img', {
+      src: el.coverUrl
+    })), _jsx('div', {
+      className: 'caption'
+    }, void 0, _ref5, _jsx('div', {
+      className: 'caption-content'
+    }, void 0, _jsx('h3', {}, void 0, _jsx('a', {
+      href: "/p/" + el.slug
+    }, void 0, el.title)), _jsx('p', {}, void 0, el.description.slice(0, 100), ' ...')), _ref6)));
+  })), _ref7), _jsx('div', {
+    className: 't-main_sidebar col-md-3'
+  }, void 0, _ref8, recentNews.map((el, idx) => {
+    return _jsx('div', {
+      className: 'item_post'
+    }, void 0, _jsx('div', {
+      className: 'col-sm-5 rm_paddingr rm_paddingl'
+    }, void 0, _jsx('a', {
+      href: "/p/" + el.coverUrl
+    }, void 0, _jsx('img', {
+      src: el.coverUrl,
+      width: '100%'
+    }))), _jsx('div', {
+      className: 'col-sm-7 rm_paddingr'
+    }, void 0, _jsx('h3', {}, void 0, _jsx('a', {
+      href: "/p/" + el.coverUrl
+    }, void 0, el.title)), _ref9), _ref10);
+  })))));
 }
 //
 // function findCategoryBySlug(slug, categories) {
@@ -17130,19 +17151,21 @@ class Home extends __WEBPACK_IMPORTED_MODULE_0_react___default.a.Component {
     }, void 0, recentNews.map((el, idx) => {
       return _jsx('div', {
         className: 'col-md-4 col-12 newWr'
-      }, void 0, _jsx('div', {
+      }, idx, _jsx('div', {
         className: 'tintucWr'
       }, void 0, _jsx('a', {
-        href: '#jack-lee-khong-chi-la-mot-dau-bep-tai-hoa-ma-con-la-nguoi-truyen-dam-thuc',
+        href: "/p/" + el.slug,
         title: el.title
       }, void 0, _jsx('img', {
         src: el.coverUrl
       })), _jsx('div', {
         className: 'tintuc-desc',
         style: { background: "#32529d", color: 'white' }
+      }, void 0, _jsx('a', {
+        href: "/p/" + el.slug
       }, void 0, _jsx('h4', {
         style: { color: 'white' }
-      }, void 0, el.title), _jsx('div', {
+      }, void 0, el.title)), _jsx('div', {
         className: 'post-excerpt'
       }, void 0, el.description))));
     }))));
@@ -18593,123 +18616,13 @@ var _jsx = function () { var REACT_ELEMENT_TYPE = typeof Symbol === "function" &
 
 
 
-var _ref = _jsx('i', {
-  className: 'icons fa fa-calendar-o'
-}, void 0, ' ');
+var _ref = _jsx('h2', {}, void 0, 'Tin m\u1EDBi nh\u1EA5t');
 
-var _ref2 = _jsx('div', {
-  className: 'col-1'
-}, void 0, _jsx('div', {
-  className: 'search-widget widget'
-}, void 0, _jsx('form', {}, void 0, _jsx('div', {
-  className: 'input-group search-wrapper'
-}, void 0, _jsx('input', {
-  type: 'text',
-  placeholder: 'Search...',
-  className: 'search-input form-control'
-}), _jsx('span', {
-  className: 'input-group-btn'
-}, void 0, _jsx('button', {
-  type: 'submit',
-  className: 'btn submit-btn'
-}, void 0, _jsx('span', {
-  className: 'fa fa-search'
-})))))));
+var _ref2 = _jsx('p', {}, void 0, '12/17/2015');
 
 var _ref3 = _jsx('div', {
-  className: 'title-widget'
-}, void 0, 'B\xE0i vi\u1EBFt m\u1EDBi');
-
-var _ref4 = _jsx('div', {
-  className: 'title-widget'
-}, void 0, 'Danh m\u1EE5c');
-
-var _ref5 = _jsx('div', {
-  className: 'col-2'
-}, void 0, _jsx('div', {
-  className: 'gallery-widget widget'
-}, void 0, _jsx('div', {
-  className: 'title-widget'
-}, void 0, 'from gallery'), _jsx('div', {
-  className: 'content-widget'
-}, void 0, _jsx('ul', {
-  className: 'list-unstyled list-inline'
-}, void 0, _jsx('li', {}, void 0, _jsx('a', {
-  href: '/assets/images/news/image-5.jpg',
-  'data-fancybox-group': 'gallery',
-  className: 'thumb fancybox'
-}, void 0, _jsx('img', {
-  src: '/assets/images/news/image-5.jpg',
-  alt: 'gallery image 1',
-  className: 'img-responsive'
-}))), _jsx('li', {}, void 0, _jsx('a', {
-  href: '/assets/images/news/image-2.jpg',
-  'data-fancybox-group': 'gallery',
-  className: 'thumb fancybox'
-}, void 0, _jsx('img', {
-  src: '/assets/images/news/image-2.jpg',
-  alt: 'gallery image 2',
-  className: 'img-responsive'
-}))), _jsx('li', {}, void 0, _jsx('a', {
-  href: '/assets/images/news/image-7.jpg',
-  'data-fancybox-group': 'gallery',
-  className: 'thumb fancybox'
-}, void 0, _jsx('img', {
-  src: '/assets/images/news/image-7.jpg',
-  alt: 'gallery image 3',
-  className: 'img-responsive'
-}))), _jsx('li', {}, void 0, _jsx('a', {
-  href: '/assets/images/news/image-8.jpg',
-  'data-fancybox-group': 'gallery',
-  className: 'thumb fancybox'
-}, void 0, _jsx('img', {
-  src: '/assets/images/news/image-8.jpg',
-  alt: 'gallery image 4',
-  className: 'img-responsive'
-}))), _jsx('li', {}, void 0, _jsx('a', {
-  href: '/assets/images/news/image-6.jpg',
-  'data-fancybox-group': 'gallery',
-  className: 'thumb fancybox'
-}, void 0, _jsx('img', {
-  src: '/assets/images/news/image-6.jpg',
-  alt: 'gallery image 5',
-  className: 'img-responsive'
-}))), _jsx('li', {}, void 0, _jsx('a', {
-  href: '/assets/images/news/image-9.jpg',
-  'data-fancybox-group': 'gallery',
-  className: 'thumb fancybox'
-}, void 0, _jsx('img', {
-  src: '/assets/images/news/image-9.jpg',
-  alt: 'gallery image 6',
-  className: 'img-responsive'
-}))), _jsx('li', {}, void 0, _jsx('a', {
-  href: '/assets/images/news/image-4.jpg',
-  'data-fancybox-group': 'gallery',
-  className: 'thumb fancybox'
-}, void 0, _jsx('img', {
-  src: '/assets/images/news/image-4.jpg',
-  alt: 'gallery image 7',
-  className: 'img-responsive'
-}))), _jsx('li', {}, void 0, _jsx('a', {
-  href: '/assets/images/news/image-11.jpg',
-  'data-fancybox-group': 'gallery',
-  className: 'thumb fancybox'
-}, void 0, _jsx('img', {
-  src: '/assets/images/news/image-11.jpg',
-  alt: 'gallery image 8',
-  className: 'img-responsive'
-})))))), _jsx('div', {
-  className: 'social-widget widget'
-}, void 0, _jsx('div', {
-  className: 'title-widget'
-}, void 0, 'social'), _jsx('div', {
-  className: 'content-widget'
-}, void 0, _jsx('ul', {
-  className: 'list-unstyled list-inline'
-}, void 0, _jsx('li', {}, void 0, _jsx('a', {
-  href: 'https://fb.com/happygreen.vn',
-  className: 'social-icon fa fa-facebook'
-}))))));
+  className: 'clearfix'
+});
 
 function NewsDetail(props) {
 
@@ -18718,83 +18631,37 @@ function NewsDetail(props) {
   const categories = props.data.categories.value;
 
   return _jsx('div', {}, void 0, _jsx('div', {
-    className: 'main-contents'
-  }, void 0, _jsx('section', {
-    className: 'banner blog-detail'
-  }, void 0, _jsx('div', {
-    className: 'container'
-  }, void 0, _jsx('div', {
-    className: 'morepage-banner'
-  }, void 0, _jsx('h2', {
-    className: 'title'
-  }, void 0, news.title)))), _jsx('div', {
-    className: 'page-main padding-top-100 padding-bottom-100'
-  }, void 0, _jsx('div', {
-    className: 'container'
+    id: 'content_wrapper',
+    className: 'product_layout product_detail_layout main clearfix'
   }, void 0, _jsx('div', {
     className: 'row'
   }, void 0, _jsx('div', {
-    className: 'col-md-8 col-xs-12 main-left'
+    className: 'col-md-9'
   }, void 0, _jsx('div', {
-    className: 'blog-detail-wrapper'
-  }, void 0, _jsx('div', {
-    className: 'content-wrapper'
-  }, void 0, _jsx('div', {
-    className: 'title'
-  }, void 0, news.title), _jsx('div', {
-    className: 'block-info'
-  }, void 0, _jsx('div', {
-    className: 'block'
-  }, void 0, _ref, _jsx('a', {
-    href: '#',
-    className: 'link'
-  }, void 0, __WEBPACK_IMPORTED_MODULE_3_moment___default()(news.created_at).format('DD/MM/YYYY')))), _jsx('div', {
-    className: 'description',
+    id: 'product_info',
+    className: 'fullwidth'
+  }, void 0, _jsx('h1', {
+    className: 'title-page'
+  }, void 0, news.title)), _jsx('div', {
     dangerouslySetInnerHTML: { __html: news.body }
-  }, void 0)))), _jsx('div', {
-    className: 'col-md-4 col-xs-12 sidebar'
-  }, void 0, _ref2, _jsx('div', {
-    className: 'col-2'
-  }, void 0, _jsx('div', {
-    className: 'recent-post-widget widget'
-  }, void 0, _ref3, _jsx('div', {
-    className: 'content-widget'
-  }, void 0, _jsx('div', {
-    className: 'recent-post-list'
-  }, void 0, recentNews.map((tintuc, idx) => {
+  })), _jsx('div', {
+    className: 't-main_sidebar col-md-3'
+  }, void 0, _ref, recentNews.map((el, idx) => {
     return _jsx('div', {
-      className: 'single-recent-post-widget'
-    }, idx, _jsx('a', {
-      href: `/p/${tintuc.slug}`,
-      className: 'thumb img-wrapper'
-    }, void 0, _jsx('img', {
-      src: tintuc.coverUrl,
-      alt: ''
-    })), _jsx('div', {
-      className: 'post-info'
+      className: 'item_post'
     }, void 0, _jsx('div', {
-      className: 'meta-info'
-    }, void 0, _jsx('span', {}, void 0, __WEBPACK_IMPORTED_MODULE_3_moment___default()(tintuc.created_at).format('DD/MM/YYYY'))), _jsx('a', {
-      href: `/p/${tintuc.slug}`
-    }, void 0, _jsx('div', {
-      className: 'description'
-    }, void 0, tintuc.title))));
-  })))), _jsx('div', {
-    className: 'categories-widget widget'
-  }, void 0, _ref4, _jsx('div', {
-    className: 'content-widget'
-  }, void 0, _jsx('ul', {
-    className: 'widget-list'
-  }, void 0, categories.map(danhmuc => {
-    return _jsx('li', {
-      className: 'single-widget-item'
+      className: 'col-sm-5 rm_paddingr rm_paddingl'
     }, void 0, _jsx('a', {
-      href: `/danh-muc/${danhmuc.slug}`,
-      className: 'link'
-    }, void 0, _jsx('span', {
-      className: 'fa-custom category'
-    }, void 0, danhmuc.title)));
-  }))))), _ref5))))));
+      href: "/p/" + el.slug
+    }, void 0, _jsx('img', {
+      src: el.coverUrl,
+      width: '100%'
+    }))), _jsx('div', {
+      className: 'col-sm-7 rm_paddingr'
+    }, void 0, _jsx('h3', {}, void 0, _jsx('a', {
+      href: "/p/" + el.slug
+    }, void 0, el.title)), _ref2), _ref3);
+  })))));
 }
 
 function findCategoryBySlug(slug, categories) {
