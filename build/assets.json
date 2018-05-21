@@ -1,38 +1,38 @@
 {
   "admin": {
-    "js": "/assets/admin.3baa81a9.chunk.js"
+    "js": "/assets/admin.b2773981.chunk.js"
   },
   "about": {
-    "js": "/assets/about.91391f4d.chunk.js"
+    "js": "/assets/about.760060a0.chunk.js"
   },
   "shop": {
-    "js": "/assets/shop.cf734d2c.chunk.js"
+    "js": "/assets/shop.8674a174.chunk.js"
   },
   "news": {
     "js": "/assets/news.844484bc.chunk.js"
   },
   "contact": {
-    "js": "/assets/contact.14d13558.chunk.js"
+    "js": "/assets/contact.bf1f0b57.chunk.js"
   },
   "checkout": {
-    "js": "/assets/checkout.31b8b37b.chunk.js"
+    "js": "/assets/checkout.9cd42ea1.chunk.js"
   },
   "cart": {
-    "js": "/assets/cart.6b9a452c.chunk.js"
+    "js": "/assets/cart.5aea990e.chunk.js"
   },
   "sanpham": {
-    "js": "/assets/sanpham.1a6d6578.chunk.js"
+    "js": "/assets/sanpham.5f9042d3.chunk.js"
   },
   "newsDetail": {
-    "js": "/assets/newsDetail.dedd6a47.chunk.js"
+    "js": "/assets/newsDetail.ce3c79aa.chunk.js"
   },
   "linhkien": {
-    "js": "/assets/linhkien.1f3c786e.chunk.js"
+    "js": "/assets/linhkien.4051b477.chunk.js"
   },
   "client": {
-    "js": "/assets/client.7d8fd9a3.js"
+    "js": "/assets/client.7ff4274a.js"
   },
   "vendor": {
-    "js": "/assets/vendor.22c3497b.js"
+    "js": "/assets/vendor.b6e9f892.js"
   }
 }

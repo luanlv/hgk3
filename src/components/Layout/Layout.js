@@ -88,66 +88,27 @@ class Layout extends React.Component {
             <div className="footer-menu-mobile">
               <div className="container">
                 <ul>
-                  <li className="dropdown">
-                    <a href="#" data-toggle="dropdown"><b>Vì sao chọn Hoàng Gia Khánh</b><i className="icon-arrow" /></a>
-                    <ul className="dropdown-menu">
-                      <li><a href="#tai-sao-chon-sp-karofi-sg18.html">Vì sao chọn SP Hoàng Gia Khánh</a></li>
-                      <li><a href="#dat-qcvn6-1-2010-byt/">Đạt QCVN6-1:2010/BYT</a></li>
-                      <li><a href="#cong-nghe-loc-nuoc-ro-tien-tien-cho-may-loc-nuoc-sg19.html
-  ">Công nghệ RO tiên tiến</a></li>
-                      <li><a href="#san-pham-thong-minh-sg20.html">Sản phẩm thông minh</a></li>
-                    </ul>
-                  </li>
-                  <li className="dropdown">
-                    <a href="#" data-toggle="dropdown"><b>Sản phẩm</b> <i className="icon-arrow" /></a>
-                    <ul className="dropdown-menu">
-                      <li><a href="#may-loc-nuoc-28">Máy lọc nước</a></li>
-                      <li><a href="#cay-nuoc-nong-lanh-13">Cây nước nóng lạnh</a></li>
-                      <li><a href="http://karofi.com/thiet-bi-diet-khuan">Thiết bị diệt khuẩn</a></li>
-                      <li><a href="#linh-phu-kien-18">Phụ kiện</a></li>
-                    </ul>
-                  </li>
-                  <li className="dropdown">
-                    <a href="#trang-chuyen-gia/" data-toggle="dropdown"><b>Trang chuyên gia</b><i className="icon-arrow" /></a>
-                    <ul className="dropdown-menu">
-                      <li><a href="#trang-chuyen-gia/tra-cuu-nguon-nuoc/">Tra cứu nguồn nước</a></li>
-                      <li><a href="#trang-chuyen-gia/quy-chuan-chat-luong-nuoc/">Quy chuẩn CL nước</a></li>
-                      <li><a href="#trang-chuyen-gia/giai-phap-xu-ly-nuoc/">Giải pháp XL nước</a></li>
-                      <li><a href="#trang-chuyen-gia/huong-dan-su-dung-xu-ly-su-co/">HD xử lý sự cố</a></li>
-                    </ul>
-                  </li>
-                  <li className="dropdown">
-                    <a href="#" data-toggle="dropdown"><b>Hỗ trợ</b> <i className="icon-arrow" /></a>
-                    <ul className="dropdown-menu">
-                      <li><a href="#faq.html">Hỏi đáp</a></li>
-                      <li><a href="#tu-van-su-dung-cc13">Tư vấn sử dụng</a></li>
-                      <li><a href="http://karofi.com/dang-ky-bao-hanh.html">Đăng ký bảo hành</a></li>
-                      <li><a href="http://karofi.com/dang-ky-bao-duong.html">Dịch vụ bảo dưỡng</a></li>
-                    </ul>
-                  </li>
+
                   <li className="dropdown">
                     <a href="#" data-toggle="dropdown"><b>Giới thiệu</b> <i className="icon-arrow" /></a>
                     <ul className="dropdown-menu">
-                      <li><a href="#ve-chung-toi-sg1.html">Về chúng tôi</a></li>
-                      <li><a href="#tin-su-kien-cc5">Bản tin Hoàng Gia Khánh</a></li>
-                      <li><a href="#trach-nhiem-xa-hoi-cc25">Trách nhiệm xã hội</a></li>
-                      <li><a href="#bao-chi-noi-ve-karofi-cc6">Báo chí nói gì về Hoàng Gia Khánh</a></li>
+                      <li><a href="/gioi-thieu">Về chúng tôi</a></li>
+                      <li><a href="/gia-tri-cot-loi">Giá trị cốt lõi</a></li>
+                      <li><a href="/tam-nhin-su-menh">Tầm nhìn và Sứ mệnh</a></li>
                     </ul>
                   </li>
                   <li className="dropdown">
                     <a href="#" data-toggle="dropdown"><b>Tin tức</b> <i className="icon-arrow" /></a>
                     <ul className="dropdown-menu">
-                      <li><a href="#tin-san-pham-cc4">Tin sản phẩm</a></li>
-                      <li><a href="#tin-khuyen-mai-cc27">Tin khuyến mãi</a></li>
-                      <li><a href="#tin-tuyen-dung-cc20">Tin tuyển dụng</a></li>
+                      <li><a href="/tin-tuc">Tin sản phẩm</a></li>
+                      <li><a href="/tin-tuc">Tin khuyến mãi</a></li>
                     </ul>
                   </li>
                   <li className="dropdown">
                     <a href="#" data-toggle="dropdown"><b>Bạn có biết</b> <i className="icon-arrow" /></a>
                     <ul className="dropdown-menu">
-                      {/*         <li><a href="#ban-co-biet-cc16">Bạn có biết?</a></li> */}
-                      <li><a href="#hieu-ve-nuoc-cc17">Hiểu về nước</a></li>
-                      <li><a href="#nuoc-va-suc-khoe-cc18">Nước và sức khỏe</a></li>
+                      <li><a href="/tin-tuc">Hiểu về nước</a></li>
+                      <li><a href="/tin-tuc">Nước và sức khỏe</a></li>
                     </ul>
                   </li>
                   <li className="dropdown">
@@ -170,7 +131,8 @@ class Layout extends React.Component {
                 <h3>Giới thiệu</h3>
                 <ul>
                   <li><a href="/gioi-thieu">Về chúng tôi</a></li>
-                  <li><a href="/tin-tuc">Bản tin Hoàng Gia Khánh</a></li>
+                  <li><a href="/gia-tri-cot-loi">Giá trị cốt lõi</a></li>
+                  <li><a href="/tam-nhin-su-menh">Tầm nhìn và Sứ mệnh</a></li>
                 </ul>
               </div>
               <div className="footer_box" style={{paddingLeft: 60}}>
@@ -191,7 +153,6 @@ class Layout extends React.Component {
                 <h3>Liên hệ</h3>
                 <ul>
                   <li><span><img src="phone.png" /></span><span>0911 535 999</span></li>
-
                   <li className="clearfix">
                     <span><img src="social.png" /></span>
                     <a href="#" target="_blank" rel="nofollow"><img src="facebook.png" /></a>

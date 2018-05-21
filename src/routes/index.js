@@ -24,6 +24,8 @@ export default {
     // require('./service').default,
     // require('./tracking').default,
     require('./about').default,
+    require('./about2').default,
+    require('./about3').default,
     require('./news').default,
     require('./newsCategory').default,
     // require('./category').default,
