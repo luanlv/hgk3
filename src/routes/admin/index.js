@@ -34,13 +34,14 @@ export default {
     require('./productCategory').default,
   ],
   async action({store, next, url}) {
-    let user = store.getState().user
-    if (user && url === '/admin/login') {
-      return { redirect: '/admin' };
-    }
-    if (!user && url !== '/admin/login') {
-      return { redirect: '/admin/login' };
-    }
+    console.log("ok 123")
+    // let user = store.getState().user
+    // if (user && url === '/admin/login') {
+    //   return { redirect: '/admin' };
+    // }
+    // if (!user && url !== '/admin/login') {
+    //   return { redirect: '/admin/login' };
+    // }
     const route = await next();
     // Provide default values for title, description etc.
     route.title = `${route.title || 'Amdmin Page'}`;

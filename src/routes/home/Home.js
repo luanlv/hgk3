@@ -53,6 +53,10 @@ class Home extends React.Component {
       fade: true,
       // swipeToSlide: false
     };
+
+    let recentNews = this.props.data.recentNews.value || []
+    recentNews = recentNews.slice(0, 3)
+    // console.log(recentNews)
     return (
       <div>
 
@@ -118,7 +122,7 @@ class Home extends React.Component {
           </div>
         </div>
 
-        <div className="containerWr">
+        <div className="containerWr maxWidth">
           <div className="row">
             <h2 style={{textAlign: 'center', margin: '30px auto'}}>Công ty cổ phần xuất nhập khẩu Hoàng Gia Khánh</h2>
             <div className="col-sm-5">
@@ -139,7 +143,7 @@ class Home extends React.Component {
 
         <hr/>
 
-        <div id="content_wrapper" style={{marginTop: 30}}>
+        <div id="content_wrapper" className="maxWidth" style={{marginTop: 30}}>
           <h3 style={{textAlign: 'center', margin: '50px auto 30px auto'}}>Thuơng hiệu <span style={{fontWeight: 'lighter'}}>công ty</span></h3>
           <div className="containerWr">
             <div className="row brand">
@@ -162,74 +166,42 @@ class Home extends React.Component {
 
         <hr/>
 
-        <div className="containerWr" style={{marginTop: 30}}>
-          <h3 style={{textAlign: 'center', margin: '50px auto 30px auto'}}>Sản phẩm <span style={{fontWeight: 'lighter'}}>nổi bật</span></h3>
-          <div id="slider" data-slick='{"slidesToShow": 4, "slidesToScroll": 4, "autoplay": true, "autoplaySpeed": 4000}'>
+        <div className="containerWr maxWidth" style={{marginTop: 30}}>
+          <h3 style={{textAlign: 'center', margin: '50px auto 30px auto' }} >Sản phẩm <span style={{fontWeight: 'lighter'}}>nổi bật</span></h3>
+          <div id="slider" data-slick='{"slidesToShow": 4, "slidesToScroll": 4, "autoplay": true, "autoplaySpeed": 4000}' >
             <div>
               <div className="calloutWr">
-                <div className="callout top-right">Máy lọc nước Hokodai</div>
+                <div className="callout top-left">Máy lọc nước OTW S8 XLS</div>
               </div>
               <div className="imgWr">
-                <img src="/product/1.png" alt=""/>
+                <img src="/p/mays8.png" alt="" />
               </div>
             </div>
             <div>
               <div className="calloutWr">
-                <div className="callout top-right">Your Favourite!</div>
+                <div className="callout top-right">Máy lọc nước OTW F12 Modern</div>
               </div>
               <div className="imgWr">
-                <img src="/product/2.png" alt=""/>
+                <img src="/p/f12.jpg" alt="" />
               </div>
             </div>
             <div>
               <div className="calloutWr">
-                <div className="callout top-right">Your Favourite!</div>
+                <div className="callout top-right">Máy lọc nước LAMYCO 2018</div>
               </div>
               <div className="imgWr">
-                <img src="/product/3.png" alt=""/>
+                <img src="/p/lamyco.jpg" alt="" />
               </div>
             </div>
             <div>
               <div className="calloutWr">
-                <div className="callout top-right">Your Favourite!</div>
+                <div className="callout top-right">Máy lọc nuớc HOKODAI 2018</div>
               </div>
               <div className="imgWr">
-                <img src="/product/4.png" alt=""/>
-              </div>
-            </div>
-            <div>
-              <div className="calloutWr">
-                <div className="callout top-right">Your Favourite!</div>
-              </div>
-              <div className="imgWr">
-                <img src="/product/4.png" alt=""/>
-              </div>
-            </div>
-            <div>
-              <div className="calloutWr">
-                <div className="callout top-right">Your Favourite!</div>
-              </div>
-              <div className="imgWr">
-                <img src="/product/3.png" alt=""/>
-              </div>
-            </div>
-            <div>
-              <div className="calloutWr">
-                <div className="callout top-right">Your Favourite!</div>
-              </div>
-              <div className="imgWr">
-                <img src="/product/2.png" alt=""/>
+                <img src="/p/hokodai.jpg" alt="" />
               </div>
             </div>
 
-            <div>
-              <div className="calloutWr">
-                <div className="callout top-right">Your Favourite!</div>
-              </div>
-              <div className="imgWr">
-                <img src="/product/1.png" alt=""/>
-              </div>
-            </div>
 
           </div>
         </div>
@@ -302,59 +274,32 @@ class Home extends React.Component {
 
         <hr/>
 
-        <div className="containerWr">
+        <div className="containerWr maxWidth">
           <h3 style={{textAlign: 'center', margin: '50px auto 30px auto'}}>Tin tức <span style={{fontWeight: 'lighter'}}>nổi bật</span></h3>
           <div className="row" style={{marginTop: 30}}>
 
-
-            <div className="col-md-4 col-12 newWr">
-              <div className="tintucWr">
-                <a href="#jack-lee-khong-chi-la-mot-dau-bep-tai-hoa-ma-con-la-nguoi-truyen-dam-thuc" title="Jack Lee – Không chỉ là một đầu bếp tài hoa mà còn là người truyền đam mê Ẩm Thực">
-                  <img width={320} height={176} src="/anh1.jpeg" alt />
-                </a>
-                <div className="tintuc-desc"
-                     style={{background: "#32529d", color: 'white'}}
-                >
-                  <h4
-                    style={{color: 'white'}}
-                  >Máy lọc nước gia đình có thật sự cần thiết không?</h4>
-                  <div className="post-excerpt"
-                  >Xã hội ngày càng phát triển nhanh chóng kéo theo những vấn đề nghiêm trọng phát sinh. Ô nhiễm nguồn nước dẫn đến thiếu nước ... </div>
-                </div>
-              </div>
-            </div>
-
-            <div className="col-md-4 col-12 newWr">
-              <div className="tintucWr">
-                <a href="#kangaroo-nam-thu-2-lien-tiep-vao-top-100-doanh-nghiep-phat-trien-ben-vung" title="Hoàng Gia Khánh năm thứ 2 liên tiếp vào Top 100 doanh nghiệp phát triển bền vững"><img width={320} height={176} src="/anh2.jpeg" className="scale-with-grid wp-post-image wp-post-image" alt /></a>
-                <div className="tintuc-desc"
-                     style={{background: "#32529d", color: 'white'}}
-                >
-                  <h4
-                    style={{color: 'white'}}
-                  >
-                    Bạn có cần uống nước sạch mỗi ngày ?
-                  </h4>
-                  <div className="post-excerpt">
-                    Nhiều người chỉ biết rằng chúng ta chỉ uống nước khi chúng ta cảm thấy khát nước. Nhưng bạn có biết rằng cơ thể chúng ta chiếm hơn 70% là nước...
+            {recentNews.map((el,idx) => {
+              return (
+                <div className="col-md-4 col-12 newWr">
+                  <div className="tintucWr">
+                    <a href="#jack-lee-khong-chi-la-mot-dau-bep-tai-hoa-ma-con-la-nguoi-truyen-dam-thuc" title={el.title}>
+                      <img src={el.coverUrl} />
+                    </a>
+                    <div className="tintuc-desc"
+                         style={{background: "#32529d", color: 'white'}}
+                    >
+                      <h4
+                        style={{color: 'white'}}
+                      >{el.title}</h4>
+                      <div className="post-excerpt"
+                      >
+                        {el.description}
+                      </div>
+                    </div>
                   </div>
                 </div>
-              </div>
-            </div>
-
-            <div className="col-md-4 col-12 newWr">
-              <div className="tintucWr">
-                <a href="#kangaroo-tien-gan-muc-tieu-chinh-phuc-thi-truong-700-trieu-dan" title="Hoàng Gia Khánh tiến gần mục tiêu chinh phục thị trường 700 triệu dân"><img width={320} height={176} src="/anh3.jpg" className="scale-with-grid wp-post-image wp-post-image" alt /></a>
-                <div className="tintuc-desc"
-                     style={{background: "#32529d", color: 'white'}}
-                >
-                  <h4 style={{color: 'white'}}>
-                    Tại sao chúng ta phải tiết kiệm nguồn nước sạch?
-                  </h4>
-                  <div className="post-excerpt">Dưới đây là những con số nói lên chúng ta phải chung tay tiết kiệm nước, vì tiết kiệm nước chính là tự cứu lấy tương lai của chúng ...</div>
-                </div>
-              </div>
-            </div>
+              )
+            })}
 
 
           </div>

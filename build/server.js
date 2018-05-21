@@ -8969,13 +8969,14 @@ const isAdmin = false;
   children: [__webpack_require__(116).default, __webpack_require__(122).default, __webpack_require__(139).default, __webpack_require__(145).default, __webpack_require__(111).default, __webpack_require__(119).default, __webpack_require__(143).default, __webpack_require__(124).default, __webpack_require__(141).default, __webpack_require__(114).default, __webpack_require__(126).default, __webpack_require__(129).default, __webpack_require__(137).default, __webpack_require__(132).default, __webpack_require__(135).default],
   action({ store, next, url }) {
     return _asyncToGenerator(function* () {
-      let user = store.getState().user;
-      if (user && url === '/admin/login') {
-        return { redirect: '/admin' };
-      }
-      if (!user && url !== '/admin/login') {
-        return { redirect: '/admin/login' };
-      }
+      console.log("ok 123");
+      // let user = store.getState().user
+      // if (user && url === '/admin/login') {
+      //   return { redirect: '/admin' };
+      // }
+      // if (!user && url !== '/admin/login') {
+      //   return { redirect: '/admin/login' };
+      // }
       const route = yield next();
       // Provide default values for title, description etc.
       route.title = `${route.title || 'Amdmin Page'}`;
@@ -16873,122 +16874,42 @@ var _ref9 = _jsx('div', {
 }, void 0, _jsx('div', {}, void 0, _jsx('div', {
   className: 'calloutWr'
 }, void 0, _jsx('div', {
-  className: 'callout top-right'
-}, void 0, 'M\xE1y l\u1ECDc n\u01B0\u1EDBc Hokodai')), _jsx('div', {
+  className: 'callout top-left'
+}, void 0, 'M\xE1y l\u1ECDc n\u01B0\u1EDBc OTW S8 XLS')), _jsx('div', {
   className: 'imgWr'
 }, void 0, _jsx('img', {
-  src: '/product/1.png',
+  src: '/p/mays8.png',
   alt: ''
 }))), _jsx('div', {}, void 0, _jsx('div', {
   className: 'calloutWr'
 }, void 0, _jsx('div', {
   className: 'callout top-right'
-}, void 0, 'Your Favourite!')), _jsx('div', {
+}, void 0, 'M\xE1y l\u1ECDc n\u01B0\u1EDBc OTW F12 Modern')), _jsx('div', {
   className: 'imgWr'
 }, void 0, _jsx('img', {
-  src: '/product/2.png',
+  src: '/p/f12.jpg',
   alt: ''
 }))), _jsx('div', {}, void 0, _jsx('div', {
   className: 'calloutWr'
 }, void 0, _jsx('div', {
   className: 'callout top-right'
-}, void 0, 'Your Favourite!')), _jsx('div', {
+}, void 0, 'M\xE1y l\u1ECDc n\u01B0\u1EDBc LAMYCO 2018')), _jsx('div', {
   className: 'imgWr'
 }, void 0, _jsx('img', {
-  src: '/product/3.png',
+  src: '/p/lamyco.jpg',
   alt: ''
 }))), _jsx('div', {}, void 0, _jsx('div', {
   className: 'calloutWr'
 }, void 0, _jsx('div', {
   className: 'callout top-right'
-}, void 0, 'Your Favourite!')), _jsx('div', {
+}, void 0, 'M\xE1y l\u1ECDc nu\u1EDBc HOKODAI 2018')), _jsx('div', {
   className: 'imgWr'
 }, void 0, _jsx('img', {
-  src: '/product/4.png',
-  alt: ''
-}))), _jsx('div', {}, void 0, _jsx('div', {
-  className: 'calloutWr'
-}, void 0, _jsx('div', {
-  className: 'callout top-right'
-}, void 0, 'Your Favourite!')), _jsx('div', {
-  className: 'imgWr'
-}, void 0, _jsx('img', {
-  src: '/product/4.png',
-  alt: ''
-}))), _jsx('div', {}, void 0, _jsx('div', {
-  className: 'calloutWr'
-}, void 0, _jsx('div', {
-  className: 'callout top-right'
-}, void 0, 'Your Favourite!')), _jsx('div', {
-  className: 'imgWr'
-}, void 0, _jsx('img', {
-  src: '/product/3.png',
-  alt: ''
-}))), _jsx('div', {}, void 0, _jsx('div', {
-  className: 'calloutWr'
-}, void 0, _jsx('div', {
-  className: 'callout top-right'
-}, void 0, 'Your Favourite!')), _jsx('div', {
-  className: 'imgWr'
-}, void 0, _jsx('img', {
-  src: '/product/2.png',
-  alt: ''
-}))), _jsx('div', {}, void 0, _jsx('div', {
-  className: 'calloutWr'
-}, void 0, _jsx('div', {
-  className: 'callout top-right'
-}, void 0, 'Your Favourite!')), _jsx('div', {
-  className: 'imgWr'
-}, void 0, _jsx('img', {
-  src: '/product/1.png',
+  src: '/p/hokodai.jpg',
   alt: ''
 }))));
 
 var _ref10 = _jsx('hr', {});
-
-var _ref11 = _jsx('a', {
-  href: '#jack-lee-khong-chi-la-mot-dau-bep-tai-hoa-ma-con-la-nguoi-truyen-dam-thuc',
-  title: 'Jack Lee \u2013 Kh\xF4ng ch\u1EC9 l\xE0 m\u1ED9t \u0111\u1EA7u b\u1EBFp t\xE0i hoa m\xE0 c\xF2n l\xE0 ng\u01B0\u1EDDi truy\u1EC1n \u0111am m\xEA \u1EA8m Th\u1EF1c'
-}, void 0, _jsx('img', {
-  width: 320,
-  height: 176,
-  src: '/anh1.jpeg',
-  alt: true
-}));
-
-var _ref12 = _jsx('div', {
-  className: 'post-excerpt'
-}, void 0, 'X\xE3 h\u1ED9i ng\xE0y c\xE0ng ph\xE1t tri\u1EC3n nhanh ch\xF3ng k\xE9o theo nh\u1EEFng v\u1EA5n \u0111\u1EC1 nghi\xEAm tr\u1ECDng ph\xE1t sinh. \xD4 nhi\u1EC5m ngu\u1ED3n n\u01B0\u1EDBc d\u1EABn \u0111\u1EBFn thi\u1EBFu n\u01B0\u1EDBc ... ');
-
-var _ref13 = _jsx('a', {
-  href: '#kangaroo-nam-thu-2-lien-tiep-vao-top-100-doanh-nghiep-phat-trien-ben-vung',
-  title: 'Ho\xE0ng Gia Kh\xE1nh n\u0103m th\u1EE9 2 li\xEAn ti\u1EBFp v\xE0o Top 100 doanh nghi\u1EC7p ph\xE1t tri\u1EC3n b\u1EC1n v\u1EEFng'
-}, void 0, _jsx('img', {
-  width: 320,
-  height: 176,
-  src: '/anh2.jpeg',
-  className: 'scale-with-grid wp-post-image wp-post-image',
-  alt: true
-}));
-
-var _ref14 = _jsx('div', {
-  className: 'post-excerpt'
-}, void 0, 'Nhi\u1EC1u ng\u01B0\u1EDDi ch\u1EC9 bi\u1EBFt r\u1EB1ng ch\xFAng ta ch\u1EC9 u\u1ED1ng n\u01B0\u1EDBc khi ch\xFAng ta c\u1EA3m th\u1EA5y kh\xE1t n\u01B0\u1EDBc. Nh\u01B0ng b\u1EA1n c\xF3 bi\u1EBFt r\u1EB1ng c\u01A1 th\u1EC3 ch\xFAng ta chi\u1EBFm h\u01A1n 70% l\xE0 n\u01B0\u1EDBc...');
-
-var _ref15 = _jsx('a', {
-  href: '#kangaroo-tien-gan-muc-tieu-chinh-phuc-thi-truong-700-trieu-dan',
-  title: 'Ho\xE0ng Gia Kh\xE1nh ti\u1EBFn g\u1EA7n m\u1EE5c ti\xEAu chinh ph\u1EE5c th\u1ECB tr\u01B0\u1EDDng 700 tri\u1EC7u d\xE2n'
-}, void 0, _jsx('img', {
-  width: 320,
-  height: 176,
-  src: '/anh3.jpg',
-  className: 'scale-with-grid wp-post-image wp-post-image',
-  alt: true
-}));
-
-var _ref16 = _jsx('div', {
-  className: 'post-excerpt'
-}, void 0, 'D\u01B0\u1EDBi \u0111\xE2y l\xE0 nh\u1EEFng con s\u1ED1 n\xF3i l\xEAn ch\xFAng ta ph\u1EA3i chung tay ti\u1EBFt ki\u1EC7m n\u01B0\u1EDBc, v\xEC ti\u1EBFt ki\u1EC7m n\u01B0\u1EDBc ch\xEDnh l\xE0 t\u1EF1 c\u1EE9u l\u1EA5y t\u01B0\u01A1ng lai c\u1EE7a ch\xFAng ...');
 
 class Home extends __WEBPACK_IMPORTED_MODULE_0_react___default.a.Component {
 
@@ -17025,6 +16946,10 @@ class Home extends __WEBPACK_IMPORTED_MODULE_0_react___default.a.Component {
       slidesToScroll: 1,
       fade: true
     };
+
+    let recentNews = this.props.data.recentNews.value || [];
+    recentNews = recentNews.slice(0, 3);
+    // console.log(recentNews)
     return _jsx('div', {}, void 0, _jsx('div', {
       className: 'bannerWr'
     }, void 0, _jsx('div', {
@@ -17124,7 +17049,7 @@ class Home extends __WEBPACK_IMPORTED_MODULE_0_react___default.a.Component {
     })), _jsx('div', {
       style: { clear: 'both' }
     }))), _jsx('div', {
-      className: 'containerWr'
+      className: 'containerWr maxWidth'
     }, void 0, _jsx('div', {
       className: 'row'
     }, void 0, _jsx('h2', {
@@ -17180,20 +17105,21 @@ class Home extends __WEBPACK_IMPORTED_MODULE_0_react___default.a.Component {
       style: { color: '#008000' }
     }, void 0, '\u201C B\u1EA3o v\u1EC7 m\xF4i tr\u01B0\u1EDDng v\xE0 N\xE2ng cao s\u1EE9c kh\u1ECFe c\u1ED9ng \u0111\u1ED3ng\u2019'))))))))))), _ref5, _jsx('div', {
       id: 'content_wrapper',
+      className: 'maxWidth',
       style: { marginTop: 30 }
     }, void 0, _jsx('h3', {
       style: { textAlign: 'center', margin: '50px auto 30px auto' }
     }, void 0, 'Thu\u01A1ng hi\u1EC7u ', _jsx('span', {
       style: { fontWeight: 'lighter' }
     }, void 0, 'c\xF4ng ty')), _ref6, _ref7), _ref8, _jsx('div', {
-      className: 'containerWr',
+      className: 'containerWr maxWidth',
       style: { marginTop: 30 }
     }, void 0, _jsx('h3', {
       style: { textAlign: 'center', margin: '50px auto 30px auto' }
     }, void 0, 'S\u1EA3n ph\u1EA9m ', _jsx('span', {
       style: { fontWeight: 'lighter' }
     }, void 0, 'n\u1ED5i b\u1EADt')), _ref9), _ref10, _jsx('div', {
-      className: 'containerWr'
+      className: 'containerWr maxWidth'
     }, void 0, _jsx('h3', {
       style: { textAlign: 'center', margin: '50px auto 30px auto' }
     }, void 0, 'Tin t\u1EE9c ', _jsx('span', {
@@ -17201,34 +17127,25 @@ class Home extends __WEBPACK_IMPORTED_MODULE_0_react___default.a.Component {
     }, void 0, 'n\u1ED5i b\u1EADt')), _jsx('div', {
       className: 'row',
       style: { marginTop: 30 }
-    }, void 0, _jsx('div', {
-      className: 'col-md-4 col-12 newWr'
-    }, void 0, _jsx('div', {
-      className: 'tintucWr'
-    }, void 0, _ref11, _jsx('div', {
-      className: 'tintuc-desc',
-      style: { background: "#32529d", color: 'white' }
-    }, void 0, _jsx('h4', {
-      style: { color: 'white' }
-    }, void 0, 'M\xE1y l\u1ECDc n\u01B0\u1EDBc gia \u0111\xECnh c\xF3 th\u1EADt s\u1EF1 c\u1EA7n thi\u1EBFt kh\xF4ng?'), _ref12))), _jsx('div', {
-      className: 'col-md-4 col-12 newWr'
-    }, void 0, _jsx('div', {
-      className: 'tintucWr'
-    }, void 0, _ref13, _jsx('div', {
-      className: 'tintuc-desc',
-      style: { background: "#32529d", color: 'white' }
-    }, void 0, _jsx('h4', {
-      style: { color: 'white' }
-    }, void 0, 'B\u1EA1n c\xF3 c\u1EA7n u\u1ED1ng n\u01B0\u1EDBc s\u1EA1ch m\u1ED7i ng\xE0y ?'), _ref14))), _jsx('div', {
-      className: 'col-md-4 col-12 newWr'
-    }, void 0, _jsx('div', {
-      className: 'tintucWr'
-    }, void 0, _ref15, _jsx('div', {
-      className: 'tintuc-desc',
-      style: { background: "#32529d", color: 'white' }
-    }, void 0, _jsx('h4', {
-      style: { color: 'white' }
-    }, void 0, 'T\u1EA1i sao ch\xFAng ta ph\u1EA3i ti\u1EBFt ki\u1EC7m ngu\u1ED3n n\u01B0\u1EDBc s\u1EA1ch?'), _ref16))))));
+    }, void 0, recentNews.map((el, idx) => {
+      return _jsx('div', {
+        className: 'col-md-4 col-12 newWr'
+      }, void 0, _jsx('div', {
+        className: 'tintucWr'
+      }, void 0, _jsx('a', {
+        href: '#jack-lee-khong-chi-la-mot-dau-bep-tai-hoa-ma-con-la-nguoi-truyen-dam-thuc',
+        title: el.title
+      }, void 0, _jsx('img', {
+        src: el.coverUrl
+      })), _jsx('div', {
+        className: 'tintuc-desc',
+        style: { background: "#32529d", color: 'white' }
+      }, void 0, _jsx('h4', {
+        style: { color: 'white' }
+      }, void 0, el.title), _jsx('div', {
+        className: 'post-excerpt'
+      }, void 0, el.description))));
+    }))));
   }
 }
 
@@ -18013,13 +17930,13 @@ function _asyncToGenerator(fn) { return function () { var gen = fn.apply(this, a
       let seoGraphql = 'seo(url: "' + path + '"){url,title,description,og_title,og_image,og_description}';
       // let information = 'information{id, services, common, about, home}'
       // let recentNews = 'recentNews:get5RecentPost{title, coverUrl, slug, public, description, view, category, created_at}'
-      // let recentNews = 'recentNews:get5RecentPost{title, coverUrl, slug, public, description, view, category, created_at}'
+      let recentNews = 'recentNews:get5RecentPost{title, coverUrl, slug, public, description, view, category, created_at}';
       // let productCategories = 'productCategories:getProductCategories{title, slug, created_at}'
       // let recentProduct = 'recentProduct:get5RecentProduct{ coverUrl, category, slug, title, body, price, view, created_at}'
       let seo = {};
       const resp = yield fetch('/graphql', {
         body: JSON.stringify({
-          query: '{' + seoGraphql + '}'
+          query: '{' + seoGraphql + recentNews + '}'
         })
       });
       const { data } = yield resp.json();
@@ -18545,14 +18462,14 @@ const title = 'Happy green | Tin tức';
       store.dispatch(__webpack_require__.i(__WEBPACK_IMPORTED_MODULE_3_react_redux_loading_bar__["showLoading"])());
       let seoGraphql = 'seo(url: "' + path + '"){url,title,description,og_title,og_image,og_description}';
       // let information = 'information{id, contact, services, common}'
-      // let allNews = 'allNews:getAllPosts{title, coverUrl, slug, public, description, view, category, created_at}'
-      // let recentNews = 'recentNews:get5RecentPost{title, coverUrl, slug, public, description, view, category, created_at}'
+      let allNews = 'allNews:getAllPosts{title, coverUrl, slug, public, description, view, category, created_at}';
+      let recentNews = 'recentNews:get5RecentPost{title, coverUrl, slug, public, description, view, category, created_at}';
       // let categories = 'categories:getCategories{title, slug, created_at}'
 
       let seo = {};
       const resp = yield fetch('/graphql', {
         body: JSON.stringify({
-          query: '{' + seoGraphql + '}'
+          query: '{' + seoGraphql + allNews + recentNews + '}'
         })
       });
       const { data } = yield resp.json();
