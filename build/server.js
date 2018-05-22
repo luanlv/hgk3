@@ -17296,6 +17296,10 @@ var _ref9 = _jsx('div', {
 }, void 0, _jsx('img', {
   src: '/p/mays8.png',
   alt: ''
+}), _jsx('img', {
+  className: 'hot',
+  src: '/hot.jpg',
+  alt: ''
 }))), _jsx('div', {}, void 0, _jsx('div', {
   className: 'calloutWr'
 }, void 0, _jsx('div', {
@@ -17304,6 +17308,10 @@ var _ref9 = _jsx('div', {
   className: 'imgWr'
 }, void 0, _jsx('img', {
   src: '/p/f12.jpg',
+  alt: ''
+}), _jsx('img', {
+  className: 'hot',
+  src: '/hot.jpg',
   alt: ''
 }))), _jsx('div', {}, void 0, _jsx('div', {
   className: 'calloutWr'
@@ -17314,6 +17322,10 @@ var _ref9 = _jsx('div', {
 }, void 0, _jsx('img', {
   src: '/p/lamyco.jpg',
   alt: ''
+}), _jsx('img', {
+  className: 'hot',
+  src: '/hot.jpg',
+  alt: ''
 }))), _jsx('div', {}, void 0, _jsx('div', {
   className: 'calloutWr'
 }, void 0, _jsx('div', {
@@ -17322,6 +17334,10 @@ var _ref9 = _jsx('div', {
   className: 'imgWr'
 }, void 0, _jsx('img', {
   src: '/p/hokodai.jpg',
+  alt: ''
+}), _jsx('img', {
+  className: 'hot',
+  src: '/hot.jpg',
   alt: ''
 }))));
 

@@ -204,6 +204,7 @@ class Home extends React.Component {
               </div>
               <div className="imgWr">
                 <img src="/p/mays8.png" alt="" />
+                <img className="hot" src="/hot.jpg" alt="" />
               </div>
             </div>
             <div>
@@ -212,6 +213,7 @@ class Home extends React.Component {
               </div>
               <div className="imgWr">
                 <img src="/p/f12.jpg" alt="" />
+                <img className="hot" src="/hot.jpg" alt="" />
               </div>
             </div>
             <div>
@@ -220,6 +222,7 @@ class Home extends React.Component {
               </div>
               <div className="imgWr">
                 <img src="/p/lamyco.jpg" alt="" />
+                <img className="hot" src="/hot.jpg" alt="" />
               </div>
             </div>
             <div>
@@ -228,6 +231,7 @@ class Home extends React.Component {
               </div>
               <div className="imgWr">
                 <img src="/p/hokodai.jpg" alt="" />
+                <img className="hot" src="/hot.jpg" alt="" />
               </div>
             </div>
 
