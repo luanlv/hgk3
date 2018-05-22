@@ -2139,7 +2139,7 @@ var _ref4 = _jsx('div', {
 
 var _ref5 = _jsx('div', {
   className: 'short_desc'
-}, void 0, _jsx('ul', {}, void 0, _jsx('li', {}, void 0, _jsx('div', {}, void 0, 'K\xEDch thuowcs: 420 x 300 x 1189 (mm)')), _jsx('li', {}, void 0, _jsx('div', {}, void 0, '\u0110i\u1EC7n \xE1p: 220V/50Hz')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, '\u0110i\u1EC7n n\u0103ng ti\xEAu th\u1EE5: 24W')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'C\xF4ng ngh\u1EC7 H\xE0n Qu\u1ED1c')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'C\xF4ng su\u1EA5t: 10L\xEDt/h'))));
+}, void 0, _jsx('ul', {}, void 0, _jsx('li', {}, void 0, _jsx('div', {}, void 0, 'K\xEDch th\u01B0\u1EDBc: 420 x 300 x 1189 (mm)')), _jsx('li', {}, void 0, _jsx('div', {}, void 0, '\u0110i\u1EC7n \xE1p: 220V/50Hz')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, '\u0110i\u1EC7n n\u0103ng ti\xEAu th\u1EE5: 24W')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'C\xF4ng ngh\u1EC7 Nh\u1EADt B\u1EA3n')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'C\xF4ng su\u1EA5t: 10L\xEDt/h'))));
 
 var _ref6 = _jsx('div', {
   className: 'product_image_wrapper'
@@ -2167,7 +2167,7 @@ var _ref8 = _jsx('div', {
 
 var _ref9 = _jsx('div', {
   className: 'short_desc'
-}, void 0, _jsx('ul', {}, void 0, _jsx('li', {}, void 0, _jsx('div', {}, void 0, 'K\xEDch thuowcs: 420 x 300 x 1189 (mm)')), _jsx('li', {}, void 0, _jsx('div', {}, void 0, '\u0110i\u1EC7n \xE1p: 220V/50Hz')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, '\u0110i\u1EC7n n\u0103ng ti\xEAu th\u1EE5: 24W')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'C\xF4ng ngh\u1EC7 H\xE0n Qu\u1ED1c')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'C\xF4ng su\u1EA5t: 10L\xEDt/h'))));
+}, void 0, _jsx('ul', {}, void 0, _jsx('li', {}, void 0, _jsx('div', {}, void 0, 'K\xEDch th\u01B0\u1EDBc: 420 x 300 x 1189 (mm)')), _jsx('li', {}, void 0, _jsx('div', {}, void 0, '\u0110i\u1EC7n \xE1p: 220V/50Hz')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, '\u0110i\u1EC7n n\u0103ng ti\xEAu th\u1EE5: 24W')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'C\xF4ng ngh\u1EC7 Nh\u1EADt B\u1EA3n')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'C\xF4ng su\u1EA5t: 10L\xEDt/h'))));
 
 var _ref10 = _jsx('div', {
   className: 'clear'
@@ -2203,7 +2203,7 @@ var _ref14 = _jsx('div', {
 
 var _ref15 = _jsx('div', {
   className: 'short_desc'
-}, void 0, _jsx('ul', {}, void 0, _jsx('li', {}, void 0, _jsx('div', {}, void 0, 'K\xEDch thuowcs: 420 x 300 x 1189 (mm)')), _jsx('li', {}, void 0, _jsx('div', {}, void 0, '\u0110i\u1EC7n \xE1p: 220V/50Hz')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, '\u0110i\u1EC7n n\u0103ng ti\xEAu th\u1EE5: 24W')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'C\xF4ng ngh\u1EC7 H\xE0n Qu\u1ED1c')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'C\xF4ng su\u1EA5t: 10L\xEDt/h'))));
+}, void 0, _jsx('ul', {}, void 0, _jsx('li', {}, void 0, _jsx('div', {}, void 0, 'K\xEDch th\u01B0\u1EDBc: 420 x 300 x 1189 (mm)')), _jsx('li', {}, void 0, _jsx('div', {}, void 0, '\u0110i\u1EC7n \xE1p: 220V/50Hz')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, '\u0110i\u1EC7n n\u0103ng ti\xEAu th\u1EE5: 24W')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'C\xF4ng ngh\u1EC7 H\xE0n Qu\u1ED1c')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'C\xF4ng su\u1EA5t: 10L\xEDt/h'))));
 
 var _ref16 = _jsx('div', {
   className: 'product_image_wrapper'
@@ -2231,7 +2231,7 @@ var _ref18 = _jsx('div', {
 
 var _ref19 = _jsx('div', {
   className: 'short_desc'
-}, void 0, _jsx('ul', {}, void 0, _jsx('li', {}, void 0, _jsx('div', {}, void 0, 'K\xEDch thuowcs: 420 x 300 x 1189 (mm)')), _jsx('li', {}, void 0, _jsx('div', {}, void 0, '\u0110i\u1EC7n \xE1p: 220V/50Hz')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, '\u0110i\u1EC7n n\u0103ng ti\xEAu th\u1EE5: 24W')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'C\xF4ng ngh\u1EC7 H\xE0n Qu\u1ED1c')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'C\xF4ng su\u1EA5t: 10L\xEDt/h'))));
+}, void 0, _jsx('ul', {}, void 0, _jsx('li', {}, void 0, _jsx('div', {}, void 0, 'K\xEDch th\u01B0\u1EDBc: 420 x 300 x 1189 (mm)')), _jsx('li', {}, void 0, _jsx('div', {}, void 0, '\u0110i\u1EC7n \xE1p: 220V/50Hz')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, '\u0110i\u1EC7n n\u0103ng ti\xEAu th\u1EE5: 24W')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'C\xF4ng ngh\u1EC7 H\xE0n Qu\u1ED1c')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'C\xF4ng su\u1EA5t: 10L\xEDt/h'))));
 
 var _ref20 = _jsx('div', {
   className: 'clear'

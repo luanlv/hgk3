@@ -6,7 +6,7 @@
     "js": "/assets/about.bbef973c.chunk.js"
   },
   "shop": {
-    "js": "/assets/shop.2d113362.chunk.js"
+    "js": "/assets/shop.3fcc3c25.chunk.js"
   },
   "news": {
     "js": "/assets/news.844484bc.chunk.js"
@@ -36,6 +36,6 @@
     "js": "/assets/client.d471cb6b.js"
   },
   "vendor": {
-    "js": "/assets/vendor.59e81476.js"
+    "js": "/assets/vendor.a91cb410.js"
   }
 }

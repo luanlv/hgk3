@@ -50,7 +50,7 @@ class About extends React.Component {
                 <ul>
                   <li>
                     <div>
-                      Kích thuowcs: 420 x 300 x 1189 (mm)</div>
+                      Kích thước: 420 x 300 x 1189 (mm)</div>
                   </li>
 
                   <li>
@@ -66,7 +66,7 @@ class About extends React.Component {
 
                   <li>
                     <p>
-                      Công nghệ Hàn Quốc</p>
+                      Công nghệ Nhật Bản</p>
                   </li>
                   <li>
                     <p>
@@ -90,7 +90,7 @@ class About extends React.Component {
                 <ul>
                   <li>
                     <div>
-                      Kích thuowcs: 420 x 300 x 1189 (mm)</div>
+                      Kích thước: 420 x 300 x 1189 (mm)</div>
                   </li>
 
                   <li>
@@ -106,7 +106,7 @@ class About extends React.Component {
 
                   <li>
                     <p>
-                      Công nghệ Hàn Quốc</p>
+                      Công nghệ Nhật Bản</p>
                   </li>
                   <li>
                     <p>
@@ -132,7 +132,7 @@ class About extends React.Component {
                 <ul>
                   <li>
                     <div>
-                      Kích thuowcs: 420 x 300 x 1189 (mm)</div>
+                      Kích thước: 420 x 300 x 1189 (mm)</div>
                   </li>
 
                   <li>
@@ -172,7 +172,7 @@ class About extends React.Component {
                 <ul>
                   <li>
                     <div>
-                      Kích thuowcs: 420 x 300 x 1189 (mm)</div>
+                      Kích thước: 420 x 300 x 1189 (mm)</div>
                   </li>
 
                   <li>
