@@ -74,7 +74,7 @@ class About extends React.Component {
                   </li>
                 </ul>
               </div>
-              <a rel="nofollow" href="#" title="Máy lọc nước HOKODAI" className="readmore">Xem chi tiết</a>
+              {/*<a rel="nofollow" href="#" title="Máy lọc nước HOKODAI" className="readmore">Xem chi tiết</a>*/}
             </div>
           </div>
           <div className="product_box clearfix">
@@ -114,7 +114,7 @@ class About extends React.Component {
                   </li>
                 </ul>
               </div>
-              <a rel="nofollow" href="#" title="Máy Lọc Nước RO Karofi Plus" className="readmore">Xem chi tiết</a>
+              {/*<a rel="nofollow" href="#" title="Máy Lọc Nước RO Karofi Plus" className="readmore">Xem chi tiết</a>*/}
             </div>
           </div>
           <div className="clear" />
@@ -156,7 +156,7 @@ class About extends React.Component {
                   </li>
                 </ul>
               </div>
-              <a rel="nofollow" href="#" title="Máy lọc nước HOKODAI" className="readmore">Xem chi tiết</a>
+              {/*<a rel="nofollow" href="#" title="Máy lọc nước HOKODAI" className="readmore">Xem chi tiết</a>*/}
             </div>
           </div>
           <div className="product_box clearfix">
@@ -196,7 +196,7 @@ class About extends React.Component {
                   </li>
                 </ul>
               </div>
-              <a rel="nofollow" href="#" title="Máy Lọc Nước RO Karofi Plus" className="readmore">Xem chi tiết</a>
+              {/*<a rel="nofollow" href="#" title="Máy Lọc Nước RO Karofi Plus" className="readmore">Xem chi tiết</a>*/}
             </div>
           </div>
           <div className="clear" />

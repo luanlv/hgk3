@@ -3,10 +3,10 @@
     "js": "/assets/admin.b2773981.chunk.js"
   },
   "about": {
-    "js": "/assets/about.760060a0.chunk.js"
+    "js": "/assets/about.bbef973c.chunk.js"
   },
   "shop": {
-    "js": "/assets/shop.8674a174.chunk.js"
+    "js": "/assets/shop.2d113362.chunk.js"
   },
   "news": {
     "js": "/assets/news.844484bc.chunk.js"
@@ -23,16 +23,19 @@
   "sanpham": {
     "js": "/assets/sanpham.5f9042d3.chunk.js"
   },
+  "phanphoi": {
+    "js": "/assets/phanphoi.dd34075f.chunk.js"
+  },
   "newsDetail": {
-    "js": "/assets/newsDetail.ce3c79aa.chunk.js"
+    "js": "/assets/newsDetail.c69a2dcb.chunk.js"
   },
   "linhkien": {
-    "js": "/assets/linhkien.4051b477.chunk.js"
+    "js": "/assets/linhkien.22968378.chunk.js"
   },
   "client": {
-    "js": "/assets/client.9afbb039.js"
+    "js": "/assets/client.d471cb6b.js"
   },
   "vendor": {
-    "js": "/assets/vendor.23b70827.js"
+    "js": "/assets/vendor.59e81476.js"
   }
 }

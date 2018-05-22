@@ -37,10 +37,10 @@ export default {
     store.dispatch(setData(data))
 
     store.dispatch(hideLoading())
-    return require.ensure([], require => require('./About').default, 'about')
+    return require.ensure([], require => require('./About').default, 'phanphoi')
       .then(About => ({
         title,
-        chunk: 'about',
+        chunk: 'phanphoi',
         component: <Layout data={store.getState().data} ><About data={store.getState().data} /></Layout>,
       }));
   },

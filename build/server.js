@@ -2085,7 +2085,7 @@ var _jsx = function () { var REACT_ELEMENT_TYPE = typeof Symbol === "function" &
 
 
 
-var _ref = _jsx('div', {}, void 0, _jsx('div', {
+var _ref = _jsx('div', {
   id: 'breadCrumb',
   className: 'clearfix t-breadCrumb'
 }, void 0, _jsx('div', {
@@ -2111,12 +2111,9 @@ var _ref = _jsx('div', {}, void 0, _jsx('div', {
   itemProp: 'url'
 }, void 0, _jsx('span', {
   itemProp: 'title'
-}, void 0, 'M\xC1Y L\u1ECCC N\u01AF\u1EDAC'))))), _jsx('div', {
-  id: 'content_wrapper',
-  className: 'product_layout main clearfix'
-}, void 0, _jsx('div', {
-  className: 'product_box clearfix'
-}, void 0, _jsx('div', {
+}, void 0, 'M\xC1Y L\u1ECCC N\u01AF\u1EDAC')))));
+
+var _ref2 = _jsx('div', {
   className: 'product_image_wrapper'
 }, void 0, _jsx('div', {
   className: 'product_image'
@@ -2127,25 +2124,24 @@ var _ref = _jsx('div', {}, void 0, _jsx('div', {
   src: '/p/mays8.png',
   alt: 'M\xE1y l\u1ECDc n\u01B0\u1EDBc uRO 1.0',
   'data-pin-nopin': 'true'
-})))), _jsx('div', {
-  className: 'product_info'
-}, void 0, _jsx('h2', {
+}))));
+
+var _ref3 = _jsx('h2', {
   className: 'product_title'
 }, void 0, _jsx('a', {
   href: '#',
   title: 'M\xE1y l\u1ECDc n\u01B0\u1EDBc uRO 1.0'
-}, void 0, 'M\xE1y l\u1ECDc nu\u1EDBc OTAWA')), _jsx('div', {
+}, void 0, 'M\xE1y l\u1ECDc nu\u1EDBc OTAWA'));
+
+var _ref4 = _jsx('div', {
   className: 'product_model'
-}, void 0, 'Model: OTW S8 XLS'), _jsx('div', {
+}, void 0, 'Model: OTW S8 XLS');
+
+var _ref5 = _jsx('div', {
   className: 'short_desc'
-}, void 0, _jsx('ul', {}, void 0, _jsx('li', {}, void 0, _jsx('div', {}, void 0, 'K\xEDch thuowcs: 420 x 300 x 1189 (mm)')), _jsx('li', {}, void 0, _jsx('div', {}, void 0, '\u0110i\u1EC7n \xE1p: 220V/50Hz')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, '\u0110i\u1EC7n n\u0103ng ti\xEAu th\u1EE5: 24W')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'C\xF4ng ngh\u1EC7 H\xE0n Qu\u1ED1c')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'C\xF4ng su\u1EA5t: 10L\xEDt/h')))), _jsx('a', {
-  rel: 'nofollow',
-  href: '#',
-  title: 'M\xE1y l\u1ECDc n\u01B0\u1EDBc HOKODAI',
-  className: 'readmore'
-}, void 0, 'Xem chi ti\u1EBFt'))), _jsx('div', {
-  className: 'product_box clearfix'
-}, void 0, _jsx('div', {
+}, void 0, _jsx('ul', {}, void 0, _jsx('li', {}, void 0, _jsx('div', {}, void 0, 'K\xEDch thuowcs: 420 x 300 x 1189 (mm)')), _jsx('li', {}, void 0, _jsx('div', {}, void 0, '\u0110i\u1EC7n \xE1p: 220V/50Hz')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, '\u0110i\u1EC7n n\u0103ng ti\xEAu th\u1EE5: 24W')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'C\xF4ng ngh\u1EC7 H\xE0n Qu\u1ED1c')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'C\xF4ng su\u1EA5t: 10L\xEDt/h'))));
+
+var _ref6 = _jsx('div', {
   className: 'product_image_wrapper'
 }, void 0, _jsx('div', {
   className: 'product_image'
@@ -2156,29 +2152,32 @@ var _ref = _jsx('div', {}, void 0, _jsx('div', {
   src: '/p/f12.jpg',
   alt: 'M\xE1y L\u1ECDc N\u01B0\u1EDBc RO Karofi Plus',
   'data-pin-nopin': 'true'
-})))), _jsx('div', {
-  className: 'product_info'
-}, void 0, _jsx('h2', {
+}))));
+
+var _ref7 = _jsx('h2', {
   className: 'product_title'
 }, void 0, _jsx('a', {
   href: '#',
   title: 'M\xE1y L\u1ECDc N\u01B0\u1EDBc RO Karofi Plus'
-}, void 0, 'M\xE1y l\u1ECDc nu\u1EDBc OTAWA')), _jsx('div', {
+}, void 0, 'M\xE1y l\u1ECDc nu\u1EDBc OTAWA'));
+
+var _ref8 = _jsx('div', {
   className: 'product_model'
-}, void 0, 'Model: OTW F12 Modern'), _jsx('div', {
+}, void 0, 'Model: OTW F12 Modern');
+
+var _ref9 = _jsx('div', {
   className: 'short_desc'
-}, void 0, _jsx('ul', {}, void 0, _jsx('li', {}, void 0, _jsx('div', {}, void 0, 'K\xEDch thuowcs: 420 x 300 x 1189 (mm)')), _jsx('li', {}, void 0, _jsx('div', {}, void 0, '\u0110i\u1EC7n \xE1p: 220V/50Hz')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, '\u0110i\u1EC7n n\u0103ng ti\xEAu th\u1EE5: 24W')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'C\xF4ng ngh\u1EC7 H\xE0n Qu\u1ED1c')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'C\xF4ng su\u1EA5t: 10L\xEDt/h')))), _jsx('a', {
-  rel: 'nofollow',
-  href: '#',
-  title: 'M\xE1y L\u1ECDc N\u01B0\u1EDBc RO Karofi Plus',
-  className: 'readmore'
-}, void 0, 'Xem chi ti\u1EBFt'))), _jsx('div', {
+}, void 0, _jsx('ul', {}, void 0, _jsx('li', {}, void 0, _jsx('div', {}, void 0, 'K\xEDch thuowcs: 420 x 300 x 1189 (mm)')), _jsx('li', {}, void 0, _jsx('div', {}, void 0, '\u0110i\u1EC7n \xE1p: 220V/50Hz')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, '\u0110i\u1EC7n n\u0103ng ti\xEAu th\u1EE5: 24W')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'C\xF4ng ngh\u1EC7 H\xE0n Qu\u1ED1c')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'C\xF4ng su\u1EA5t: 10L\xEDt/h'))));
+
+var _ref10 = _jsx('div', {
   className: 'clear'
-}), _jsx('div', {
+});
+
+var _ref11 = _jsx('div', {
   className: 'divider'
-}), _jsx('div', {
-  className: 'product_box clearfix'
-}, void 0, _jsx('div', {
+});
+
+var _ref12 = _jsx('div', {
   className: 'product_image_wrapper'
 }, void 0, _jsx('div', {
   className: 'product_image'
@@ -2189,25 +2188,24 @@ var _ref = _jsx('div', {}, void 0, _jsx('div', {
   src: '/p/lamyco.jpg',
   alt: 'M\xE1y l\u1ECDc n\u01B0\u1EDBc uRO 1.0',
   'data-pin-nopin': 'true'
-})))), _jsx('div', {
-  className: 'product_info'
-}, void 0, _jsx('h2', {
+}))));
+
+var _ref13 = _jsx('h2', {
   className: 'product_title'
 }, void 0, _jsx('a', {
   href: '#',
   title: 'M\xE1y l\u1ECDc n\u01B0\u1EDBc uRO 1.0'
-}, void 0, 'M\xE1y l\u1ECDc nu\u1EDBc LAMYCO')), _jsx('div', {
+}, void 0, 'M\xE1y l\u1ECDc nu\u1EDBc LAMYCO'));
+
+var _ref14 = _jsx('div', {
   className: 'product_model'
-}, void 0, 'Model: 2018'), _jsx('div', {
+}, void 0, 'Model: 2018');
+
+var _ref15 = _jsx('div', {
   className: 'short_desc'
-}, void 0, _jsx('ul', {}, void 0, _jsx('li', {}, void 0, _jsx('div', {}, void 0, 'K\xEDch thuowcs: 420 x 300 x 1189 (mm)')), _jsx('li', {}, void 0, _jsx('div', {}, void 0, '\u0110i\u1EC7n \xE1p: 220V/50Hz')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, '\u0110i\u1EC7n n\u0103ng ti\xEAu th\u1EE5: 24W')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'C\xF4ng ngh\u1EC7 H\xE0n Qu\u1ED1c')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'C\xF4ng su\u1EA5t: 10L\xEDt/h')))), _jsx('a', {
-  rel: 'nofollow',
-  href: '#',
-  title: 'M\xE1y l\u1ECDc n\u01B0\u1EDBc HOKODAI',
-  className: 'readmore'
-}, void 0, 'Xem chi ti\u1EBFt'))), _jsx('div', {
-  className: 'product_box clearfix'
-}, void 0, _jsx('div', {
+}, void 0, _jsx('ul', {}, void 0, _jsx('li', {}, void 0, _jsx('div', {}, void 0, 'K\xEDch thuowcs: 420 x 300 x 1189 (mm)')), _jsx('li', {}, void 0, _jsx('div', {}, void 0, '\u0110i\u1EC7n \xE1p: 220V/50Hz')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, '\u0110i\u1EC7n n\u0103ng ti\xEAu th\u1EE5: 24W')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'C\xF4ng ngh\u1EC7 H\xE0n Qu\u1ED1c')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'C\xF4ng su\u1EA5t: 10L\xEDt/h'))));
+
+var _ref16 = _jsx('div', {
   className: 'product_image_wrapper'
 }, void 0, _jsx('div', {
   className: 'product_image'
@@ -2218,27 +2216,30 @@ var _ref = _jsx('div', {}, void 0, _jsx('div', {
   src: '/p/hokodai.jpg',
   alt: 'M\xE1y L\u1ECDc N\u01B0\u1EDBc RO Karofi Plus',
   'data-pin-nopin': 'true'
-})))), _jsx('div', {
-  className: 'product_info'
-}, void 0, _jsx('h2', {
+}))));
+
+var _ref17 = _jsx('h2', {
   className: 'product_title'
 }, void 0, _jsx('a', {
   href: '#',
   title: 'M\xE1y L\u1ECDc N\u01B0\u1EDBc RO Karofi Plus'
-}, void 0, 'M\xE1y l\u1ECDc nu\u1EDBc HOKODAI')), _jsx('div', {
+}, void 0, 'M\xE1y l\u1ECDc nu\u1EDBc HOKODAI'));
+
+var _ref18 = _jsx('div', {
   className: 'product_model'
-}, void 0, 'Model: 2018'), _jsx('div', {
+}, void 0, 'Model: 2018');
+
+var _ref19 = _jsx('div', {
   className: 'short_desc'
-}, void 0, _jsx('ul', {}, void 0, _jsx('li', {}, void 0, _jsx('div', {}, void 0, 'K\xEDch thuowcs: 420 x 300 x 1189 (mm)')), _jsx('li', {}, void 0, _jsx('div', {}, void 0, '\u0110i\u1EC7n \xE1p: 220V/50Hz')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, '\u0110i\u1EC7n n\u0103ng ti\xEAu th\u1EE5: 24W')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'C\xF4ng ngh\u1EC7 H\xE0n Qu\u1ED1c')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'C\xF4ng su\u1EA5t: 10L\xEDt/h')))), _jsx('a', {
-  rel: 'nofollow',
-  href: '#',
-  title: 'M\xE1y L\u1ECDc N\u01B0\u1EDBc RO Karofi Plus',
-  className: 'readmore'
-}, void 0, 'Xem chi ti\u1EBFt'))), _jsx('div', {
+}, void 0, _jsx('ul', {}, void 0, _jsx('li', {}, void 0, _jsx('div', {}, void 0, 'K\xEDch thuowcs: 420 x 300 x 1189 (mm)')), _jsx('li', {}, void 0, _jsx('div', {}, void 0, '\u0110i\u1EC7n \xE1p: 220V/50Hz')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, '\u0110i\u1EC7n n\u0103ng ti\xEAu th\u1EE5: 24W')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'C\xF4ng ngh\u1EC7 H\xE0n Qu\u1ED1c')), _jsx('li', {}, void 0, _jsx('p', {}, void 0, 'C\xF4ng su\u1EA5t: 10L\xEDt/h'))));
+
+var _ref20 = _jsx('div', {
   className: 'clear'
-}), _jsx('div', {
+});
+
+var _ref21 = _jsx('div', {
   className: 'divider'
-})));
+});
 
 function About(props) {
 
@@ -2252,7 +2253,26 @@ function About(props) {
   //   category = productCategories.find(p => p.slug === this.props.slug)
   // }
 
-  return _ref;
+  return _jsx('div', {}, void 0, _ref, _jsx('div', {
+    id: 'content_wrapper',
+    className: 'product_layout main clearfix'
+  }, void 0, _jsx('div', {
+    className: 'product_box clearfix'
+  }, void 0, _ref2, _jsx('div', {
+    className: 'product_info'
+  }, void 0, _ref3, _ref4, _ref5)), _jsx('div', {
+    className: 'product_box clearfix'
+  }, void 0, _ref6, _jsx('div', {
+    className: 'product_info'
+  }, void 0, _ref7, _ref8, _ref9)), _ref10, _ref11, _jsx('div', {
+    className: 'product_box clearfix'
+  }, void 0, _ref12, _jsx('div', {
+    className: 'product_info'
+  }, void 0, _ref13, _ref14, _ref15)), _jsx('div', {
+    className: 'product_box clearfix'
+  }, void 0, _ref16, _jsx('div', {
+    className: 'product_info'
+  }, void 0, _ref17, _ref18, _ref19)), _ref20, _ref21));
 }
 
 /* harmony default export */ __webpack_exports__["default"] = (About);
@@ -3002,7 +3022,6 @@ var _ref12 = _jsx('link', {
 var _ref13 = _jsx('link', {
   rel: 'stylesheet',
   type: 'text/css',
-  charset: 'UTF-8',
   href: 'https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css'
 });
 
@@ -3060,31 +3079,26 @@ var _ref22 = _jsx('script', {
 });
 
 var _ref23 = _jsx('script', {
-  language: 'javascript',
   type: 'text/javascript',
   src: '/js/menu_index.js'
 });
 
 var _ref24 = _jsx('script', {
-  language: 'javascript',
   type: 'text/javascript',
   src: '/js/jquery.flexslider-min.js'
 });
 
 var _ref25 = _jsx('script', {
-  language: 'javascript',
   type: 'text/javascript',
   src: '/js/jquery.carouFredSel-5.5.0-packed.js'
 });
 
 var _ref26 = _jsx('script', {
-  language: 'javascript',
   type: 'text/javascript',
   src: '/js/jquery.hashchange.min.js'
 });
 
 var _ref27 = _jsx('script', {
-  language: 'javascript',
   type: 'text/javascript',
   src: '/js/jquery.easytabs.min.js'
 });
@@ -17210,6 +17224,8 @@ function ErrorPage(props) {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_react_slick___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_5_react_slick__);
 var _jsx = function () { var REACT_ELEMENT_TYPE = typeof Symbol === "function" && Symbol.for && Symbol.for("react.element") || 0xeac7; return function createRawReactElement(type, props, key, children) { var defaultProps = type && type.defaultProps; var childrenLength = arguments.length - 3; if (!props && childrenLength !== 0) { props = {}; } if (props && defaultProps) { for (var propName in defaultProps) { if (props[propName] === void 0) { props[propName] = defaultProps[propName]; } } } else if (!props) { props = defaultProps || {}; } if (childrenLength === 1) { props.children = children; } else if (childrenLength > 1) { var childArray = Array(childrenLength); for (var i = 0; i < childrenLength; i++) { childArray[i] = arguments[i + 3]; } props.children = childArray; } return { $$typeof: REACT_ELEMENT_TYPE, type: type, key: key === undefined ? null : '' + key, ref: null, props: props, _owner: null }; }; }();
 
+var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
+
 /**
  * React Starter Kit (https://www.reactstarterkit.com/)
  *
@@ -17313,7 +17329,15 @@ var _ref10 = _jsx('hr', {});
 
 class Home extends __WEBPACK_IMPORTED_MODULE_0_react___default.a.Component {
 
+  constructor(props) {
+    super(props);
+    this.state = {
+      show: 1
+    };
+  }
+
   componentDidMount() {
+    let that = this;
     if (false) {
       $('#slider').slick({
         responsive: [{
@@ -17332,7 +17356,18 @@ class Home extends __WEBPACK_IMPORTED_MODULE_0_react___default.a.Component {
           }
         }]
       });
+
+      that.int = setInterval(() => {
+        that.setState(prev => {
+          return _extends({}, prev, {
+            show: 1 - that.state.show
+          });
+        });
+      }, 4000);
     }
+  }
+  componentWillUnmount() {
+    clearInterval(this.int);
   }
 
   render() {
@@ -17395,17 +17430,31 @@ class Home extends __WEBPACK_IMPORTED_MODULE_0_react___default.a.Component {
     }, void 0, _jsx('figure', {}, void 0, _jsx('h1', {
       className: 'right',
       style: { textAlign: 'center' }
-    }, void 0, 'Th\u01B0\u01A1ng hi\u1EC7u \u0111\u1EBFn t\u1EEB Nh\u1EADt B\u1EA3n'))), _jsx('img', {
-      className: 'animated bounceInLeft',
+    }, void 0, 'Th\u01B0\u01A1ng hi\u1EC7u \u0111\u1EBFn t\u1EEB Nh\u1EADt B\u1EA3n'))), this.state.show === 1 && _jsx('div', {
+      id: 'sp1'
+    }, void 0, _jsx('img', {
+      className: 'sp animated bounceInLeft',
       src: 'left.png',
       alt: true,
       style: { width: '13vw', position: 'absolute', zIndex: 2, right: '59%', bottom: '10%' }
     }), _jsx('img', {
-      className: 'animated bounceInRight',
+      className: 'sp animated bounceInRight',
       src: 'right.png',
       alt: true,
       style: { width: '12vw', position: 'absolute', zIndex: 2, left: '58%', bottom: '20%' }
+    })), this.state.show === 0 && _jsx('div', {
+      id: 'sp2'
+    }, void 0, _jsx('img', {
+      className: 'sp animated bounceInLeft',
+      src: '/p/mays8.png',
+      alt: true,
+      style: { width: '20vw', position: 'absolute', zIndex: 2, right: '56%', bottom: '15%' }
     }), _jsx('img', {
+      className: 'sp animated bounceInRight',
+      src: 'right.png',
+      alt: true,
+      style: { width: '12vw', position: 'absolute', zIndex: 2, left: '58%', bottom: '20%' }
+    })), _jsx('img', {
       className: 'background',
       src: '31.png',
       alt: 'chuong trinh khuyen mai 3 ngay 1 SH',
@@ -18403,7 +18452,6 @@ function _asyncToGenerator(fn) { return function () { var gen = fn.apply(this, a
       // Provide default values for title, description etc.
       route.title = `${route.title || 'Untitled Page'}`;
       route.description = route.description || '';
-
       return route;
     })();
   }
@@ -19337,52 +19385,6 @@ var _ref5 = _jsx('br', {});
 
 var _ref6 = _jsx('br', {});
 
-var _ref7 = _jsx('div', {
-  className: 't-main_sidebar col-md-3'
-}, void 0, _jsx('h3', {
-  className: 'title-sigle-right'
-}, void 0, 'Ho\xE0ng Gia Kh\xE1nh vi\u1EC7t nam'), _jsx('ul', {}, void 0, _jsx('li', {}, void 0, _jsx('img', {
-  src: 'https://karofi.com/img/bullet.png',
-  alt: true
-}), ' ', _jsx('a', {
-  href: '#ve-chung-toi-sg1.html',
-  title: 'V\u1EC1 ch\xFAng t\xF4i',
-  className: 't-active'
-}, void 0, 'V\u1EC1 ch\xFAng t\xF4i ')), _jsx('li', {}, void 0, _jsx('img', {
-  src: 'https://karofi.com/img/bullet.png',
-  alt: true
-}), ' ', _jsx('a', {
-  href: '#gia-tri-cot-loi-sg2.html',
-  title: 'Gi\xE1 tr\u1ECB c\u1ED1t l\xF5i'
-}, void 0, 'Gi\xE1 tr\u1ECB c\u1ED1t l\xF5i')), _jsx('li', {}, void 0, _jsx('img', {
-  src: 'https://karofi.com/img/bullet.png',
-  alt: true
-}), ' ', _jsx('a', {
-  href: '#tam-nhin-va-su-menh-sg4.html',
-  title: 'T\u1EA7m nh\xECn v\xE0 S\u1EE9 m\u1EC7nh'
-}, void 0, 'T\u1EA7m nh\xECn v\xE0 S\u1EE9 m\u1EC7nh ')), _jsx('li', {}, void 0, _jsx('img', {
-  src: 'https://karofi.com/img/bullet.png',
-  alt: true
-}), ' ', _jsx('a', {
-  href: '#thanh-tich-dat-duoc-sg5.html',
-  title: 'Th\xE0nh t\xEDch \u0111\u1EA1t \u0111\u01B0\u1EE3c'
-}, void 0, 'Th\xE0nh t\xEDch \u0111\u1EA1t \u0111\u01B0\u1EE3c')), _jsx('li', {}, void 0, _jsx('img', {
-  src: 'https://karofi.com/img/bullet.png',
-  alt: true
-}), ' ', _jsx('a', {
-  href: '#ban-tin-Ho\xE0ng Gia Kh\xE1nh-cc5'
-}, void 0, ' B\u1EA3n tin Ho\xE0ng Gia Kh\xE1nh')), _jsx('li', {}, void 0, _jsx('img', {
-  src: 'https://karofi.com/img/bullet.png',
-  alt: true
-}), ' ', _jsx('a', {
-  href: '#trach-nhiem-xa-hoi-cc25'
-}, void 0, ' Tr\xE1ch nhi\u1EC7m x\xE3 h\u1ED9i')), _jsx('li', {}, void 0, _jsx('img', {
-  src: 'https://karofi.com/img/bullet.png',
-  alt: true
-}), ' ', _jsx('a', {
-  href: '#bao-chi-noi-ve-Ho\xE0ng Gia Kh\xE1nh-cc6'
-}, void 0, ' B\xE1o ch\xED n\xF3i g\xEC v\u1EC1 Ho\xE0ng Gia Kh\xE1nh'))));
-
 function About(props) {
 
   const about = props.data.information.value.about;
@@ -19392,8 +19394,6 @@ function About(props) {
     className: 'product_layout product_detail_layout main clearfix'
   }, void 0, _jsx('div', {
     className: 'row'
-  }, void 0, _jsx('div', {
-    className: 'col-md-9'
   }, void 0, _jsx('div', {
     id: 'dnn_ctr530995_ModuleContent',
     style: { fontSize: '18px !important' }
@@ -19414,7 +19414,7 @@ function About(props) {
     alt: true,
     src: 'http://maylocnuocotawa.com/Portals/27218/hethongphanphoi.png',
     style: { width: 616, height: 350, borderWidth: 0, borderStyle: 'solid' }
-  }), _ref6, 'H\xECnh 2: K\xEAnh ph\xE2n ph\u1ED1i s\u1EA3n ph\u1EA9m nh\u1EADt kh\u1EA9u c\u1EE7a c\xF4ng ty \u0111\u1EBFn ng\u01B0\u1EDDi ti\xEAu d\xF9ng.'))))), _ref7)));
+  }), _ref6, 'H\xECnh 2: K\xEAnh ph\xE2n ph\u1ED1i s\u1EA3n ph\u1EA9m nh\u1EADt kh\u1EA9u c\u1EE7a c\xF4ng ty \u0111\u1EBFn ng\u01B0\u1EDDi ti\xEAu d\xF9ng.')))))));
 }
 
 /* harmony default export */ __webpack_exports__["default"] = (About);
@@ -19547,7 +19547,7 @@ const title = 'Hoàng Gia Khánh | Hệ thống phân phối';
       }).bind(null, __webpack_require__)).catch(__webpack_require__.oe).then(function (About) {
         return {
           title,
-          chunk: 'about',
+          chunk: 'phanphoi',
           component: _jsx(__WEBPACK_IMPORTED_MODULE_1__components_Layout__["a" /* default */], {
             data: store.getState().data
           }, void 0, _jsx(About, {

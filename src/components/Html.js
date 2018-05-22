@@ -53,7 +53,7 @@ class Html extends React.Component {
           <script src="/js/jquery_googlemap.js" type="text/javascript" />
           <script src="/js/pagination_loadmore.js" type="text/javascript" />
           <link rel="stylesheet" type="text/css"  href={"/css/app.css?v=" + version }/>
-          <link rel="stylesheet" type="text/css" charset="UTF-8" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css" />
+          <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css" />
           <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css" />
           <style dangerouslySetInnerHTML={{ __html: css }} />
           <script dangerouslySetInnerHTML={{ __html: scriptTop }} />
@@ -72,11 +72,11 @@ class Html extends React.Component {
           <script type="text/javascript" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/499416/TweenLite.min.js"/>
           <script type="text/javascript" src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/499416/EasePack.min.js"/>
           <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"/>
-          <script language="javascript" type="text/javascript" src="/js/menu_index.js"/>
-          <script language="javascript" type="text/javascript" src="/js/jquery.flexslider-min.js"/>
-          <script language="javascript" type="text/javascript" src="/js/jquery.carouFredSel-5.5.0-packed.js" />
-          <script language="javascript" type="text/javascript" src="/js/jquery.hashchange.min.js" />
-          <script language="javascript" type="text/javascript" src="/js/jquery.easytabs.min.js" />
+          <script  type="text/javascript" src="/js/menu_index.js"/>
+          <script type="text/javascript" src="/js/jquery.flexslider-min.js"/>
+          <script type="text/javascript" src="/js/jquery.carouFredSel-5.5.0-packed.js" />
+          <script type="text/javascript" src="/js/jquery.hashchange.min.js" />
+          <script type="text/javascript" src="/js/jquery.easytabs.min.js" />
           <script type="text/javascript" src="/js/jquery.flexisel.js" />
           <script type="text/javascript" src="/fancybox/jquery.fancybox-1.3.4.pack.js" />
           <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"/>

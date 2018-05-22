@@ -30,7 +30,7 @@ class About extends React.Component {
 
         <div id="content_wrapper" className="product_layout product_detail_layout main clearfix">
           <div className="row">
-            <div className="col-md-9">
+
               <div id="dnn_ctr530995_ModuleContent"
                 style={{fontSize: '18px !important'}}
               >
@@ -44,22 +44,6 @@ class About extends React.Component {
                 </div>
                 {/* End_Module_530995 */}
               </div>
-
-            </div>
-        <div className="t-main_sidebar col-md-3">
-          <h3 className="title-sigle-right">
-            Hoàng Gia Khánh việt nam
-          </h3>
-          <ul>
-            <li><img src="https://karofi.com/img/bullet.png" alt /> <a href="#ve-chung-toi-sg1.html" title="Về chúng tôi" className="t-active">Về chúng tôi </a></li>
-            <li><img src="https://karofi.com/img/bullet.png" alt /> <a href="#gia-tri-cot-loi-sg2.html" title="Giá trị cốt lõi">Giá trị cốt lõi</a></li>
-            <li><img src="https://karofi.com/img/bullet.png" alt /> <a href="#tam-nhin-va-su-menh-sg4.html" title="Tầm nhìn và Sứ mệnh">Tầm nhìn và Sứ mệnh </a></li>
-            <li><img src="https://karofi.com/img/bullet.png" alt /> <a href="#thanh-tich-dat-duoc-sg5.html" title="Thành tích đạt được">Thành tích đạt được</a></li>
-            <li><img src="https://karofi.com/img/bullet.png" alt /> <a href="#ban-tin-Hoàng Gia Khánh-cc5"> Bản tin Hoàng Gia Khánh</a></li>
-            <li><img src="https://karofi.com/img/bullet.png" alt /> <a href="#trach-nhiem-xa-hoi-cc25"> Trách nhiệm xã hội</a></li>
-            <li><img src="https://karofi.com/img/bullet.png" alt /> <a href="#bao-chi-noi-ve-Hoàng Gia Khánh-cc6"> Báo chí nói gì về Hoàng Gia Khánh</a></li>
-          </ul>
-        </div>
       </div>
   </div>
 
