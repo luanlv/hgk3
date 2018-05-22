@@ -17446,26 +17446,22 @@ class Home extends __WEBPACK_IMPORTED_MODULE_0_react___default.a.Component {
     }, void 0, _jsx('figure', {}, void 0, _jsx('h1', {
       className: 'right',
       style: { textAlign: 'center' }
-    }, void 0, 'Th\u01B0\u01A1ng hi\u1EC7u \u0111\u1EBFn t\u1EEB Nh\u1EADt B\u1EA3n'))), this.state.show === 1 && _jsx('div', {
-      id: 'sp1'
-    }, void 0, _jsx('img', {
+    }, void 0, 'Th\u01B0\u01A1ng hi\u1EC7u \u0111\u1EBFn t\u1EEB Nh\u1EADt B\u1EA3n'))), _jsx('div', {}, void 0, this.state.show === 1 && _jsx('img', {
       className: 'sp animated bounceInLeft',
       src: 'left.png',
       alt: true,
       style: { width: '13vw', position: 'absolute', zIndex: 2, right: '59%', bottom: '10%' }
-    }), _jsx('img', {
+    }), this.state.show === 1 && _jsx('img', {
       className: 'sp animated bounceInRight',
       src: 'right.png',
       alt: true,
       style: { width: '12vw', position: 'absolute', zIndex: 2, left: '58%', bottom: '20%' }
-    })), this.state.show === 0 && _jsx('div', {
-      id: 'sp2'
-    }, void 0, _jsx('img', {
+    })), _jsx('div', {}, void 0, this.state.show === 0 && _jsx('img', {
       className: 'sp animated bounceInLeft',
       src: '/p/mays8.png',
       alt: true,
       style: { width: '20vw', position: 'absolute', zIndex: 2, right: '56%', bottom: '15%' }
-    }), _jsx('img', {
+    }), this.state.show === 0 && _jsx('img', {
       className: 'sp animated bounceInRight',
       src: 'right.png',
       alt: true,

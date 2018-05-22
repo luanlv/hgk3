@@ -114,15 +114,15 @@ class Home extends React.Component {
               </figure>
             </span>
 
-            {this.state.show === 1 && <div id="sp1" >
-              <img className="sp animated bounceInLeft" src="left.png" alt style={{width: '13vw', position: 'absolute', zIndex: 2, right: '59%', bottom: '10%'}} />
-              <img className="sp animated bounceInRight" src="right.png" alt style={{width: '12vw', position: 'absolute', zIndex: 2, left: '58%', bottom: '20%'}} />
-            </div>}
+            <div >
+              {this.state.show === 1 && <img className="sp animated bounceInLeft" src="left.png" alt style={{width: '13vw', position: 'absolute', zIndex: 2, right: '59%', bottom: '10%'}} />}
+              {this.state.show === 1 && <img className="sp animated bounceInRight" src="right.png" alt style={{width: '12vw', position: 'absolute', zIndex: 2, left: '58%', bottom: '20%'}} />}
+            </div>
 
-            {this.state.show === 0 && <div id="sp2">
-              <img className="sp animated bounceInLeft" src="/p/mays8.png" alt style={{width: '20vw', position: 'absolute', zIndex: 2, right: '56%', bottom: '15%'}} />
-              <img className="sp animated bounceInRight" src="right.png" alt style={{width: '12vw', position: 'absolute', zIndex: 2, left: '58%', bottom: '20%'}} />
-            </div>}
+            <div >
+              {this.state.show === 0 && <img className="sp animated bounceInLeft" src="/p/mays8.png" alt style={{width: '20vw', position: 'absolute', zIndex: 2, right: '56%', bottom: '15%'}} />}
+              {this.state.show === 0 && <img className="sp animated bounceInRight" src="right.png" alt style={{width: '12vw', position: 'absolute', zIndex: 2, left: '58%', bottom: '20%'}} />}
+            </div>
 
             <img className="background" src="31.png" alt="chuong trinh khuyen mai 3 ngay 1 SH" style={{width: '100vw', height: '45vw', position: 'absolute', zIndex: 0}} />
 
