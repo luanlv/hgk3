@@ -13,7 +13,7 @@ import serialize from 'serialize-javascript';
 import config from '../config';
 
 /* eslint-disable react/no-danger */
-const version = 1
+const version = 2
 
 class Html extends React.Component {
   static propTypes = {

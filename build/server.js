@@ -2954,7 +2954,7 @@ var _jsx = function () { var REACT_ELEMENT_TYPE = typeof Symbol === "function" &
 
 
 /* eslint-disable react/no-danger */
-const version = 1;
+const version = 2;
 
 var _ref = _jsx('meta', {
   charSet: 'utf-8'
@@ -17259,22 +17259,22 @@ var _ref6 = _jsx('div', {
 }, void 0, _jsx('div', {
   className: 'col-lg-3 col-xs-6 '
 }, void 0, _jsx('img', {
-  src: '/otawa.jpg',
+  src: '/otawa2.jpg',
   alt: 'lamyco2'
 })), _jsx('div', {
   className: 'col-lg-3 col-xs-6'
 }, void 0, _jsx('img', {
-  src: '/hokodai.jpg',
+  src: '/hokodai2.jpg',
   alt: 'lamyco2'
 })), _jsx('div', {
   className: 'col-lg-3 col-xs-6'
 }, void 0, _jsx('img', {
-  src: '/mokin.jpg',
+  src: '/mokin2.jpg',
   alt: 'lamyco2'
 })), _jsx('div', {
   className: 'col-lg-3 col-xs-6'
 }, void 0, _jsx('img', {
-  src: '/lamyco.jpg',
+  src: '/lamyco2.jpg',
   alt: 'lamyco2'
 }))));
 
@@ -17446,7 +17446,7 @@ class Home extends __WEBPACK_IMPORTED_MODULE_0_react___default.a.Component {
     }, void 0, _jsx('figure', {}, void 0, _jsx('h1', {
       className: 'right',
       style: { textAlign: 'center' }
-    }, void 0, 'Th\u01B0\u01A1ng hi\u1EC7u \u0111\u1EBFn t\u1EEB Nh\u1EADt B\u1EA3n'))), _jsx('div', {}, void 0, this.state.show === 1 && _jsx('img', {
+    }, void 0, 'Th\u01B0\u01A1ng hi\u1EC7u \u0111\u1EBFn t\u1EEB Nh\u1EADt B\u1EA3n'))), this.state.show === 1 && _jsx('img', {
       className: 'sp animated bounceInLeft',
       src: 'left.png',
       alt: true,
@@ -17456,7 +17456,7 @@ class Home extends __WEBPACK_IMPORTED_MODULE_0_react___default.a.Component {
       src: 'right.png',
       alt: true,
       style: { width: '12vw', position: 'absolute', zIndex: 2, left: '58%', bottom: '20%' }
-    })), _jsx('div', {}, void 0, this.state.show === 0 && _jsx('img', {
+    }), this.state.show === 0 && _jsx('img', {
       className: 'sp animated bounceInLeft',
       src: '/p/mays8.png',
       alt: true,
@@ -17466,7 +17466,7 @@ class Home extends __WEBPACK_IMPORTED_MODULE_0_react___default.a.Component {
       src: 'right.png',
       alt: true,
       style: { width: '12vw', position: 'absolute', zIndex: 2, left: '58%', bottom: '20%' }
-    })), _jsx('img', {
+    }), _jsx('img', {
       className: 'background',
       src: '31.png',
       alt: 'chuong trinh khuyen mai 3 ngay 1 SH',
