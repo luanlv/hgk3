@@ -173,16 +173,16 @@ class Home extends React.Component {
           <div className="containerWr">
             <div className="row brand">
               <div className="col-lg-3 col-xs-6 ">
-                <img src="/otawa2.jpg" alt="lamyco2" />
+                <img src="/otawa_2.jpg" alt="lamyco2" />
               </div>
               <div className="col-lg-3 col-xs-6">
-                <img src="/hokodai2.jpg" alt="lamyco2" />
+                <img src="/hokodai_3.jpg" alt="lamyco2" />
               </div>
               <div className="col-lg-3 col-xs-6">
-                <img src="/mokin2.jpg" alt="lamyco2" />
+                <img src="/mokin_2.jpg" alt="lamyco2" />
               </div>
               <div className="col-lg-3 col-xs-6">
-                <img src="/lamyco2.jpg" alt="lamyco2" />
+                <img src="/lamyco_2.jpg" alt="lamyco2" />
               </div>
             </div>
           </div>

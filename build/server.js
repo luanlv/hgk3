@@ -197,29 +197,17 @@ var _ref = _jsx("span", {
   id: "mobile_btn"
 }, void 0, "\xA0");
 
-var _ref2 = _jsx("ul", {
-  className: "clearfix"
-}, void 0, _jsx("li", {
-  className: true
-}, void 0, _jsx("a", {
-  href: "/cua-hang"
-}, void 0, "M\xC1Y L\u1ECCC N\u01AF\u1EDAC")), _jsx("li", {
-  className: true
-}, void 0, _jsx("a", {
-  href: "/linh-kien"
-}, void 0, "PH\u1EE4 KI\u1EC6N M\xC1Y L\u1ECCC N\u01AF\u1EDAC")));
-
-var _ref3 = _jsx("li", {
+var _ref2 = _jsx("li", {
   className: "pickup"
 }, void 0, _jsx("a", {
   href: "/phan-phoi"
 }, void 0, "H\u1EC7 th\u1ED1ng", _jsx("br", {}), " ph\xE2n ph\u1ED1i"));
 
-var _ref4 = _jsx("li", {});
+var _ref3 = _jsx("li", {});
 
-var _ref5 = _jsx("hr", {});
+var _ref4 = _jsx("hr", {});
 
-var _ref6 = _jsx("div", {
+var _ref5 = _jsx("div", {
   className: "footer-menu-mobile"
 }, void 0, _jsx("div", {
   className: "container"
@@ -286,13 +274,13 @@ var _ref6 = _jsx("div", {
   className: "icon-arrow"
 }))), _jsx("li", {}))));
 
-var _ref7 = _jsx("div", {
+var _ref6 = _jsx("div", {
   className: "clearfix"
 });
 
-var _ref8 = _jsx("h3", {}, void 0, "Gi\u1EDBi thi\u1EC7u");
+var _ref7 = _jsx("h3", {}, void 0, "Gi\u1EDBi thi\u1EC7u");
 
-var _ref9 = _jsx("ul", {}, void 0, _jsx("li", {}, void 0, _jsx("a", {
+var _ref8 = _jsx("ul", {}, void 0, _jsx("li", {}, void 0, _jsx("a", {
   href: "/gioi-thieu"
 }, void 0, "V\u1EC1 ch\xFAng t\xF4i")), _jsx("li", {}, void 0, _jsx("a", {
   href: "/gia-tri-cot-loi"
@@ -300,29 +288,29 @@ var _ref9 = _jsx("ul", {}, void 0, _jsx("li", {}, void 0, _jsx("a", {
   href: "/tam-nhin-su-menh"
 }, void 0, "T\u1EA7m nh\xECn v\xE0 S\u1EE9 m\u1EC7nh")));
 
-var _ref10 = _jsx("h3", {}, void 0, _jsx("a", {
+var _ref9 = _jsx("h3", {}, void 0, _jsx("a", {
   href: "#tin-tuc-cc3"
 }, void 0, "Tin t\u1EE9c"));
 
-var _ref11 = _jsx("ul", {}, void 0, _jsx("li", {}, void 0, _jsx("a", {
+var _ref10 = _jsx("ul", {}, void 0, _jsx("li", {}, void 0, _jsx("a", {
   href: "/tin-tuc"
 }, void 0, "Tin s\u1EA3n ph\u1EA9m")), _jsx("li", {}, void 0, _jsx("a", {
   href: "/tin-tuc"
 }, void 0, "Tin khuy\u1EBFn m\xE3i")));
 
-var _ref12 = _jsx("h3", {}, void 0, _jsx("a", {
+var _ref11 = _jsx("h3", {}, void 0, _jsx("a", {
   href: "#ban-co-biet-cc16"
 }, void 0, "B\u1EA1n c\xF3 bi\u1EBFt"));
 
-var _ref13 = _jsx("ul", {}, void 0, _jsx("li", {}, void 0, _jsx("a", {
+var _ref12 = _jsx("ul", {}, void 0, _jsx("li", {}, void 0, _jsx("a", {
   href: "/tin-tuc"
 }, void 0, "Hi\u1EC3u v\u1EC1 n\u01B0\u1EDBc")), _jsx("li", {}, void 0, _jsx("a", {
   href: "/tin-tuc"
 }, void 0, "N\u01B0\u1EDBc v\xE0 s\u1EE9c kh\u1ECFe")));
 
-var _ref14 = _jsx("h3", {}, void 0, "Li\xEAn h\u1EC7");
+var _ref13 = _jsx("h3", {}, void 0, "Li\xEAn h\u1EC7");
 
-var _ref15 = _jsx("ul", {}, void 0, _jsx("li", {}, void 0, _jsx("span", {}, void 0, _jsx("img", {
+var _ref14 = _jsx("ul", {}, void 0, _jsx("li", {}, void 0, _jsx("span", {}, void 0, _jsx("img", {
   src: "phone.png"
 })), _jsx("span", {}, void 0, "0911 535 999")), _jsx("li", {
   className: "clearfix"
@@ -342,14 +330,14 @@ var _ref15 = _jsx("ul", {}, void 0, _jsx("li", {}, void 0, _jsx("span", {}, void
   src: "plus.png"
 }))));
 
-var _ref16 = _jsx("div", {
+var _ref15 = _jsx("div", {
   id: "goToTop"
 }, void 0, _jsx("i", {
   className: "fa fa-angle-up fa-3x",
   "aria-hidden": "true"
 }));
 
-var _ref17 = _jsx("li", {}, void 0, _jsx("a", {
+var _ref16 = _jsx("li", {}, void 0, _jsx("a", {
   href: "#",
   title: "DMCA.com Protection Status",
   className: "dmca-badge"
@@ -358,9 +346,9 @@ var _ref17 = _jsx("li", {}, void 0, _jsx("a", {
   alt: "DMCA.com Protection Status"
 })), " ");
 
-var _ref18 = _jsx("li", {}, void 0, "B\u1EA3n quy\u1EC1n thu\u1ED9c v\u1EC1 C\xF4ng ty Ho\xE0ng Gia Kh\xE1nh");
+var _ref17 = _jsx("li", {}, void 0, "B\u1EA3n quy\u1EC1n thu\u1ED9c v\u1EC1 C\xF4ng ty Ho\xE0ng Gia Kh\xE1nh");
 
-var _ref19 = _jsx("div", {
+var _ref18 = _jsx("div", {
   className: "footer-mobile"
 }, void 0, _jsx("div", {
   id: "copyright_wrapper"
@@ -429,11 +417,16 @@ class Layout extends __WEBPACK_IMPORTED_MODULE_0_react___default.a.Component {
       href: "/gioi-thieu",
       style: { lineHeight: '40px !important' }
     }, void 0, "Gi\u1EDBi thi\u1EC7u")), _jsx("li", {
-      className: "unclickable"
+      className: true
     }, void 0, _jsx("a", {
-      href: "#",
+      href: "/cua-hang",
       style: { lineHeight: '40px !important' }
-    }, void 0, "S\u1EA3n ph\u1EA9m"), _ref2), _ref3, _jsx("li", {
+    }, void 0, "M\xE1y l\u1ECDc nu\u1EDBc")), _jsx("li", {
+      className: true
+    }, void 0, _jsx("a", {
+      href: "/linh-kien",
+      style: { lineHeight: '40px !important' }
+    }, void 0, "Linh ki\u1EC7n")), _ref2, _jsx("li", {
       className: "pickup"
     }, void 0, _jsx("a", {
       href: "/tin-tuc",
@@ -443,26 +436,26 @@ class Layout extends __WEBPACK_IMPORTED_MODULE_0_react___default.a.Component {
     }, void 0, _jsx("a", {
       href: "/lien-he",
       style: { lineHeight: '40px !important' }
-    }, void 0, "Li\xEAn h\u1EC7")), _ref4))))), this.props.children, _ref5, _jsx("div", {
+    }, void 0, "Li\xEAn h\u1EC7")), _ref3))))), this.props.children, _ref4, _jsx("div", {
       id: "footer_wrapper"
     }, void 0, _jsx("div", {
       id: "footer",
       className: "main clearfix"
-    }, void 0, _ref6, _ref7, _jsx("div", {
+    }, void 0, _ref5, _ref6, _jsx("div", {
       className: "footer-menu-desktop clearfix"
     }, void 0, _jsx("div", {
       className: "footer_box",
       style: { paddingLeft: 22 }
-    }, void 0, _ref8, _ref9), _jsx("div", {
+    }, void 0, _ref7, _ref8), _jsx("div", {
       className: "footer_box",
       style: { paddingLeft: 60 }
-    }, void 0, _ref10, _ref11), _jsx("div", {
+    }, void 0, _ref9, _ref10), _jsx("div", {
       className: "footer_box",
       style: { paddingLeft: 60 }
-    }, void 0, _ref12, _ref13), _jsx("div", {
+    }, void 0, _ref11, _ref12), _jsx("div", {
       className: "footer_box",
       style: { paddingLeft: 100 }
-    }, void 0, _ref14, _ref15)))), _ref16, _jsx("div", {
+    }, void 0, _ref13, _ref14)))), _ref15, _jsx("div", {
       className: "footer-desktop"
     }, void 0, _jsx("div", {
       id: "copyright_wrapper"
@@ -471,7 +464,7 @@ class Layout extends __WEBPACK_IMPORTED_MODULE_0_react___default.a.Component {
       className: "main"
     }, void 0, _jsx("ul", {
       style: { color: 'white' }
-    }, void 0, _ref17, _jsx("li", {}, void 0, _jsx("a", {
+    }, void 0, _ref16, _jsx("li", {}, void 0, _jsx("a", {
       rel: "nofollow",
       href: "#",
       style: { color: 'white' }
@@ -479,7 +472,7 @@ class Layout extends __WEBPACK_IMPORTED_MODULE_0_react___default.a.Component {
       rel: "nofollow",
       href: "#",
       style: { color: 'white' }
-    }, void 0, "Li\xEAn h\u1EC7")), _ref18)))), _ref19);
+    }, void 0, "Li\xEAn h\u1EC7")), _ref17)))), _ref18);
   }
 }
 
@@ -17259,22 +17252,22 @@ var _ref6 = _jsx('div', {
 }, void 0, _jsx('div', {
   className: 'col-lg-3 col-xs-6 '
 }, void 0, _jsx('img', {
-  src: '/otawa2.jpg',
+  src: '/otawa_2.jpg',
   alt: 'lamyco2'
 })), _jsx('div', {
   className: 'col-lg-3 col-xs-6'
 }, void 0, _jsx('img', {
-  src: '/hokodai2.jpg',
+  src: '/hokodai_3.jpg',
   alt: 'lamyco2'
 })), _jsx('div', {
   className: 'col-lg-3 col-xs-6'
 }, void 0, _jsx('img', {
-  src: '/mokin2.jpg',
+  src: '/mokin_2.jpg',
   alt: 'lamyco2'
 })), _jsx('div', {
   className: 'col-lg-3 col-xs-6'
 }, void 0, _jsx('img', {
-  src: '/lamyco2.jpg',
+  src: '/lamyco_2.jpg',
   alt: 'lamyco2'
 }))));
 

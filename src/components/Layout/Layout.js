@@ -48,18 +48,23 @@ class Layout extends React.Component {
                   <li className>
                     <a href="/gioi-thieu" style={{lineHeight: '40px !important'}}>Giới thiệu</a>
                   </li>
-
-                  <li className="unclickable">
-                    <a href="#" style={{lineHeight: '40px !important'}}>Sản phẩm</a>
-                    <ul className="clearfix">
-                      <li className>
-                        <a href="/cua-hang">MÁY LỌC NƯỚC</a>
-                      </li>
-                      <li className>
-                        <a href="/linh-kien">PHỤ KIỆN MÁY LỌC NƯỚC</a>
-                      </li>
-                    </ul>
+                  <li className>
+                    <a href="/cua-hang" style={{lineHeight: '40px !important'}}>Máy lọc nuớc</a>
                   </li>
+                  <li className>
+                  <a href="/linh-kien" style={{lineHeight: '40px !important'}}>Linh kiện</a>
+                </li>
+                  {/*<li className="unclickable">*/}
+                    {/*<a href="#" style={{lineHeight: '40px !important'}}>Sản phẩm</a>*/}
+                    {/*<ul className="clearfix">*/}
+                      {/*<li className>*/}
+                        {/*<a href="/cua-hang">MÁY LỌC NƯỚC</a>*/}
+                      {/*</li>*/}
+                      {/*<li className>*/}
+                        {/*<a href="/linh-kien">PHỤ KIỆN MÁY LỌC NƯỚC</a>*/}
+                      {/*</li>*/}
+                    {/*</ul>*/}
+                  {/*</li>*/}
 
                   <li className="pickup">
                     <a href="/phan-phoi">Hệ thống<br /> phân phối</a>
