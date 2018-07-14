@@ -1,41 +1,41 @@
 {
   "admin": {
-    "js": "/assets/admin.b2773981.chunk.js"
+    "js": "/assets/admin.ea4e3e4b.chunk.js"
   },
   "about": {
-    "js": "/assets/about.bbef973c.chunk.js"
+    "js": "/assets/about.a81b682c.chunk.js"
   },
   "shop": {
-    "js": "/assets/shop.3fcc3c25.chunk.js"
+    "js": "/assets/shop.0af445e7.chunk.js"
   },
   "news": {
     "js": "/assets/news.844484bc.chunk.js"
   },
   "contact": {
-    "js": "/assets/contact.bf1f0b57.chunk.js"
+    "js": "/assets/contact.c6c0ba18.chunk.js"
   },
   "checkout": {
-    "js": "/assets/checkout.9cd42ea1.chunk.js"
+    "js": "/assets/checkout.7ee8b82f.chunk.js"
   },
   "cart": {
-    "js": "/assets/cart.5aea990e.chunk.js"
+    "js": "/assets/cart.099ac555.chunk.js"
   },
   "sanpham": {
-    "js": "/assets/sanpham.5f9042d3.chunk.js"
+    "js": "/assets/sanpham.8efd3887.chunk.js"
   },
   "phanphoi": {
-    "js": "/assets/phanphoi.dd34075f.chunk.js"
+    "js": "/assets/phanphoi.d7a6339d.chunk.js"
   },
   "newsDetail": {
-    "js": "/assets/newsDetail.c69a2dcb.chunk.js"
+    "js": "/assets/newsDetail.ca212913.chunk.js"
   },
   "linhkien": {
-    "js": "/assets/linhkien.22968378.chunk.js"
+    "js": "/assets/linhkien.4c76c7f2.chunk.js"
   },
   "client": {
-    "js": "/assets/client.5fb98df0.js"
+    "js": "/assets/client.6c6963dc.js"
   },
   "vendor": {
-    "js": "/assets/vendor.3d41da73.js"
+    "js": "/assets/vendor.09b32a54.js"
   }
 }

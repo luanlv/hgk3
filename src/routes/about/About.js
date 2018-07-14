@@ -55,7 +55,7 @@ class About extends React.Component {
                 <p style={{textAlign: 'justify'}}>
                   <span style={{fontSize: 12}}><span style={{fontFamily: 'arial,helvetica,sans-serif'}}>Tính thời điểm hiện tại máy lọc nước tốt nhất của Hoàng Gia Khánh đã có mặt tại 3000 điểm bản lẻ và phủ rộng trên trên toàn quốc. Sản phẩm được xuất khẩu rộng rãi ra thị trường quốc tế (Trung Quốc, Campuchia, Lào, Myanmar, Trung Đông, Mỹ Latinh…)</span></span></p>
                 <p style={{textAlign: 'right'}}>
-                  <span style={{fontSize: 12}}><span style={{fontFamily: 'arial,helvetica,sans-serif'}}><em>Nguồn:<a href="https://hoanggiakhanh.com" target="_blank" title="hoanggiakhanh.com">hoanggiakhanh.com</a></em></span></span></p></div>
+                  <span style={{fontSize: 12}}><span style={{fontFamily: 'arial,helvetica,sans-serif'}}><em>Nguồn:<a href="http://hoanggiakhanh.com" target="_blank" title="hoanggiakhanh.com">hoanggiakhanh.com</a></em></span></span></p></div>
         </div>
         <div className="t-main_sidebar col-md-3">
           <h3 className="title-sigle-right">

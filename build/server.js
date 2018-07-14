@@ -5935,7 +5935,7 @@ var _ref7 = _jsx('strong', {}, void 0, 'm\xE1y l\u1ECDc n\u01B0\u1EDBc Ho\xE0ng 
 var _ref8 = _jsx('strong', {}, void 0, 'm\xE1y l\u1ECDc n\u01B0\u1EDBc th\xF4ng minh iRO');
 
 var _ref9 = _jsx('em', {}, void 0, 'Ngu\u1ED3n:', _jsx('a', {
-  href: 'https://hoanggiakhanh.com',
+  href: 'http://hoanggiakhanh.com',
   target: '_blank',
   title: 'hoanggiakhanh.com'
 }, void 0, 'hoanggiakhanh.com'));
@@ -6246,7 +6246,7 @@ var _ref8 = _jsx('strong', {}, void 0, _jsx('em', {}, void 0, 'T\xF4n tr\u1ECDng
 var _ref9 = _jsx('strong', {}, void 0, _jsx('em', {}, void 0, 'Tr\xE1ch nhi\u1EC7m x\xE3 h\u1ED9i: '));
 
 var _ref10 = _jsx('em', {}, void 0, 'Ngu\u1ED3n:', _jsx('a', {
-  href: 'https://hoanggiakhanh.com',
+  href: 'http://hoanggiakhanh.com',
   target: '_blank',
   title: 'hoanggiakhanh.com'
 }, void 0, 'hoanggiakhanh.com'));
@@ -6295,37 +6295,37 @@ function About(props) {
     style: { fontSize: 12 }
   }, void 0, _jsx('span', {
     style: { fontFamily: 'arial,helvetica,sans-serif' }
-  }, void 0, _ref4, ': Ch\u1EEF t\xEDn lu\xF4n \u0111\u01B0\u1EE3c \u0111\u1EC1 cao trong c\xE1c m\u1ED1i quan h\u1EC7\u2026 v\xE0 NI\u1EC0M TIN l\xE0 gi\xE1 tr\u1ECB cao nh\u1EA5t m\xE0 Karofi mu\u1ED1n x\xE2y d\u1EF1ng v\xE0 g\xECn gi\u1EEF.'))), _jsx('p', {
+  }, void 0, _ref4, ': Ch\u1EEF t\xEDn lu\xF4n \u0111\u01B0\u1EE3c \u0111\u1EC1 cao trong c\xE1c m\u1ED1i quan h\u1EC7\u2026 v\xE0 NI\u1EC0M TIN l\xE0 gi\xE1 tr\u1ECB cao nh\u1EA5t m\xE0 Ho\xE0ng Gia Kh\xE1nh mu\u1ED1n x\xE2y d\u1EF1ng v\xE0 g\xECn gi\u1EEF.'))), _jsx('p', {
     style: { textAlign: 'justify' }
   }, void 0, _jsx('span', {
     style: { fontSize: 12 }
   }, void 0, _jsx('span', {
     style: { fontFamily: 'arial,helvetica,sans-serif' }
-  }, void 0, _ref5, ': c\u1EA3i ti\u1EBFn, s\xE1ng t\u1EA1o l\xE0 ho\u1EA1t \u0111\u1ED9ng li\xEAn t\u1EE5c c\u1EE7a c\xF4ng ty, c\u1EE7a m\u1ED7i th\xE0nh vi\xEAn nh\u1EB1m \u0111\u01B0a ra nh\u1EEFng gi\u1EA3i ph\xE1p t\u1ED1t h\u01A1n. Karofi ti\xEAn phong s\xE1ng t\u1EA1o nh\u1EEFng s\u1EA3n ph\u1EA9m v\xE0 d\u1ECBch v\u1EE5 t\u1ED1t nh\u1EA5t nh\u1EB1m b\u1EA3o v\u1EC7 s\u1EE9c kh\u1ECFe m\u1ECDi ng\u01B0\u1EDDi.'))), _jsx('p', {
+  }, void 0, _ref5, ': c\u1EA3i ti\u1EBFn, s\xE1ng t\u1EA1o l\xE0 ho\u1EA1t \u0111\u1ED9ng li\xEAn t\u1EE5c c\u1EE7a c\xF4ng ty, c\u1EE7a m\u1ED7i th\xE0nh vi\xEAn nh\u1EB1m \u0111\u01B0a ra nh\u1EEFng gi\u1EA3i ph\xE1p t\u1ED1t h\u01A1n. Ho\xE0ng Gia Kh\xE1nh ti\xEAn phong s\xE1ng t\u1EA1o nh\u1EEFng s\u1EA3n ph\u1EA9m v\xE0 d\u1ECBch v\u1EE5 t\u1ED1t nh\u1EA5t nh\u1EB1m b\u1EA3o v\u1EC7 s\u1EE9c kh\u1ECFe m\u1ECDi ng\u01B0\u1EDDi.'))), _jsx('p', {
     style: { textAlign: 'justify' }
   }, void 0, _jsx('span', {
     style: { fontSize: 12 }
   }, void 0, _jsx('span', {
     style: { fontFamily: 'arial,helvetica,sans-serif' }
-  }, void 0, _ref6, 'D\u01B0\u1EDBi \u0111\u01B0\u1EDDng l\u1ED1i chi\u1EBFn l\u01B0\u1EE3c t\u1EEB t\u1EADp \u0111o\xE0n v\xE0 Ban l\xE3nh \u0111\u1EA1o, Karofi lu\xF4n ph\u1EA5n \u0111\u1EA5u d\u1EABn \u0111\u1EA7u kh\xF4ng nh\u1EEFng v\u1EC1 ch\u1EA5t l\u01B0\u1EE3ng h\xE0ng h\xF3a, d\u1ECBch v\u1EE5 m\xE0 c\xF2n c\u1EA3 v\u1EC1 tr\xE1ch nhi\u1EC7m v\u1EDBi c\u1ED9ng \u0111\u1ED3ng, x\xE3 h\u1ED9i.'))), _jsx('p', {
+  }, void 0, _ref6, 'D\u01B0\u1EDBi \u0111\u01B0\u1EDDng l\u1ED1i chi\u1EBFn l\u01B0\u1EE3c t\u1EEB t\u1EADp \u0111o\xE0n v\xE0 Ban l\xE3nh \u0111\u1EA1o, Ho\xE0ng Gia Kh\xE1nh lu\xF4n ph\u1EA5n \u0111\u1EA5u d\u1EABn \u0111\u1EA7u kh\xF4ng nh\u1EEFng v\u1EC1 ch\u1EA5t l\u01B0\u1EE3ng h\xE0ng h\xF3a, d\u1ECBch v\u1EE5 m\xE0 c\xF2n c\u1EA3 v\u1EC1 tr\xE1ch nhi\u1EC7m v\u1EDBi c\u1ED9ng \u0111\u1ED3ng, x\xE3 h\u1ED9i.'))), _jsx('p', {
     style: { textAlign: 'justify' }
   }, void 0, _jsx('span', {
     style: { fontSize: 12 }
   }, void 0, _jsx('span', {
     style: { fontFamily: 'arial,helvetica,sans-serif' }
-  }, void 0, _ref7, ': Trong \u0111\u1ECBnh h\u01B0\u1EDBng \u0111\u01B0\u1EDDng l\u1ED1i ph\xE1t tri\u1EC3n, Karofi lu\xF4n ki\xEAn \u0111\u1ECBnh \u0111i theo m\u1ED9t l\u1ED9 tr\xECnh nh\u1EA5t qu\xE1n, c\u0169ng nh\u01B0 ph\u1EA5n \u0111\u1EA5u h\u1EBFt m\xECnh v\xEC m\u1EE5c ti\xEAu \u0111\xF3.'))), _jsx('p', {
+  }, void 0, _ref7, ': Trong \u0111\u1ECBnh h\u01B0\u1EDBng \u0111\u01B0\u1EDDng l\u1ED1i ph\xE1t tri\u1EC3n, Ho\xE0ng Gia Kh\xE1nh lu\xF4n ki\xEAn \u0111\u1ECBnh \u0111i theo m\u1ED9t l\u1ED9 tr\xECnh nh\u1EA5t qu\xE1n, c\u0169ng nh\u01B0 ph\u1EA5n \u0111\u1EA5u h\u1EBFt m\xECnh v\xEC m\u1EE5c ti\xEAu \u0111\xF3.'))), _jsx('p', {
     style: { textAlign: 'justify' }
   }, void 0, _jsx('span', {
     style: { fontSize: 12 }
   }, void 0, _jsx('span', {
     style: { fontFamily: 'arial,helvetica,sans-serif' }
-  }, void 0, _ref8, ': V\u1EDBi quan ni\u1EC7m ph\xE1t tri\u1EC3n con ng\u01B0\u1EDDi ch\xEDnh l\xE0 ph\xE1t tri\u1EC3n b\u1EC1n v\u1EEFng. Karofi lu\xF4n ch\xFA tr\u1ECDng \u0111\u1EA7u t\u01B0 \u0111\u1EC3 m\u1ED7i c\xE1 nh\xE2n c\xF3 \u0111\u01B0\u1EE3c nh\u1EEFng c\u01A1 h\u1ED9i t\u1ED1t nh\u1EA5t ph\xE1t tri\u1EC3n b\u1EA3n th\xE2n v\xE0 s\u1EF1 nghi\u1EC7p. V\u1EA5n \u0111\u1EC1 ch\u0103m s\xF3c \u0111\u1EDDi s\u1ED1ng tinh th\u1EA7n cho c\xE1n b\u1ED9 nh\xE2n vi\xEAn c\u0169ng \u0111\u01B0\u1EE3c ban l\xE3nh \u0111\u1EA1o \u0111\u1EB7c bi\u1EC7t quan t\xE2m.'))), _jsx('p', {
+  }, void 0, _ref8, ': V\u1EDBi quan ni\u1EC7m ph\xE1t tri\u1EC3n con ng\u01B0\u1EDDi ch\xEDnh l\xE0 ph\xE1t tri\u1EC3n b\u1EC1n v\u1EEFng. Ho\xE0ng Gia Kh\xE1nh lu\xF4n ch\xFA tr\u1ECDng \u0111\u1EA7u t\u01B0 \u0111\u1EC3 m\u1ED7i c\xE1 nh\xE2n c\xF3 \u0111\u01B0\u1EE3c nh\u1EEFng c\u01A1 h\u1ED9i t\u1ED1t nh\u1EA5t ph\xE1t tri\u1EC3n b\u1EA3n th\xE2n v\xE0 s\u1EF1 nghi\u1EC7p. V\u1EA5n \u0111\u1EC1 ch\u0103m s\xF3c \u0111\u1EDDi s\u1ED1ng tinh th\u1EA7n cho c\xE1n b\u1ED9 nh\xE2n vi\xEAn c\u0169ng \u0111\u01B0\u1EE3c ban l\xE3nh \u0111\u1EA1o \u0111\u1EB7c bi\u1EC7t quan t\xE2m.'))), _jsx('p', {
     style: { textAlign: 'justify' }
   }, void 0, _jsx('span', {
     style: { fontSize: 12 }
   }, void 0, _jsx('span', {
     style: { fontFamily: 'arial,helvetica,sans-serif' }
-  }, void 0, _ref9, 'Karofi lu\xF4n c\u1ED1ng hi\u1EBFn cho x\xE3 h\u1ED9i v\u1EDBi tr\u1ECDng tr\xE1ch l\u1EDBn l\xE0 b\u1EA3o v\u1EC7 s\u1EE9c kh\u1ECFe m\u1ECDi gia \u0111\xECnh. Ngo\xE0i ra, trong s\u1EF1 ph\xE1t tri\u1EC3n c\u1EE7a Karofi kh\xF4ng th\u1EC3 thi\u1EBFu \u0111\u01B0\u1EE3c nh\u1EEFng ho\u1EA1t \u0111\u1ED9ng g\u1EAFn m\xECnh v\u1EDBi c\xF4ng t\xE1c x\xE3 h\u1ED9i, t\u1EEB thi\u1EC7n\u2026 g\xF3p ph\u1EA7n v\xEC m\u1ED9t x\xE3 h\u1ED9i t\u1ED1t \u0111\u1EB9p h\u01A1n.'))), _jsx('p', {
+  }, void 0, _ref9, 'Ho\xE0ng Gia Kh\xE1nh lu\xF4n c\u1ED1ng hi\u1EBFn cho x\xE3 h\u1ED9i v\u1EDBi tr\u1ECDng tr\xE1ch l\u1EDBn l\xE0 b\u1EA3o v\u1EC7 s\u1EE9c kh\u1ECFe m\u1ECDi gia \u0111\xECnh. Ngo\xE0i ra, trong s\u1EF1 ph\xE1t tri\u1EC3n c\u1EE7a Ho\xE0ng Gia Kh\xE1nh kh\xF4ng th\u1EC3 thi\u1EBFu \u0111\u01B0\u1EE3c nh\u1EEFng ho\u1EA1t \u0111\u1ED9ng g\u1EAFn m\xECnh v\u1EDBi c\xF4ng t\xE1c x\xE3 h\u1ED9i, t\u1EEB thi\u1EC7n\u2026 g\xF3p ph\u1EA7n v\xEC m\u1ED9t x\xE3 h\u1ED9i t\u1ED1t \u0111\u1EB9p h\u01A1n.'))), _jsx('p', {
     style: { textAlign: 'right' }
   }, void 0, _jsx('span', {
     style: { fontSize: 12 }
@@ -6543,7 +6543,7 @@ var _ref6 = _jsx('a', {
 var _ref7 = _jsx('strong', {}, void 0, 'S\u1EE9 m\u1EC7nh');
 
 var _ref8 = _jsx('em', {}, void 0, 'Ngu\u1ED3n:', _jsx('a', {
-  href: 'https://hoanggiakhanh.com',
+  href: 'http://hoanggiakhanh.com',
   target: '_blank',
   title: 'hoanggiakhanh.com'
 }, void 0, 'hoanggiakhanh.com'));
@@ -6594,7 +6594,7 @@ function About(props) {
     style: { fontSize: 14 }
   }, void 0, _ref4))), _jsx('p', {
     style: { textAlign: 'justify' }
-  }, void 0, 'T\u1EEB nh\u1EEFng th\xE0nh c\xF4ng \u0111\xE3 \u0111\u1EA1t \u0111\u01B0\u1EE3c, KAROFI ti\u1EBFp t\u1EE5c m\u1EDF r\u1ED9ng, ph\xE1t tri\u1EC3n v\u1EDBi m\u1EE5c ti\xEAu tr\u1EDF th\xE0nh top 5 th\u01B0\u01A1ng hi\u1EC7u t\u1EA1i \u0110NA \u0111\u1EBFn n\u0103m 2020 v\xE0 TOP 5 th\u01B0\u01A1ng hi\u1EC7u t\u1EA1i Ch\xE2u \xC1 s\u1EA3n ph\u1EA9m thi\u1EBFt b\u1ECB v\u1EC1 m\xF4i tr\u01B0\u1EDDng (', _ref5, ', ', _ref6, '\u2026)'), _jsx('h2', {
+  }, void 0, 'T\u1EEB nh\u1EEFng th\xE0nh c\xF4ng \u0111\xE3 \u0111\u1EA1t \u0111\u01B0\u1EE3c, Ho\xE0ng Gia Kh\xE1nh ti\u1EBFp t\u1EE5c m\u1EDF r\u1ED9ng, ph\xE1t tri\u1EC3n v\u1EDBi m\u1EE5c ti\xEAu tr\u1EDF th\xE0nh top 5 th\u01B0\u01A1ng hi\u1EC7u t\u1EA1i \u0110NA \u0111\u1EBFn n\u0103m 2020 v\xE0 TOP 5 th\u01B0\u01A1ng hi\u1EC7u t\u1EA1i Ch\xE2u \xC1 s\u1EA3n ph\u1EA9m thi\u1EBFt b\u1ECB v\u1EC1 m\xF4i tr\u01B0\u1EDDng (', _ref5, ', ', _ref6, '\u2026)'), _jsx('h2', {
     style: { textAlign: 'justify' }
   }, void 0, _jsx('span', {
     style: { fontFamily: 'arial,helvetica,sans-serif' }

@@ -37,13 +37,13 @@ class About extends React.Component {
               <div className="baiviet"><h2 style={{textAlign: 'justify'}}>
                 <span style={{fontFamily: 'arial,helvetica,sans-serif'}}><span style={{fontSize: 14}}><strong>Tầm nhìn</strong></span></span></h2>
                 <p style={{textAlign: 'justify'}}>
-                  Từ những thành công đã đạt được, KAROFI tiếp tục mở rộng, phát triển với mục tiêu trở thành top 5 thương hiệu tại ĐNA đến năm 2020 và TOP 5 thương hiệu tại Châu Á sản phẩm thiết bị về môi trường (<a href="https://karofi.com/may-loc-nuoc-28">Máy lọc nước</a>, <a href="https://karofi.com/cay-nuoc-nong-lanh-13">Cây nước nóng lạnh</a>…)</p>
+                  Từ những thành công đã đạt được, Hoàng Gia Khánh tiếp tục mở rộng, phát triển với mục tiêu trở thành top 5 thương hiệu tại ĐNA đến năm 2020 và TOP 5 thương hiệu tại Châu Á sản phẩm thiết bị về môi trường (<a href="https://karofi.com/may-loc-nuoc-28">Máy lọc nước</a>, <a href="https://karofi.com/cay-nuoc-nong-lanh-13">Cây nước nóng lạnh</a>…)</p>
                 <h2 style={{textAlign: 'justify'}}>
                   <span style={{fontFamily: 'arial,helvetica,sans-serif'}}><span style={{fontSize: 14}}><strong>Sứ mệnh</strong></span></span></h2>
                 <p style={{textAlign: 'justify'}}>
                   Tạo ra những giá trị khác biệt đóng góp cho cuộc sống hạnh phúc hơn của mọi người trên hành tinh xanh tươi đẹp.</p>
                 <p style={{textAlign: 'right'}}>
-                  <em>Nguồn:<a href="https://hoanggiakhanh.com" target="_blank" title="hoanggiakhanh.com">hoanggiakhanh.com</a></em></p></div>
+                  <em>Nguồn:<a href="http://hoanggiakhanh.com" target="_blank" title="hoanggiakhanh.com">hoanggiakhanh.com</a></em></p></div>
             </div>
         <div className="t-main_sidebar col-md-3">
           <h3 className="title-sigle-right">
